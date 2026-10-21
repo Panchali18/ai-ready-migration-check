@@ -133,4 +133,4 @@ As a manager, I want to ask "Are we ready to go live?", "What's blocking us?" an
 
 ## Out of scope
 
-dbt, Power BI, real data or system connections, orders, products and invoices, cleaning individual contacts, and the agent changing data.
+dbt, Power BI, real data or system connections, orders, products, invoices, sales pipeline, support tickets, cleaning individual contacts, parent-child account hierarchies (branches are rolled up into one customer), and the agent changing data.

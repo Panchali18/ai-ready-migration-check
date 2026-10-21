@@ -4,7 +4,7 @@
 
 > **Demonstration only. All data is synthetic.** Tollmere Software is a fictional company. Any resemblance to a real business is unintended.
 
-**Status:** in build.
+**Status:** in build. Synthetic data, ground truth and the 20 test questions are ready; the Snowflake build has not started.
 
 ## The problem
 
@@ -54,6 +54,16 @@ The same customer often appears differently in each: a head office in one, a bra
 - The agent is read-only.
 - Synthetic data only.
 
+## What's in this repo so far
+
+| Path | What it is |
+|---|---|
+| `docs/scope.md` | Decisions, user stories with acceptance criteria, assumptions and risks |
+| `docs/target-schema.md` | What a customer record must look like before go-live: required fields, formats, blockers and warnings |
+| `docs/business-questions.md` | The 20 sales-director questions asked before and after cleaning, and how answers are scored |
+| `generator/` | Python scripts that create the synthetic data and calculate the correct answers |
+| `data/` | Raw CRM and billing exports with planted errors, and the ground truth used for scoring (see `data/README.md`) |
+
 ## Not in scope
 
-dbt, Power BI, real data or system connections, orders, products and invoices, and the agent changing data.
+dbt, Power BI, real data or system connections, orders, products, invoices, sales pipeline, support tickets, cleaning individual contacts, parent-child account hierarchies (branches are rolled up into one customer), and the agent changing data.
