@@ -336,6 +336,17 @@ for e in linked_active[len(top_values):len(top_values) + N_RESELLER]:
     e["reseller"] = rng.choice(resellers)
     e["role"] = "reseller_trap"
 
+# Contract type: part of the move to subscriptions. Uses its own random stream so
+# adding it changed no other value. Larger customers are slower to move.
+contract_rng = random.Random(SEED + 1)
+for e in entities:
+    if e["status"] != "Active":
+        e["contract_type"] = None
+    else:
+        p_sub = 0.10 if e["acv"] >= 50000 else 0.30
+        e["contract_type"] = "Subscription" if contract_rng.random() < p_sub else "Maintenance"
+demo["contract_type"] = "Maintenance"
+
 # ----------------------------------------------------------------------------
 # 2. Clean raw records (before errors are planted)
 # ----------------------------------------------------------------------------
@@ -365,6 +376,7 @@ def billing_row(e):
         "country": r["country"] if r else e["country"],
         "billing_contact_email": r["billing_email"] if r else e["billing_email"],
         "annual_contract_value_eur": e["acv"] if e["acv"] is not None else "",
+        "contract_type": e["contract_type"] or "",
         "_entity": e,
     }
 
@@ -556,7 +568,7 @@ crm_fields = ["crm_id", "customer_name", "street", "postcode", "city", "country"
               "customer_type", "reseller_name", "account_status", "renewal_date", "account_manager",
               "sales_contact_name", "sales_contact_email", "phone"]
 billing_fields = ["billing_id", "legal_name", "vat_number", "bill_to_name", "invoice_street", "invoice_postcode",
-                  "invoice_city", "country", "billing_contact_email", "annual_contract_value_eur"]
+                  "invoice_city", "country", "billing_contact_email", "annual_contract_value_eur", "contract_type"]
 write(RAW / "crm_customers.csv", crm, crm_fields)
 write(RAW / "billing_customers.csv", billing, billing_fields)
 
@@ -566,6 +578,7 @@ entity_rows = [{
     "customer_type": e["customer_type"], "reseller_name": e["reseller"]["name"] if e["reseller"] else "",
     "account_status": e["status"], "renewal_date": e["renewal"].isoformat(),
     "annual_contract_value_eur": e["acv"] if e["acv"] is not None else "",
+    "contract_type": e["contract_type"] or "",
     "account_manager": e["account_manager"], "sales_contact_name": e["sales_contact_name"],
     "sales_contact_email": e["sales_contact_email"],
     "billing_contact_email": (e["reseller"]["billing_email"] if e["reseller"] else e["billing_email"]) if e["in_billing"] else "",

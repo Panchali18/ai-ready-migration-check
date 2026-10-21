@@ -18,6 +18,7 @@ What every customer record must look like before go-live. Rule checks, AI checks
 | Account status | Yes | Active, Lapsed | Value not in list: blocker. Empty: warning |
 | Renewal date | If active | A valid date, `dd-mm-yyyy` | Blocker |
 | Annual contract value | If active | Euros, greater than 0 | Blocker |
+| Contract type | If active | Maintenance, Subscription | Value not in list: blocker. Empty: warning |
 | Account manager | Yes | A Tollmere employee | Warning |
 | Sales contact name and email | Yes | Valid email | Warning |
 | Billing contact email | If active | Valid email | Blocker |
@@ -37,7 +38,7 @@ What every customer record must look like before go-live. Rule checks, AI checks
 | Address | Yes | Invoice address | Billing wins (for reseller customers this is the reseller's address) |
 | Sector, customer type, reseller, status, renewal date, account manager | Yes | No | CRM only |
 | Sales contact | Yes | No | CRM only |
-| Billing contact email, annual contract value | No | Yes | Billing only |
+| Billing contact email, annual contract value, contract type | No | Yes | Billing only |
 | Phone | Yes | No | CRM only |
 
-Lapsed customers that were never moved to the current billing system exist only in the old CRM. Their VAT number comes from the CRM, and they need no billing email, renewal date or contract value.
+Lapsed customers that were never moved to the current billing system exist only in the old CRM. Their VAT number comes from the CRM, and they need no billing email, contract value or contract type. For a lapsed customer, the renewal date is the date the contract ended.

@@ -16,13 +16,14 @@ Tollmere Software is a fictional 60-person software company in the Netherlands. 
 | D2 | Merging two records | Billing wins legal name, VAT number and invoice address. CRM wins sector, account manager and account status. |
 | D3 | Contacts | Each customer keeps two contacts: a sales contact (from the CRM) and a billing contact (from billing). A merge keeps both. Individual contact cleaning is out of scope. |
 | D4 | Resellers | A reseller is stored in its own field and is never merged with the customer it sells to. |
-| D5 | Picklists | Sector, country, customer type (direct or via reseller) and account status (active or lapsed). Legal form stays part of the company name. |
+| D5 | Picklists | Sector, country, customer type (direct or via reseller), account status (active or lapsed) and contract type (maintenance or subscription). Legal form stays part of the company name. |
 | D6 | GO threshold | GO when there are 0 open blockers and at least 95% of records pass the warning checks. Thresholds are stored in a table and can be changed. |
 | D7 | Region | An EU region where the Cortex AI features are available, chosen on trial day 1. |
 | D8 | Reviewers | One reviewer approves all fixes. No second sign-off. |
 | D9 | Demo | Most fixes are approved in batches before recording; the recording shows the last batch turning NO-GO into GO. The README says so. |
 | D10 | Renewal date | Required for active customers; a blocker if missing. A status that contradicts the renewal date is a warning. |
 | D11 | Picklist values | A value not in the list is a blocker (the new CRM rejects it); an empty value is a warning. |
+| D12 | Contract type | Each active customer is on maintenance (old model) or subscription (new model), held in billing. This tracks the move to subscriptions. |
 
 ## User stories
 
