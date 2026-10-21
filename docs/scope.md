@@ -21,6 +21,8 @@ Tollmere Software is a fictional 60-person software company in the Netherlands. 
 | D7 | Region | An EU region where the Cortex AI features are available, chosen on trial day 1. |
 | D8 | Reviewers | One reviewer approves all fixes. No second sign-off. |
 | D9 | Demo | Most fixes are approved in batches before recording; the recording shows the last batch turning NO-GO into GO. The README says so. |
+| D10 | Renewal date | Required for active customers; a blocker if missing. A status that contradicts the renewal date is a warning. |
+| D11 | Picklist values | A value not in the list is a blocker (the new CRM rejects it); an empty value is a warning. |
 
 ## User stories
 
@@ -29,8 +31,9 @@ Tollmere Software is a fictional 60-person software company in the Netherlands. 
 **US-01 Synthetic source data**
 As the migration lead, I want realistic CRM and billing customer data with known errors, so that every check can be measured against a ground truth.
 - About 2,000 CRM customers and 1,500 billing customers across the Netherlands, Belgium and Germany.
-- Planted error types: fuzzy duplicates across sources, value variants (in Dutch, German, French and English), missing required fields, invalid formats (VAT number, postcode, email) and wrong categories.
-- About 10–15% of records carry at least one error, with at least 30 of each error type.
+- Planted error types: fuzzy duplicates across sources, value variants (in Dutch, German, French and English), missing required fields, invalid formats (VAT number, postcode, email, date), wrong categories and status contradicting renewal date.
+- Two kinds of traps that must not be merged: look-alike companies, and customers billed through a reseller.
+- About 15% of records carry one error, with at least 20 of each error type. The full plan is in `data/README.md`.
 - Every planted error is listed in a ground-truth file with record ID, error type and correct value.
 - One high-value customer is split across records so it drops out of the top 5 by revenue.
 - The generator uses a fixed seed, so it produces the same data every time.
@@ -38,7 +41,7 @@ As the migration lead, I want realistic CRM and billing customer data with known
 
 **US-02 Target schema and data dictionary**
 As the migration lead, I want the new CRM's fields written down, so that "ready" has a fixed definition.
-- Each field has a type, a required yes/no and a format rule. Picklist fields list their allowed values.
+- Each field has a type, a required yes/no and a format rule. Picklist fields list their allowed values. See `docs/target-schema.md`.
 - The dictionary is loaded into Snowflake so the agent can search it (US-12).
 
 **US-03 Go/no-go thresholds**

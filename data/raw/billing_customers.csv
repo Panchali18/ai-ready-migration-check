@@ -1,0 +1,1501 @@
+billing_id,legal_name,vat_number,bill_to_name,invoice_street,invoice_postcode,invoice_city,country,billing_contact_email,annual_contract_value_eur
+BIL-00001,Simons Sanitair B.V.,NL868446134B48,,Maryampad 40,3374 NT,Langezwaag,Netherlands,crediteuren@simonssanitair.nl,5000
+BIL-00002,Devos Groupe SRL,BE0776420059,,Rue Pochet 30,2502,Ottignies,Belgium,factures@devosgroupe.be,5570
+BIL-00003,Jorlink Bouwcentrum B.V.,NL724073270B37,,Naomibaan 994,6925 BL,Hallum,Netherlands,administratie@jorlinkbouwcentrum.nl,
+BIL-00004,Ruppert & Adolph GmbH & Co. KG,DE998882657,,Britta-Briemer-Weg 6/2,36221,Luckau,Germany,rechnung@ruppertadolph.de,13690
+BIL-00005,Rudolph Werkzeughandel GmbH,DE139597095,,Ottoplatz 7,10508,Meppen,Germany,buchhaltung@rudolphwerkzeughandel.de,10700
+BIL-00006,VERSTRAETE & ZONEN NV,BE0295110449,,Rosaweg 327,8965,Klerken,Belgium,crediteuren@verstraetezonen.be,4840
+BIL-00007,Van der Horst Installatietechniek B.V.,NL553081060B47,,Carlijnpad 0,9869 MX,Brakel,Netherlands,facturen@vanderhorstinstallatietechniek.nl,15610
+BIL-00008,Jacobs & Decoster NV - Maasmechelen,BE0735325355,,Johansteeg 0,1840,Maasmechelen,Belgium,facturen@jacobsdecoster.be,14890
+BIL-00009,Lemoine & Renard SA,BE0183862154,,Rue Beckers 136,6927,La Louvière,Belgium,factures@lemoinerenard.be,5260
+BIL-00010,Jansen Groep NV,BE0962972557,,Tamararing 758,3824,Mellet,Belgium,administratie@jansengroep.be,1690
+BIL-00011,Goossens Industrie SA,BE0338836384,,Rue Janssen 10,8711,Mons,Belgium,comptabilite@goossensindustrie.be,1770
+BIL-00012,Aarden Verwarming B.V.,NL534212844B58,,Bramhof 59,5262 GA,Vlagtwedde,Netherlands,facturen@aardenverwarming.nl,15050
+BIL-00013,Greij Installatietechniek B.V.,NL131344962B95,,Woutersingel 204,4053 RP,Triemen,Netherlands,crediteuren@greijinstallatietechniek.nl,1940
+BIL-00014,Koch Elektrotechnik GmbH & Co. KG,DE251237750,,Hannelore-Becker-Platz 87/39,07330,Gunzenhausen,Germany,rechnung@kochelektrotechnik.de,
+BIL-00015,Le Grand Sanitair B.V.,NL588361228B88,,Norapad 445,7607 BL,Hazerswoude-Dorp,Netherlands,facturen@legrandsanitair.nl,3140
+BIL-00016,Fiebig Baustoffe GmbH,DE594101846,,Barbara-Möchlichen-Platz 2460,18567,Wolmirstedt,Germany,rechnung@fiebigbaustoffe.de,14720
+BIL-00017,Horrocks Verwarming B.V.,NL403858342B98,,Guushof 16,9673 HL,Hommerts,Netherlands,facturen@horrocksverwarming.nl,2490
+BIL-00018,Vandewalle Bouwmaterialen BV,BE0445106468,,Erikbaan 05,4064,Jeuk,Belgium,crediteuren@vandewallebouwmaterialen.be,6040
+BIL-00019,Adriaensen & François BV,BE0944284468,,Danielsingel 88,1965,Onze-Lieve-Vrouw-Lombeek,Belgium,facturen@adriaensenfrancois.be,18940
+BIL-00020,Christoph Handel GmbH,DE708347055,,Guteweg 6806,87613,Beilngries,Germany,buchhaltung@christophhandel.de,
+BIL-00021,Schleich Elektrotechnik GmbH,DE441897555,,Gehringerplatz 58,88745,Neunburg vorm Wald,Germany,rechnung@schleichelektrotechnik.de,12420
+BIL-00022,Van Vliet Bouwcentrum B.V.,NL585242269B40,,Dexpad 516,9780 NH,Reitsum,Netherlands,facturen@vanvlietbouwcentrum.nl,6450
+BIL-00023,Reising Baustoffe GmbH,DE869284995,,Regina-Hamann-Allee 55/45,99619,Prenzlau,Germany,buchhaltung@reisingbaustoffe.de,7840
+BIL-00024,Schmiedecke Heizungsbedarf KG,DE408875535,,Södingplatz 3-1,76870,Sangerhausen,Germany,rechnungswesen@schmiedeckeheizungsbedarf.de,21270
+BIL-00025,Killer Sanitär GmbH,DE620507291,,Eduard-Fiebig-Ring 2292,38660,Iserlohn,Germany,rechnung@killersanitar.de,4380
+BIL-00026,Oemencs Industrie B.V.,NL631078882B08,,Nikkibaan 07,4373 CC,Dordrecht,Netherlands,administratie@oemencsindustrie.nl,4440
+BIL-00027,Trommler Elektrogroßhandel GmbH,DE804569703,,Gislinde-Schacht-Platz 5-5,63093,Eisenach,Germany,buchhaltung@trommlerelektrogrohandel.de,5620
+BIL-00028,Drubin Baustoffhandel GmbH & Co. KG,DE796195906,,Herlinde-Schleich-Allee 6638,76727,Freudenstadt,Germany,rechnung@drubinbaustoffhandel.de,14500
+BIL-00029,Wulff Industriebedarf GmbH,DE972663070,,Pruschkegasse 38/69,84713,Siegen,Germany,rechnungswesen@wulffindustriebedarf.de,14860
+BIL-00030,Neven Verwarming NV,BE0640586817,,Charlotteboulevard 865,9497,Bovekerke,Belgium,administratie@nevenverwarming.be,8270
+BIL-00031,Van Dongen Bouwcentrum B.V.,NL642976037B07,,Isaboulevard 837,8505 MN,Triemen,Netherlands,facturen@vandongenbouwcentrum.nl,18720
+BIL-00032,Linschoten Installatietechniek V.O.F.,NL698510766B55,,Kikisingel 982,3667 EM,Tonden,Netherlands,crediteuren@linschoteninstallatietechniek.nl,7330
+BIL-00033,Persijn Elektrogroothandel B.V.,NL364566226B90,,Jannestraat 1,1959 TN,Waal,Netherlands,,5750
+BIL-00034,Claes Verwarming NV,BE0312450556,,Sophiedreef 7,3833,Berzée,Belgium,facturen@claesverwarming.be,5490
+BIL-00035,Van den Brink andel B.V.,NL460764627B07,,Wesleyweg 189,8350 CB,Stad aan 't Haringvliet,Netherlands,administratie@vandenbrinkhandel.nl,7400
+BIL-00036,Louws Installatietechniek B.V.,NL995077335B26,,Caspersteeg 478,7439 ZE,Balloo,Netherlands,crediteuren@louwsinstallatietechniek.nl,2340
+BIL-00037,Meister Handel GmbH,DE692880978,,Andres-Cichorius-Ring 69,28178,Malchin,Germany,rechnung@meisterhandel.de,8570
+BIL-00038,Sterckx Verwarming NV,BE0363598427,,Marinaboulevard 4,6280,Gimnée,Belgium,facturen@sterckxverwarming.be,4980
+BIL-00039,Römer Baustoffe KG,DE835967305,Van Brenen Software Partners B.V.,Larssteeg 08,5012 JE,Cromvoirt,Netherlands,crediteuren@vanbrenensoftwarepartners.nl,7100
+BIL-00040,Verhoeven & Scharroo B.V.,NL725698331B02,Walter Softwarepartner GmbH,Beckmanngasse 43,21993,Dieburg,Germany,rechnung@waltersoftwarepartner.de,6630
+BIL-00041,VanDam Bouwcentrum BV,NL838194420B82,,Ibrahimsteeg 1,4450 MH,Zuidvelde,Netherlands,administratie@vandambouwcentrum.nl,20840
+BIL-00042,Van Ginkel Technie kV.O.F.,NL340658499B43,,Thomlaan 2,5654 WW,Oudorp,Netherlands,administratie@vanginkeltechniek.nl,6240
+BIL-00043,Winkler Sanitär GmbH & Co. KG,DE958406338,,Hans-Uwe-Mies-Allee 48,36814,Kusel,Germany,rechnung@winklersanitar.de,10530
+BIL-00044,Barkholz Heizungsbedarf GmbH & Co. KG,DE174263347,,Eberthweg 20-33,98939,Pfaffenhofen an der Ilm,Germany,rechnungswesen@barkholzheizungsbedarf.de,7650
+BIL-00045,Van Geffen Bouwstoffen B.V.,NL672817675B12,,Renskedreef 774,3050 LZ,Middelharnis,Netherlands,crediteuren@vangeffenbouwstoffen.nl,
+BIL-00046,Collet & Fils SA,BE0879599058,,Rue Paul 14,6033,Wavre,Belgium,factures@colletfils.be,
+BIL-00047,Van Eck Techniek V.O.F.,NL263447025B78,,Bensingel 276,2372 CL,Harfsen,Netherlands,facturen@vanecktechniek.nl,7440
+BIL-00048,Gnatz Baucenter KG,DE577485358,,Hartungallee 708,12880,Neustrelitz,Germany,rechnung@gnatzbaucenter.de,11950
+BIL-00049,Stumpf Elektro KG,DE417217932,,Herta-Wirth-Ring 19,14770,Saarlouis,Germany,rechnungswesen@stumpfelektro.de,7570
+BIL-00050,Van Venrooy & Lutterveld B.V.,101080693B63,,Aidenring 3,6769 TX,Olst,Netherlands,facturen@vanvenrooylutterveld.nl,8400
+BIL-00051,Jansen Industrie BV,BE0140519046,,Bilalpad 8,2544,Lebbeke,Belgium,facturen@jansenindustrie.be,5330
+BIL-00052,De Marduras Techniek V.O.F.,NL835619677B34,,Yusufbaan 7,3886 PM,Ohé en Laak,Netherlands,facturen@demardurastechniek.nl,8590
+BIL-00053,Bogaert Verwarming NV,BE0888582016,,Daniellebaan 8,3919,Bouwel,Belgium,crediteuren@bogaertverwarming.be,9620
+BIL-00054,Ditschlerin Handel GmbH,DE886703684,,Hannelore-Winkler-Platz 8,83585,Badoberan,Germany,rechnungswesen@ditschlerinhandel.de,14250
+BIL-00055,De Bruyn Elektrogroothandel B.V.,NL104594803B02,,Myrthehof 270,1033 ZT,Maarssen,Netherlands,crediteuren@debruynelektrogroothandel.nl,10040
+BIL-00056,Dehmel Technik GmbH & Co. KG,DE29196828,,Heimo-Süßebier-Weg 24-50,35737,Rehau,Germany,buchhaltung@dehmeltechnik.de,6950
+BIL-00057,Uittenbosch Technische Handel B.V.,NL364040072B09,,Rooslaan 48,1980 EE,Lengel,Netherlands,administratie@uittenboschtechnischehandel.nl,3700
+BIL-00058,Junk Handel GmbH,DE724355989,,Budigstraße 8/3,49934,Jülich,Germany,rechnungswesen@junkhandel.de,8390
+BIL-00059,Metz Baustoffe GmbH,DE182748233,,Rosegasse 74-50,33185,Bautzen,Germany,rechnung@metzbaustoffe.de,21770
+BIL-00060,Van Daal & Zonen B.V.,NL206075687B82,,Lizabaan 6,8908 ZL,Leerdam,Netherlands,crediteuren@vandaalzonen.nl,
+BIL-00061,Post Elektro B.V.,NL966935604B14,,Lisahof 65,8111 RB,Deil,Netherlands,crediteuren@postelektro.nl,22870
+BIL-00062,Remmers Bouwmaterialen B.V.,NL714483748B72,,Lizalaan 41,5659 ZZ,Amerongen,Netherlands,facturen@remmersbouwmaterialen.nl,6280
+BIL-00063,Köster & Oversteeg B.V.,NL377032861B99,,Johannapad 92,2049 SG,Gramsbergen,Netherlands,facturen@kosteroversteeg.nl,29610
+BIL-00064,Françoise Groep B.V.,NL214499625B18,,Melissalaan 84,1448 EN,Reuver,Netherlands,administratie@francoisegroep.nl,12190
+BIL-00065,Finke Elektro GmbH & Co. KG,DE781845686,,Rudolphweg 8,29896,Leipziger Land,Germany,rechnung@finkeelektro.de,9560
+BIL-00066,Vink Elektro B.V.,NL133764318B67,,Imranweg 14,1509 VW,Schoonrewoerd,Netherlands,administratie@vinkelektro.nl,9630
+BIL-00067,Ter Waarbeek & Zonen V.O.F.,NL423766892B11,,Puckring 6,6656 PH,Lievelde,Netherlands,administratie@terwaarbeekzonen.nl,2720
+BIL-00068,Bauwens Bouwcentrum,BE0542536154,,Elisering 461,5788,Quévy-le-Petit,Belgium,administratie@bauwensbouwcentrum.be,7560
+BIL-00069,Van der Maath & Zonen B.V.,NL548481302B98,,Jonathanlaan 6,1975 AG,Voorburg,Netherlands,,17110
+BIL-00070,Wolfsdr Installatietechniek B.V.,NL305993653B43,,Timopad 781,4133 NL,Leermens,Netherlands,administratie@wolfsdrinstallatietechniek.nl,18480
+BIL-00071,Hamann Baustoffe KG,DE404077884,,Luise-Reising-Platz 85/23,43942,Vilsbiburg,Germany,rechnungswesen@hamannbaustoffe.de,7670
+BIL-00072,Van Leeuwen Verwarming V.O.F.,NL548108259B31,,Yasmindreef 92,9531 ZJ,Schokland,Netherlands,administratie@vanleeuwenverwarming.nl,8630
+BIL-00073,Schomber & Gieß GmbH,DE595966332,,Kriemhild-Schweitzer-Weg 27/36,92114,Ribnitz-Damgarten,Germany,rechnung@schombergie.de,22470
+BIL-00074,Bosman Industrie V.O.F.,NL789819294B36,,Kyraring 612,7502 GM,Putte,Netherlands,administratie@bosmanindustrie.nl,11830
+BIL-00075,Van Arnsberg Bouwstoffen B.V.,NL930388241B59,,Adamsteeg 67,1231 VR,Deil,Netherlands,facturen@vanarnsbergbouwstoffen.nl,4890
+BIL-00076,Dörr Sanitär KG,DE273762867,,Serge-Martin-Straße 58,35425,Stendal,Germany,buchhaltung@dorrsanitar.de,12910
+BIL-00077,Mans & Söhne KG,DE551706031,,Sahin-Sölzer-Platz 57,69492,Burgdorf,Germany,rechnungswesen@manssohne.de,14210
+BIL-00078,Ackermann & Jähn KG - Pößneck,DE586989309,,Mohauptstraße 83-38,40052,Pößneck,Germany,rechnung@ackermannjahn.de,3280
+BIL-00079,Van Beeck Bouwmaterialen B.V.,NL563020978B55,,Jintheweg 1,2007 SC,Winterswijk Corle,Netherlands,facturen@vanbeeckbouwmaterialen.nl,50150
+BIL-00080,Mülichen Baucenter GmbH,DE756007396,,Wilmsallee 83-24,24069,Wolfach,Germany,rechnungswesen@mulichenbaucenter.de,5310
+BIL-00081,Lindner Elektro GmbH & Co. KG,DE644053844,,Jockelweg 29/19,40425,Klötze,Germany,rechnung@lindnerelektro.de,16340
+BIL-00082,Sanders & Zonen BV,BE0202089278,,Ivanweg 27,5251,Baudour,Belgium,facturen@sanderszonen.be,7560
+BIL-00083,Van Luin Elektrotechniek V.O.F.,NL886808192B46,,Merelboulevard 737,9037 SG,Tersoal,Netherlands,administratie@vanluinelektrotechniek.nl,13900
+BIL-00084,Van der Smeede Technische Handel B.V.,NL730676755B09,,Cornelisbaan 49,8717 CA,Doornspijk,Netherlands,facturen@vandersmeedetechnischehandel.nl,
+BIL-00085,Rörricht & Gude,DE673904893,,Reginald-Pärtzelt-Straße 2/3,09417,Ribnitz-Damgarten,Germany,rechnung@rorrichtgude.de,2790
+BIL-00086,Jurrijens Elektrogroothandel B.V.,NL614302907B52,,Thijsdreef 4,8504 AB,Bruchem,Netherlands,administratie@jurrijenselektrogroothandel.nl,16430
+BIL-00087,Miltenburg Bouwstoffen B.V.,NL736457654B04,,Victoriasingel 6,8336 DE,Westkapelle,Netherlands,administratie@miltenburgbouwstoffen.nl,7510
+BIL-00088,Van den Corput Verwarming B.V.,NL679427414B15,,Jorisweg 42,3267 MJ,Nieuwveen,Netherlands,crediteuren@vandencorputverwarming.nl,21210
+BIL-00089,Van der Plas Elektrogroothandel B.V.,NL672140945B85,,Ninaweg 71,8422 GZ,Roggel,Netherlands,administratie@vanderplaselektrogroothandel.nl,4610
+BIL-00090,Bender Baustoffhandel GmbH,DE324130818,,Horst-Günter-Renner-Platz 8-6,02782,Bad Mergentheim,Germany,buchhaltung@benderbaustoffhandel.de,25030
+BIL-00091,Benthin Elektro GmbH & Co. KG,DE712745501,,Gitte-Dobes-Ring 3-4,32598,Kassel,Germany,rechnungswesen@benthinelektro.de,
+BIL-00092,Jurrijens Sanitair B.V.,NL605777985B42,,Aminsteeg 7,1215 WK,Rutten,Netherlands,administratie@jurrijenssanitair.nl,14900
+BIL-00093,Mude & Söhne GmbH,DE818267208,,Grein Grothstr. 714,16103,Neuruppin,Germany,rechnungswesen@mudesohne.de,11190
+BIL-00094,Seifert & Söhne GmbH & Co.,DE462625117,,Peukertgasse 7,80443,Gadebusch,Germany,rechnungswesen@seifertsohne.de,11010
+BIL-00095,Coppens Verwarming BV,BE0807147441,,Ellaring 0,4399,Sint-Margriete,Belgium,facturen@coppensverwarming.be,9900
+BIL-00096,Walter Elektrotechnik GmbH,DE851050984,,Haeringplatz 3395,43093,Northeim,Germany,rechnung@walterelektrotechnik.de,11990
+BIL-00097,Weihmann Baustoffe GmbH,131734701,,Aurelia-Harloff-Gasse 484,80511,Goslar,Germany,rechnungswesen@weihmannbaustoffe.de,4480
+BIL-00098,Fremie & Butselaar V.O.F.,NL497064285B60,,Iselaan 99,1458 NK,Nederweert-Eind,Netherlands,administratie@fremiebutselaar.nl,21850
+BIL-00099,Gerrits Elektrogroothandel B.V.,NL795602258B81,,Juliusweg 361,6913 SB,Bussum,Netherlands,facturen@gerritselektrogroothandel.nl,5340
+BIL-00100,Jansdr Bouwmaterialen B.V.,NL890415185B44,,Ecrinpad 49,1153 DW,Gersloot,Netherlands,administratie@jansdrbouwmaterialen.nl,5190
+BIL-00101,Van Hamaland & Zonen V.O.F. - Oppenhuizen,NL862509565B57,,Evieboulevard 34,7703 TR,Oppenhuizen,Netherlands,crediteuren@vanhamalandzonen.nl,2540
+BIL-00102,Kruschwitz Baustoffe KG,DE287515566,,Heuserring 6/9,23666,Pfaffenhofen an der Ilm,Germany,buchhaltung@kruschwitzbaustoffe.de,6730
+BIL-00103,Van de Ven Bouwcentrum B.V.,NL458932723B395,,Svendreef 8,5133 TN,Enschede,Netherlands,crediteuren@vandevenbouwcentrum.nl,3350
+BIL-00104,Ansems & Van der Veen B.V.,NL686384137B74,,Sennhof 66,3168 ST,Huissen,Netherlands,facturen@ansemsvanderveen.nl,8760
+BIL-00105,Trüb Industriebedarf GmbH,DE787007622,,Ivo-Trommler-Straße 38-68,19821,Illertissen,Germany,buchhaltung@trubindustriebedarf.de,14330
+BIL-00106,Sprong Elektro B.V.,NL530874516B05,,Gerrithof 125,4758 DE,Goënga,Netherlands,administratie@sprongelektro.nl,16410
+BIL-00107,Van Embden & Zonen B.V.,NL564091344B49,,Sennlaan 535,5422 JW,Daarle,Netherlands,administratie@vanembdenzonen.nl,7260
+BIL-00108,Spruyt & Mangel B.V.,NL863017352B51,,Laurensweg 5,9265 DW,Terherne,Netherlands,crediteuren@spruytmangel.nl,27530
+BIL-00109,Rombaut & Van Damme NV,BE0462345909,,Ernahof 02,1545,Redu,Belgium,administratie@rombautvandamme.be,8210
+BIL-00110,Schenk Installatietechniek V.O.F.,NL270517656B76,,Siemstraat 80,9879 DK,Creil,Netherlands,facturen@schenkinstallatietechniek.nl,7100
+BIL-00111,Sanders Technische Handel B.V.,NL828650078B51,,Jennastraat 4,2567 KG,Nuenen,Netherlands,facturen@sanderstechnischehandel.nl,4860
+BIL-00112,Van de Velden & Oostveen B.V.,NL725162765B11,,Leonweg 2,3992 XH,Hee,Netherlands,administratie@vandeveldenoostveen.nl,14620
+BIL-00113,De Gruil & Kramer V.O.F.,NL783365422B22,,Adrianadreef 2,8220 ZD,Goes,Netherlands,administratie@degruilkramer.nl,7520
+BIL-00114,Vincent Matériaux de Construction SA,BE0252328549,,Rue Arnould 99,2685,Wavre,Belgium,factures@vincentmateriauxdeconstruction.be,39770
+BIL-00115,Liebelt & Finke GmbH,DE664746769,,Carin-Zahn-Gasse 9/6,17211,Calw,Germany,rechnung@liebeltfinke.de,6390
+BIL-00116,Bruggeman Bouwstoffen B.V.,NL575169464B06,,Rafsingel 41,2346 MJ,De Moer,Netherlands,crediteuren@bruggemanbouwstoffen.nl,
+BIL-00117,Gehringer Elektro GmbH,DE673474007,,Pohlring 44,97953,Hansestadttralsund,Germany,rechnung@gehringerelektro.de,14400
+BIL-00118,Gierschner & Kruschwitz KG,DE216982506,,Ruppertallee 7564,74880,Helmstedt,Germany,rechnung@gierschnerkruschwitz.de,8880
+BIL-00119,Gnatz & Ernst GmbH,DE923396372,,Klaus-Michael-Gutknecht-Gasse 9054,70012,Senftenberg,Germany,rechnung@gnatzernst.de,3920
+BIL-00120,Heijmans Installatietechniek V.O.F.,NL733688460B11,,Daanstraat 022,3826 LZ,Taarlo,Netherlands,facturen@heijmansinstallatietechniek.nl,6780
+BIL-00121,ROUSSELET SANITAIR B.V.,NL783185620B06,,Lukaboulevard 006,8954 JM,Adorp,Netherlands,facturen@rousseletsanitair.nl,3160
+BIL-00122,Van Genechten Bouwcentrum BV,BE0262816584,,Yveslaan 25,1688,Galmaarden,Belgium,crediteuren@vangenechtenbouwcentrum.be,7020
+BIL-00123,Jockel Baustoffhandel GmbH,DE956508307,,Ruppertweg 7-4,58536,Eberswalde,Germany,buchhaltung@jockelbaustoffhandel.de,5900
+BIL-00124,Weijland Elektrotechniek B.V.,NL788604221B25,,Annasteeg 5,6347 BZ,Midwolda,Netherlands,administratie@weijlandelektrotechniek.nl,29710
+BIL-00125,Muller Verwarming B.V.,NL792681026B30,,Zoëbaan 7,6682 XW,Scharmer,Netherlands,administratie@mullerverwarming.nl,31340
+BIL-00126,De Boer Elektro B.V.,NL906841681B27,,Gijsbaan 7,1764 PT,Exloo,Netherlands,administratie@deboerelektro.nl,47440
+BIL-00127,Dobes Haustechnik GmbH,DE325577036,,Beckmannstraße 6/2,64321,Magdeburg,Germany,rechnungswesen@dobeshaustechnik.de,28210
+BIL-00128,Schenkel Handel B.V.,NL661092057B39,,Ilseweg 328,4113 CE,Nieuw Scheemda,Netherlands,facturen@schenkelhandel.nl,3030
+BIL-00129,Zahn Baustoffe GmbH & Co. KG,DE373152725,Van der Spaendonc ICT Diensten B.V.,Majabaan 65,4582 JV,Heesch,Netherlands,facturen@vanderspaendoncictdiensten.nl,34910
+BIL-00130,Van Parijs & Van der Smeede B.V.,NL122859588B64,,Samuellaan 05,8213 SD,Nuland,Netherlands,crediteuren@vanparijsvandersmeede.nl,4100
+BIL-00131,Mathurin Sanitair B.V.,NL424508535B10,,Bartboulevard 49,3112 GK,Easterein,Netherlands,administratie@mathurinsanitair.nl,12560
+BIL-00132,De Reede & Van Susa B.V.,NL385894632B73,,Sennadreef 656,1146 GW,Vierlingsbeek,Netherlands,facturen@dereedevansusa.nl,5140
+BIL-00133,Steenbeek Bouwcentrum B.V.,NL201474984B72,,Sethlaan 23,6482 CM,Easterwierrum,Netherlands,administratie@steenbeekbouwcentrum.nl,16730
+BIL-00134,Hentschel & Ullmann KG,DE542384762,,Döringplatz 1/7,79848,Gransee,Germany,buchhaltung@hentschelullmann.de,5320
+BIL-00135,Niemeier Heizungsbedarf GmbH & Co. KG,DE409821320,,Pasquale-Hartung-Weg 40,21940,Staßfurt,Germany,buchhaltung@niemeierheizungsbedarf.de,5400
+BIL-00136,Vissers Bouwmaterialen BV,BE0617699612,,Ingeweg 757,3412,Gimnée,Belgium,administratie@vissersbouwmaterialen.be,4600
+BIL-00137,Roels & Desmet BV,BE0528501576,,Andrésingel 96,2359,Grand-Reng,Belgium,administratie@roelsdesmet.be,6480
+BIL-00138,Brugman Sanitair B.V.,NL700217426B84,,Johannaweg 99,1362 WS,Schoondijke,Netherlands,crediteuren@brugmansanitair.nl,17220
+BIL-00139,Stolze Industriebedarf GmbH & Co. KG,DE496127640,,Joanna-Bloch-Platz 640,22633,Finsterwalde,Germany,rechnung@stolzeindustriebedarf.de,10910
+BIL-00140,Dufrasne Chauffage SRL,BE0255890191,,Rue Boland 156,2886,Verviers,Belgium,factures@dufrasnechauffage.be,20670
+BIL-00141,Van der Lede Verwarming B.V.,NL610433183B9,,Jayhof 0,1979 ES,Geervliet,Netherlands,facturen@vanderledeverwarming.nl,2950
+BIL-00142,Reising Heizungsbedarf GmbH,DE163507748,,Carstenring 48,74090,Soltau,Germany,rechnung@reisingheizungsbedarf.de,6000
+BIL-00143,Koch Sanitär GmbH & Co. KG,DE487005172,,Schweitzerring 83,27114,Mettmann,Germany,rechnung@kochsanitar.de,9580
+BIL-00144,Eeckhout Elektrogroothandel NV,BE0223847257,,Dominiqueboulevard 594,1452,Oeselgem,Belgium,facturen@eeckhoutelektrogroothandel.be,12080
+BIL-00145,Boulanger Électro SRL,BE0759823520,,Rue Marlier 60,7132,Nivelles,Belgium,comptabilite@boulangerelectro.be,17770
+BIL-00146,Lorch Werkzeughandel GmbH,DE222628457,,Aumannallee 8-2,76133,Perleberg,Germany,buchhaltung@lorchwerkzeughandel.de,12450
+BIL-00147,Oestrovsky Elektrogroßhandel GmbH,DE919353456,,Hendriksplatz 50/80,07121,Hechingen,Germany,rechnungswesen@oestrovskyelektrogrohandel.de,3570
+BIL-00148,Van der Ploeg Elektrotechniek B.V.,NL714374583B04,,Maryamsteeg 8,5145 KB,Nieuwkoop,Netherlands,administratie@vanderploegelektrotechniek.nl,5400
+BIL-00149,Kok Bouwmaterialen B.V.,NL883749478B19,,Sjoerdpad 379,9991 TZ,Friens,Netherlands,administratie@kokbouwmaterialen.nl,4660
+BIL-00150,Wagenknecht Baustoffe mbH - Hildburghausen,DE298663157,,Anni-Förster-Straße 5/9,08175,Hildburghausen,Germany,rechnungswesen@wagenknechtbaustoffe.de,4400
+BIL-00151,Briemer Baustoffe KG,DE446603943,,Truballee 665,38456,Warendorf,Germany,rechnung@briemerbaustoffe.de,8550
+BIL-00152,De Bruyne Technische Handel BV,BE0385111130,,Irmapad 578,8775,Spermalie,Belgium,crediteuren@debruynetechnischehandel.be,8990
+BIL-00153,Kallert & Linke KG,DE631966288,,Dan-Fritsch-Ring 5554,94143,Soltau,Germany,buchhaltung@kallertlinke.de,5900
+BIL-00154,Van de Coterlet Elektro B.V.,NL683127878B69,,Félinebaan 7,9276 GR,Sint-Oedenrode,Netherlands,facturen@vandecoterletelektro.nl,6540
+BIL-00155,Stolze Industriebedarf GmbH,DE188655524,,Häringweg 5388,30196,Havelberg,Germany,rechnung@stolzeindustriebedarf.de,21970
+BIL-00156,Schuchhardt & Striebitz KG,DE293075824,,Casparplatz 78,36513,Roding,Germany,rechnung@schuchhardtstriebitz.de,16340
+BIL-00157,Budig Baustoffhandel KG,DE303901283,,Holstenstraße 62/45,21356,Hainichen,Germany,rechnungswesen@budigbaustoffhandel.de,2250
+BIL-00158,Peeters Bouwmaterialen NV,BE0833500385,,Ritaboulevard 41,2283,Laar,Belgium,crediteuren@peetersbouwmaterialen.be,6480
+BIL-00159,Keltenie Elektro B.V.,NL673044801B95,,Mettesingel 3,5060 JK,Drieborg,Netherlands,crediteuren@keltenieelektro.nl,4850
+BIL-00160,Schepens Bouwmaterialen NV,BE0306658203,,Yvettesingel 574,2146,Lanaken,Belgium,facturen@schepensbouwmaterialen.be,10790
+BIL-00161,Boeser & Van Salm B.V.,NL966702929B13,,Juulsingel 95,8357 TM,Gassel,Netherlands,crediteuren@boeservansalm.nl,6660
+BIL-00162,Limbourg Matériaux de Construction SA,BE0229495399,,Rue Navez 166,3525,Mons,Belgium,comptabilite@limbourgmateriauxdeconstructio.be,26460
+BIL-00163,Van den Bergh Technische Handel B.V.,NL219141685B73,,Sethboulevard 30,7676 DT,'t Harde,Netherlands,administratie@vandenberghtechnischehandel.nl,5470
+BIL-00164,Margraf Baustoffe,DE213956834,,Leni-van der Dussen-Platz 8/3,84263,Schweinfurt,Germany,rechnung@margrafbaustoffe.de,1940
+BIL-00165,Van Wijland Techniek B.V.,NL341622302B03,,Stanpad 0,6025 XN,De Bilt,Netherlands,administratie@vanwijlandtechniek.nl,6220
+BIL-00166,Rogge & Johann GmbH & Co. KG,DE184910061,,Hassan-Scholz-Allee 6/3,17644,Viersen,Germany,buchhaltung@roggejohann.de,2310
+BIL-00167,Bastiaense Verwarming V.O.F.,NL147978060B91,,Bjornbaan 42,6225 CL,Maastricht,Netherlands,crediteuren@bastiaenseverwarming.nl,8450
+BIL-00168,Kuit & Zonen B.V.,NL571329715B46,,Lucyring 226,7852 SG,Vlijmen,Netherlands,administratie@kuitzonen.nl,
+BIL-00169,Verwimp & Van Roy BV,BE0294144833,,Rebeccastraat 733,3169,Maasmechelen,Belgium,crediteuren@verwimpvanroy.be,4730
+BIL-00170,De Koning Bouwcentrum B.V.,NL921512026B37,,Wesleystraat 1,3685 ND,Geervliet,Netherlands,crediteuren@dekoningbouwcentrum.nl,1970
+BIL-00171,Drewes Werkzeughandel GmbH,DE930008417,,Krauseweg 26-32,49207,Emmendingen,Germany,buchhaltung@dreweswerkzeughandel.de,8990
+BIL-00172,Frankhuizen & Wolters B.V.,NL689876885B41,,Norahsingel 6,4384 WN,Harbrinkhoek,Netherlands,crediteuren@frankhuizenwolters.nl,9950
+BIL-00173,Demanet Fournitues Techniques SRL,BE0581911354,,Rue Diallo 50,5819,Huy,Belgium,factures@demanetfourniturestechniques.be,
+BIL-00174,Schrik Industrie V.O.F.,NL711422741B20,,Larsboulevard 07,2718 KP,Demen,Netherlands,facturen@schrikindustrie.nl,
+BIL-00175,Van de Velden Installatietechniek B.V.,NL126066135B88,,Irishof 28,7216 ZT,Vaals,Netherlands,administratie@vandeveldeninstallatietechniek.nl,9260
+BIL-00176,Van Maaren Elektrogroothandel B.V.,NL384161612B85,,Sethpad 3,2625 HH,Reek,Netherlands,facturen@vanmaarenelektrogroothandel.nl,5680
+BIL-00177,Van den Wittenboer Bouwmaterialen B.V.,NL862023079B20,,Lizepad 91,1092 MS,Rinsumageast,Netherlands,crediteuren@vandenwittenboerbouwmaterialen.nl,17560
+BIL-00178,Döhn & Söhne GmbH,DE911569008,,Nicolai-Jockel-Ring 83-68,99031,Neuruppin,Germany,buchhaltung@dohnsohne.de,4310
+BIL-00179,Van Wallaert Elektro,NL902999305B74,,Stanbaan 80,2461 LX,Driewegen,Netherlands,crediteuren@vanwallaertelektro.nl,20150
+BIL-00180,Van Tours Techniek V.O.F.,NL308004185B15,,Tristandreef 715,4409 KB,Lierderholthuis,Netherlands,administratie@vantourstechniek.nl,10330
+BIL-00181,Descamps et Fils RSL,BE0777582116,,Rue Sacré 152,8480,Charleroi,Belgium,comptabilite@descampsfils.be,5650
+BIL-00182,Ruppert & Hermann GmbH,DE935942776,,Winklerplatz 17/87,59479,Pirmasens,Germany,rechnung@rupperthermann.de,6690
+BIL-00183,Hethur Baustoffe KG,DE243040275,,Lachmannstraße 1341,50563,Jülich,Germany,rechnung@hethurbaustoffe.de,5870
+BIL-00184,Van Rijthoven Bouwstoffen B.V.,NL966524048B02,,Benjaminstraat 1,2866 ZS,Molkwerum,Netherlands,facturen@vanrijthovenbouwstoffen.nl,4950
+BIL-00185,Roose Bouwcentrum V.O.F.,NL125636498B41,,Helenaring 918,7159 LN,Langezwaag,Netherlands,facturen@roosebouwcentrum.nl,19010
+BIL-00186,Pauwels & Vermeiren BV,BE0271517641,,Marie-Rosering 315,9790,Thommen,Belgium,administratie@pauwelsvermeiren.be,7470
+BIL-00187,Nerger Haustechnik GmbH,DE689720101,,Rafael-Adler-Straße 8/5,36070,Neuss,Germany,rechnungswesen@nergerhaustechnik.de,9620
+BIL-00188,Kabus & Söhne GmbH,DE227186396,Limbourg IT Solutions BV,Rue Delvaux 92,6635,Wavre,Belgium,factures@limbourgitsolutions.be,1680
+BIL-00189,Carpentier & Reuter SRL,BE0970543563,,Rue Picard 175,3379,Tournai,Belgium,factures@carpentierreuter.be,6610
+BIL-00190,De Smi tElektro B.V.,NL403641609B73,,Nielspad 770,8967 PK,Nieuwegein,Netherlands,administratie@desmitelektro.nl,7610
+BIL-00191,Chotzen Bouwstoffen V.O.F.,NL700382710B46,,Noabaan 69,6029 TK,Wier,Netherlands,administratie@chotzenbouwstoffen.nl,3410
+BIL-00192,Stroh & Scheibe GmbH,DE129474736,,Kevin-Trapp-Ring 51-43,38431,Meppen,Germany,rechnungswesen@strohscheibe.de,14030
+BIL-00193,Haengreve Elektrotechniek B.V.,NL126870011B80,,Evahof 534,2775 JT,Dordrecht,Netherlands,crediteuren@haengreveelektrotechniek.nl,9920
+BIL-00194,Bohnbach Technik,DE856412137,,Kensyallee 4/4,77966,Wittmund,Germany,buchhaltung@bohnbachtechnik.de,4520
+BIL-00195,Stadelmann Haustechnik GmbH,DE509238425,,Zirmeweg 18/50,27268,Ueckermünde,Germany,buchhaltung@stadelmannhaustechnik.de,2610
+BIL-00196,Renders Bouwstoffen BV,BE0309632760,,Stephanweg 2,4641,Kleine-Spouwen,Belgium,administratie@rendersbouwstoffen.be,8630
+BIL-00197,Linke Werkzeughandel GmbH,DE313540619,,Meisterallee 28/89,25501,Witzenhausen,Germany,rechnung@linkewerkzeughandel.de,7720
+BIL-00198,Adler & Söhne KG,DE977130288,,Jolanta-Margraf-Weg 9-1,22308,Bad Liebenwerda,Germany,buchhaltung@adlersohne.de,8710
+BIL-00199,Scardino Elektro B.V.,NL635008544B66,,Jamiehof 2,6123 HG,IJhorst,Netherlands,administratie@scardinoelektro.nl,7570
+BIL-00200,Van Velzen Sanitair B.V.,NL434747862B16,,Dewiring 715,1206 LM,Asten,Netherlands,facturen@vanvelzensanitair.nl,2710
+BIL-00201,Oosterhek & Zonen B.V.,NL376828821B43,,Jaydasingel 89,4493 CB,Kuinre,Netherlands,crediteuren@oosterhekzonen.nl,10280
+BIL-00202,Eerden Elektrogroothandel B.V.,NL841254136B40,,Sofiapad 3,9566 DP,Benningbroek,Netherlands,facturen@eerdenelektrogroothandel.nl,6640
+BIL-00203,Van Vlaanderen Industrie B.V.,NL201197568B13,,Tygosingel 2,9581 EB,Drachten-Azeven,Netherlands,administratie@vanvlaanderenindustrie.nl,12040
+BIL-00204,Tlustek Elektro GmbH,DE847276554,,Naserring 5/2,58985,Hammelburg,Germany,rechnung@tlustekelektro.de,10740
+BIL-00205,Beyer Baustoffhandel KG,DE541087900,,Otto-Losekann-Gasse 29/55,69970,Roding,Germany,rechnung@beyerbaustoffhandel.de,
+BIL-00206,Zirme & Söhne GmbH,DE372362005,,Eimergasse 38/85,01769,Jüterbog,Germany,buchhaltung@zirmesohne.de,
+BIL-00207,Willaert & Zonen NV,BE0849734394,,Moniquebaan 56,2972,Neerpelt,Belgium,crediteuren@willaertzonen.be,9360
+BIL-00208,Neureuther Industriebedarf GmbH,DE253496188,,Eckehard-Schomber-Straße 1,02944,Rehau,Germany,rechnung@neureutherindustriebedarf.de,6880
+BIL-00209,Aerts Sanitair BV,BE0993657840,,Viktorlaan 7,4047,Recht,Belgium,facturen@aertssanitair.be,4740
+BIL-00210,Adriaansen Verwarming B.V.,NL961596686B42,,Timosteeg 5,3137 MG,Kuitaart,Netherlands,crediteuren@adriaansenverwarming.nl,19590
+BIL-00211,Bonbach & Söhne GmbH,DE708491814,,Marko-Tlustek-Ring 5/9,59608,Forst,Germany,buchhaltung@bonbachsohne.de,2550
+BIL-00212,Van Luxemburg Bouwstoffen V.O.F.,NL460412697B79,,Rafaelsteeg 7,6425 XX,Opperdoes,Netherlands,facturen@vanluxemburgbouwstoffen.nl,5250
+BIL-00213,Berger Matériaux de Construction SA,BE06232796347,,Rue Verhaeghe 112,3618,Mons,Belgium,factures@bergermateriauxdeconstruction.be,9420
+BIL-00214,Verda Bouwmaterialen V.O.F.,NL809587923B93,,Imransingel 304,7766 DS,Vleuten,Netherlands,administratie@verdabouwmaterialen.nl,6570
+BIL-00215,Wilmsen Handel GmbH,DE125696210,,Beckerweg 8/8,57614,Schleiz,Germany,rechnung@wilmsenhandel.de,6040
+BIL-00216,Scholten & De Heer B.V.,NL212075212B07,,Fennesteeg 6,6224 WV,Culemborg,Netherlands,administratie@scholtendeheer.nl,2310
+BIL-00217,Kamp Bouwmaterialen B.V.,NL624658062B39,,Mellering 1,2946 JP,Ursem gem. S,Netherlands,crediteuren@kampbouwmaterialen.nl,28370
+BIL-00218,Schenk & Zonen B.V.,NL632398698B223,,Irishof 900,3571 VT,Papenvoort,Netherlands,administratie@schenkzonen.nl,8250
+BIL-00219,Hulskes Technische Handel B.V.,NL275440219B05,,Brentdreef 286,4450 AC,Gees,Netherlands,facturen@hulskestechnischehandel.nl,8030
+BIL-00220,Schwital Baustoffhandel KG,DE919739832,,Emmerich-Ortmann-Weg 8,89089,Lüdenscheid,Germany,rechnungswesen@schwitalbaustoffhandel.de,151000
+BIL-00221,Wildschut Installatietechniek B.V.,NL622489642B54,,Marinuslaan 4,1135 KE,Warmond,Netherlands,crediteuren@wildschutinstallatietechniek.nl,5450
+BIL-00222,Wolters & Prins B.V.,NL214315434B09,,Sennweg 361,5623 GW,De Klomp,Netherlands,administratie@woltersprins.nl,15970
+BIL-00223,Ackermann Baustoffe GmbH & Co. KG,DE133830549,,Rebekka-Bähr-Weg 69/23,05963,Mettmann,Germany,rechnung@ackermannbaustoffe.de,5290
+BIL-00224,Michiels Bouwcentrum BV,BE0134688715,,Mariasteeg 26,9866,Ombret,Belgium,facturen@michielsbouwcentrum.be,8920
+BIL-00225,Bruggeman Industrie B.V.,NL543318944B53,,Fienbaan 179,6307 JK,Stiens,Netherlands,administratie@bruggemanindustrie.nl,
+BIL-00226,Bouwhuisen Elektrotechniek V.O.F.,NL692886856B84,,Milobaan 915,9851 AB,Eexterzandvoort,Netherlands,crediteuren@bouwhuisenelektrotechniek.nl,12110
+BIL-00227,Van Saksen Technische Handel B.V.,NL265533725B26,,Feddeboulevard 773,1060 ZS,Surhuizum,Netherlands,facturen@vansaksentechnischehandel.nl,17730
+BIL-00228,Kramer Werkzeughandel KG - Parsberg,DE133278698,,Jäkelstr. 9,93407,Parsberg,Germany,rechnungswesen@kramerwerkzeughandel.de,4430
+BIL-00229,Juncken Heizungsbedarf GmbH,DE298564765,,Alla-Steinberg-Gasse 138,59068,Lübz,Germany,rechnung@junckenheizungsbedarf.de,
+BIL-00230,Gellemeyer Bouwstoffen B.V.,NL408034406B61,,Maartjehof 00,3392 EB,Nietap,Netherlands,crediteuren@gellemeyerbouwstoffen.nl,10160
+BIL-00231,Hanegraaff Installatietechniek B.V.,NL702269164B02,,Samiring 78,8239 WR,Bentelo,Netherlands,crediteuren@hanegraaffinstallatietechniek.nl,9050
+BIL-00232,Hein Technik GmbH,DE123254968,,Rognerweg 84/87,84454,Hohenmölsen,Germany,rechnung@heintechnik.de,7830
+BIL-00233,Goderts Bouwcentrum B.V.,NL883401703B06,,Nienkering 22,3789 XP,Zelhem,Netherlands,crediteuren@godertsbouwcentrum.nl,3700
+BIL-00234,Steinberg Gruppe GmbH,DE329544518,,Dolores-Mühle-Ring 3097,31529,Hohenstein-Ernstthal,Germany,rechnung@steinberggruppe.de,6330
+BIL-00235,Segebahn & Winkler GmbH,DE109053121,,Schönlandweg 7,92428,Augsburg,Germany,rechnung@segebahnwinkler.de,21400
+BIL-00236,Peterse Industrie V.O.F.,NL439368482B16,,Elizabethhof 52,2442 TS,Netterden,Netherlands,facturen@peterseindustrie.nl,11360
+BIL-00237,Oostveen Bouwstoffen V.O.F.,NL829141955B45,,Tygoboulevard 18,9632 GK,Beinsdorp,Netherlands,administratie@oostveenbouwstoffen.nl,8400
+BIL-00238,Maes Technische Handel NV,BE0235740731,,Stefdreef 0,9518,Merbes-Sainte-Marie,Belgium,crediteuren@maestechnischehandel.be,6830
+BIL-00239,Briere Instal. B.V.,NL392036942B68,,Ayoubboulevard 99,1480 MR,Burdaard,Netherlands,administratie@briereinstallatietechniek.nl,8090
+BIL-00240,Knuf Sanitair B.V.,NL669640764B02,,Floriandreef 908,9594 KX,Epe,Netherlands,administratie@knufsanitair.nl,
+BIL-00241,Van der Veiver & Claassen V.O.F.,NL923013449B25,,Luukstraat 16,7978 DE,Streefkerk,Netherlands,facturen@vanderveiverclaassen.nl,7020
+BIL-00242,De Swart Bouwmaterialen B.V.,NL105309416B62,,Sarahbaan 998,3525 WN,Windraak,Netherlands,administratie@deswartbouwmaterialen.nl,31390
+BIL-00243,Brichard Fournitures Techniques SRL - Arlon,BE0692866520,,Rue Adam 64,8111,Arlon,Belgium,factures@brichardfourniturestechniques.be,
+BIL-00244,Schmitz Électro SA,BE0254969471,,Rue Lefebvre 168,3911,Tournai,Belgium,comptabilite@schmitzelectro.be,10090
+BIL-00245,Tlustek Haustechnik GmbH,DE512198254,,Michail-Jacobi Jäckel-Ring 826,81921,Bersenbrück,Germany,rechnung@tlustekhaustechnik.de,3450
+BIL-00246,Louws Verwarming B.V.,NL568387228B03,,Yasminelaan 868,2180 PB,Ankeveen,Netherlands,crediteuren@louwsverwarming.nl,7240
+BIL-00247,Brands Installatietechniek B.V.,NL620979010B59,,Matthijssingel 887,8233 NW,Hantumeruitburen,Netherlands,facturen@brandsinstallatietechniek.nl,5100
+BIL-00248,Janssens & Zonen BV,BE0622877347,,Larsboulevard 434,1256,Ramskapelle-Nieuwpoort,Belgium,facturen@janssenszonen.be,
+BIL-00249,Gervais & Zonen V.O.F.,NL605202323B64,,Kevinpad 46,1106 MV,Loosdrecht,Netherlands,administratie@gervaiszonen.nl,4420
+BIL-00250,Mathieu Techniek B.V.,NL751831074B46,,Senndreef 475,9138 LJ,Kootstertille,Netherlands,crediteuren@mathieutechniek.nl,2210
+BIL-00251,Moreels & Smet NV,BE0106238675,Van der Spaendonc ICT Diensten B.V.,Majabaan 65,4582 JV,Heesch,Netherlands,facturen@vanderspaendoncictdiensten.nl,4940
+BIL-00252,Van der Maath Verwarming B.V.,NL909449553B22,,Aydensingel 501,8501 PZ,Helmond,Netherlands,crediteuren@vandermaathverwarming.nl,27140
+BIL-00253,Paillet Bouwstoffen B.V.,NL921921869B31,,Arthurweg 4,4086 EV,Deurze,Netherlands,crediteuren@pailletbouwstoffen.nl,4930
+BIL-00254,Hak Elektrogroothandel B.V.,NL466034277B21,,Jortsingel 433,7163 RS,Kudelstaart,Netherlands,crediteuren@hakelektrogroothandel.nl,2760
+BIL-00255,Mohaupt Sanitär GmbH & Co. KG,DE108949508,,Heßring 87-61,15509,Konstanz,Germany,buchhaltung@mohauptsanitar.de,8800
+BIL-00256,Schleich & Trupp KG,DE539492534,,Matthäigasse 59/16,55253,Mellrichstadt,Germany,rechnungswesen@schleichtrupp.de,3910
+BIL-00257,Van Kempen Bouwstoffen V.O.F.,NL438349464B88,,Demilaan 937,6002 JG,Wijngaarden,Netherlands,administratie@vankempenbouwstoffen.nl,11480
+BIL-00258,Thout Elektro B.V.,NL788708018B86,,Philipsingel 7,2353 DT,Enspijk,Netherlands,,10470
+BIL-00259,Mansveld Industrie B.V.,NL950901243B19,,Guusjebaan 9,7853 GR,Swolgen,Netherlands,facturen@mansveldindustrie.nl,10740
+BIL-00260,Bellemans Verwarming B.V.,NL843082157,,Jacobpad 2,2483 PL,Vijlen,Netherlands,crediteuren@bellemansverwarming.nl,10260
+BIL-00261,Collin Chauffage SA,BE0406183081,,Rue Ledoux 6,1428,Verviers,Belgium,factures@collinchauffage.be,
+BIL-00262,Junck Elektrogroßhandel GmbH & Co. KG,DE318549677,,Lehmannstraße 8/5,72257,Erbisdorf,Germany,buchhaltung@junckelektrogrohandel.de,8890
+BIL-00263,Van Beeck Elektrotechniek B.V.,NL640453426B76,,Azrasteeg 247,3112 DP,Morra,Netherlands,facturen@vanbeeckelektrotechniek.nl,15950
+BIL-00264,Heijman Bouwstoffen B.V.,NL523504172B22,,Mustafapad 864,1220 ZR,Wesepe,Netherlands,facturen@heijmanbouwstoffen.nl,9600
+BIL-00265,De Bruijn Bouwcentrum V.O.F.,NL438268506B10,,Willemweg 42,8870 BD,Watergang,Netherlands,facturen@debruijnbouwcentrum.nl,14670
+BIL-00266,Anders Heizungsbedarf KG,DE172973151,,Walterweg 2/4,73160,Sigmaringen,Germany,rechnung@andersheizungsbedarf.de,6650
+BIL-00267,Christiaens & Renders BV,BE0601532871,,Mariesteeg 0,3087,Sint-Lievens-Esse,Belgium,facturen@christiaensrenders.be,21400
+BIL-00268,Janssen Handel NV - Ostiches,BE0386783352,,Liamstraat 951,5429,Ostiches,Belgium,administratie@janssenhandel.be,9240
+BIL-00269,De Smet Industrie NV,BE0277150029,,Huguettelei 99,8139,Ertvelde,Belgium,facturen@desmetindustrie.be,3950
+BIL-00270,Hiller Baucenter GmbH & Co. KG,DE677898037,,Elmar-Schmiedt-Allee 4308,80519,Pirmasens,Germany,rechnungswesen@hillerbaucenter.de,4740
+BIL-00271,Lindner Baucenter KG,DE529832349,,Grein Grothallee 878,27978,Schwandorf,Germany,buchhaltung@lindnerbaucenter.de,8740
+BIL-00272,Rogiers Verwarming BV,BE0237349514,,Hildedreef 779,6075,Chanly,Belgium,crediteuren@rogiersverwarming.be,16580
+BIL-00273,Hartmann Haustechnik KG,DE170120064,,Josef-Koch II-Platz 3,78248,Bad Kreuznach,Germany,buchhaltung@hartmannhaustechnik.de,10630
+BIL-00274,Reising Sanitär KG,DE724044455,,Rebecca-Hettner-Allee 16/75,36238,Gütersloh,Germany,rechnung@reisingsanitar.de,16670
+BIL-00275,VAN HERSTAL TECHNISCHE HANDEL B.V. - Middenbeemster,NL887109809B26,,Ianstraat 2,2409 KE,Middenbeemster,Netherlands,administratie@vanherstaltechnischehandel.nl,3160
+BIL-00276,Schmiedt Baustoffe GmbH,DE3939650399,,Trommlerstr. 8/1,21767,Leipziger Land,Germany,rechnungswesen@schmiedtbaustoffe.de,5180
+BIL-00277,Rose Baustoffe GmbH & Co. KG,DE981278352,,Uschi-Vogt-Straße 7741,38316,Celle,Germany,buchhaltung@rosebaustoffe.de,9940
+BIL-00278,Van de Klashorst Handel B.V.,NL709548712B78,,Twanbaan 2,2861 PJ,Kootstertille,Netherlands,facturen@vandeklashorsthandel.nl,19210
+BIL-00279,Wouters Techniek BV,BE0572598556,,Paulapad 5,3856,Oppuurs,Belgium,administratie@wouterstechniek.be,2500
+BIL-00280,Van de Leemput Bouwstoffen B.V.,NL124646738B71,,Rosaliebaan 48,6792 JE,America,Netherlands,facturen@vandeleemputbouwstoffen.nl,8520
+BIL-00281,Merkx Installatietechniek V.O.F.,NL815455665B71,,Lexbaan 99,8100 VB,Ter Aar,Netherlands,facturen@merkxinstallatietechniek.nl,
+BIL-00282,Cardon Fournitures Techniques SRL,BE0490819134,,Rue Goblet 56,4237,Arlon,Belgium,comptabilite@cardonfourniturestechniques.be,33130
+BIL-00283,Bogaerts Handel NV,BE0886523220,,Anitaboulevard 2,5678,Berchem,Belgium,administratie@bogaertshandel.be,10300
+BIL-00284,Goossens Sanitair BV - Hacquegnies,BE0231980695,,Lenasteeg 10,3967,Hacquegnies,Belgium,facturen@goossenssanitair.be,8770
+BIL-00285,Etienne Chauffage SA,BE0453078170,,Rue De Clercq 65,9320,Ottignies,Belgium,comptabilite@etiennechauffage.be,4390
+BIL-00286,Henrard Matériaux de Construction RL,BE0333634771,,Rue Delvigne 27,9564,Verviers,Belgium,comptabilite@henrardmateriauxdeconstruction.be,12120
+BIL-00287,Van Jumiège Handel B.V.,NL209547073B23,,Tesshof 94,6215 DT,De Veenhoop,Netherlands,administratie@vanjumiegehandel.nl,8810
+BIL-00288,Post & Zonen V.O.F.,NL404290729B19,,Yasminring 0,8467 EZ,Diffelen,Netherlands,crediteuren@postzonen.nl,6950
+BIL-00289,Kramer Baustoffe GmbH & Co. KG,DE340540953,,Fadime-Anders-Allee 717,04021,Luckenwalde,Germany,buchhaltung@kramerbaustoffe.de,15000
+BIL-00290,Segers Sanitair BV,BE0295191987,,Moniquestraat 7,9162,Merchtem,Belgium,facturen@segerssanitair.be,6740
+BIL-00291,Peeters & De Smet NV,BE0478070996,,Johnyboulevard 1,9205,Wattripont,Belgium,facturen@peetersdesmet.be,8910
+BIL-00292,Rijntjes Bouwstoffen B.V.,NL748771258B39,,Annemijnweg 7,2964 RA,Mheer,Netherlands,facturen@rijntjesbouwstoffen.nl,5150
+BIL-00293,Goudriaan Techniek B.V.,NL252341437B36,,Jooststeeg 392,4749 SD,De Tike,Netherlands,crediteuren@goudriaantechniek.nl,7000
+BIL-00294,Margraf & Kaul GmbH & Co. KG,DE537157475,,Meyerallee 4/7,24009,Bersenbrück,Germany,rechnungswesen@margrafkaul.de,19620
+BIL-00295,Moens Bouwstoffen BV,BE0497034107,,Jeroensteeg 57,8317,Vyle-et-Tharoul,Belgium,administratie@moensbouwstoffen.be,15420
+BIL-00296,Gute Haustechnik GmbH,DE238206116,,Birnbaumweg 25-98,30211,Ebersberg,Germany,buchhaltung@gutehaustechnik.de,5530
+BIL-00297,Zuidweg Bouwcentrum B.V.,NL852291107B47,,Kimboulevard 138,1280 XH,Winterswijk,Netherlands,facturen@zuidwegbouwcentrum.nl,14770
+BIL-00298,Van Northeim Bouwmaterialen V.O.F.,NL651095672B54,,Jilllaan 299,1911 SE,Edam,Netherlands,crediteuren@vannortheimbouwmaterialen.nl,4100
+BIL-00299,Janssens Elektro BV - Sars-la-Buissière,BE0707225056,,Anouksingel 4,4446,Sars-la-Buissière,Belgium,facturen@janssenselektro.be,5570
+BIL-00300,Van Bernicia Bouwmaterialen B.V.,NL972947639B49,,Oliviaring 861,1553 KD,Schijndel,Netherlands,crediteuren@vanberniciabouwmaterialen.nl,13890
+BIL-00301,Van Northeim Bouwcentrum B.V.,NL800053921B43,,Kayleighring 335,1667 EN,de Woude,Netherlands,facturen@vannortheimbouwcentrum.nl,2260
+BIL-00302,Cornelis Elektro NV,BE0188989979,,Pierreweg 6,7174,Fraipont,Belgium,crediteuren@corneliselektro.be,25970
+BIL-00303,Matthijs & Van den Eynde NV,BE0697563674,,Jansteeg 837,9017,Bunsbeek,Belgium,crediteuren@matthijsvandeneynde.be,3060
+BIL-00304,Van Este & Van Luin B.V.,NL100265072B42,,Jamieweg 1,3348 GT,Koudum,Netherlands,crediteuren@vanestevanluin.nl,7710
+BIL-00305,Spieß Handel GmbH,DE396743138,,Mangoldstr. 2/6,64320,Dessau,Germany,rechnung@spiehandel.de,4100
+BIL-00306,Gumprich Baustoffhandel KG,DE335493870,,Tom-Schacht-Ring 2,48514,Regen,Germany,rechnung@gumprichbaustoffhandel.de,16910
+BIL-00307,Ketting & Van der Linden V.O.F.,NL968172937B21,,Jetring 303,7148 MS,Heinkenszand,Netherlands,facturen@kettingvanderlinden.nl,7700
+BIL-00308,KLEMM & SÖHNE GMBH,DE487832545,,Zoran-Heintze-Ring 17/73,34187,Beeskow,Germany,buchhaltung@klemmsohne.de,12890
+BIL-00309,Van Doorn & Zonen V.O.F.,NL243980993B50,,Jimsteeg 498,7824 WV,Denekamp,Netherlands,administratie@vandoornzonen.nl,4870
+BIL-00310,Lindner & Schmiedecke GmbH,DE519201365,,Cemil-Ditschlerin-Weg 7,84464,Stendal,Germany,rechnungswesen@lindnerschmiedecke.de,10810
+BIL-00311,Roodesteijn Elektrotechniek B.V.,NL896703139B11,,Stefandreef 3,6641 NW,Frederiksoord,Netherlands,,5400
+BIL-00312,De Roo Elektrogroothandel B.V.,NL811335671B67,,Rickweg 496,5933 RD,Darp,Netherlands,administratie@derooelektrogroothandel.nl,10910
+BIL-00313,Jansen Verwarming B.V.,NL995990847B39,,Hendrikstraat 148,9667 BC,Burgh-Haamstede,Netherlands,facturen@jansenverwarming.nl,6830
+BIL-00314,Hondeveld Elektr oV.O.F.,NL245641613B24,,Julessteeg 055,8716 DW,Mheer,Netherlands,administratie@hondeveldelektro.nl,14760
+BIL-00315,Verheyden & Zonen NV,BE0803359731,,Leenhof 103,1206,Afsnee,Belgium,crediteuren@verheydenzonen.be,2880
+BIL-00316,Hulskes & Van Wessex V.O.F.,NL490369859B44,,Michellestraat 8,8272 PS,Veendam,Netherlands,facturen@hulskesvanwessex.nl,5320
+BIL-00317,Stoffel & Van Gelder V.O.F.,NL241202487B77,,Fabiandreef 09,4495 RN,Reeuwijk,Netherlands,facturen@stoffelvangelder.nl,16730
+BIL-00318,Horrocks Elektro B.V.,NL292302534B49,,Louisepad 52,2117 TA,Driewegen,Netherlands,facturen@horrockselektro.nl,12120
+BIL-00319,Volcke Industrie B.V.,NL866488581B41,,Joshuasingel 183,8440 BJ,Varik,Netherlands,administratie@volckeindustrie.nl,5900
+BIL-00320,De Bont & Zonen B.V.,NL150930624B43,,Ibrahimdreef 30,7650 EW,Steenwijkerwold,Netherlands,administratie@debontzonen.nl,
+BIL-00321,MEIJER EN VAN PRAAGH B.V.,NL879513975B95,,Isabelleboulevard 9,3300 PD,Uitgeest,Netherlands,facturen@meijervanpraagh.nl,6290
+BIL-00322,Lenaerts Électro SA,BE0765394079,,Rue Renard 77,4902,Charleroi,Belgium,factures@lenaertselectro.be,6460
+BIL-00323,De Grote & De Graaf B.V.,NL371406088B27,,Jinthedreef 7,7719 SG,Purmer,Netherlands,facturen@degrotedegraaf.nl,5920
+BIL-00324,Fliegner Baucenter GmbH & Co. KG,DE157658939,,Linkeweg 58,31069,Viersen,Germany,rechnung@fliegnerbaucenter.de,4860
+BIL-00325,Stook & Zonen V.O.F.,NL646261415B48,,Rayanbaan 75,9329 VG,De Bult,Netherlands,facturen@stookzonen.nl,10660
+BIL-00326,Ketting & Moenen B.V.,NL754049436B82,,Rubenboulevard 594,4432 KC,Leiderdorp,Netherlands,facturen@kettingmoenen.nl,10820
+BIL-00327,MIELCAREK ELEKTRO GMBH UND CO. KG,DE966040317,,Juliana-Rörricht-Weg 7/7,30511,Sonneberg,Germany,rechnung@mielcarekelektro.de,6130
+BIL-00328,Van Voorst Bouwcentrum V.O.F.,NL789603056B54,,Lynnboulevard 616,3224 CE,Hapert,Netherlands,crediteuren@vanvoorstbouwcentrum.nl,15130
+BIL-00329,Seghers Elektrogroothandel BV,BE0804798365,,Julianring 17,7159,Helen-Bos,Belgium,facturen@segherselektrogroothandel.be,4350
+BIL-00330,Gerlach & Wähner GmbH & Co. KG,DE700104110,,Stanislaw-Holsten-Weg 3/3,31097,Erding,Germany,rechnungswesen@gerlachwahner.de,12080
+BIL-00331,Eigenwillig Industriebedarf GmbH & Co. KG,DE752038503,,Irmingard-Hiller-Platz 7-4,34944,Riesa,Germany,rechnung@eigenwilligindustriebedarf.de,24130
+BIL-00332,Lambert Électro SA,BE0534014323,,Rue Vermeulen 40,7385,Charleroi,Belgium,comptabilite@lambertelectro.be,7440
+BIL-00333,HOLSTEN HANDEL GMBH,DE144996163,,Segebahnstr. 9-6,27211,Hohenmölsen,Germany,buchhaltung@holstenhandel.de,
+BIL-00334,Wellens Bouwstoffen BV,BE0932111777,,Mariesingel 32,5288,Huise,Belgium,facturen@wellensbouwstoffen.be,
+BIL-00335,De Vries Groep B.V.,NL357063230B75,,Rubenweg 674,6477 PP,Spui,Netherlands,administratie@devriesgroep.nl,6690
+BIL-00336,Vollbrecht Heizungsbedarf GmbH,DE258705317,,Hans-Christian-Schleich-Ring 3917,28731,Eisenberg,Germany,buchhaltung@vollbrechtheizungsbedarf.de,27040
+BIL-00337,Ladeck Elektro GmbH,DE981994345,,Klappstraße 8-1,89184,Naila,Germany,rechnung@ladeckelektro.de,3220
+BIL-00338,Bolzmann & Söhne GmbH & Co. KG,DE989032072,,Ditmar-Kabus-Gasse 7,30603,Aschaffenburg,Germany,buchhaltung@bolzmannsohne.de,18940
+BIL-00339,Trommler Baustoffe KG,DE948104335,,Seifertallee 22/78,25308,Sangerhausen,Germany,rechnungswesen@trommlerbaustoffe.de,16450
+BIL-00340,Van Enschot Techniek B.V.,NL907872588B65,,Imransteeg 395,4874 TV,Pijnacker,Netherlands,facturen@vanenschottechniek.nl,7840
+BIL-00341,Schotte Bouwmaterialen B.V.,NL235350127B94,,Hugolaan 754,2377 WD,Macharen,Netherlands,administratie@schottebouwmaterialen.nl,10940
+BIL-00342,Schuster & Söhne GmbH,DE206917560,,Jasmin-Preiß-Allee 9/8,07088,Karlsruhe,Germany,rechnung@schustersohne.de,1210
+BIL-00343,De Lange Industrie V.O.F. - Oostwold,NL588210640B76,,Jaylinnweg 57,1600 DB,Oostwold,Netherlands,facturen@delangeindustrie.nl,14770
+BIL-00344,Van Ginneke Installatietechniek B.V.,NL345411039B35,,Sterrepad 3,8165 KN,Empe,Netherlands,facturen@vanginnekeinstallatietechniek.nl,20040
+BIL-00345,Bauer Elektrotechnik GmbH,DE348893815,,Wilhelm-Drub-Ring 8-8,71718,Bruchsal,Germany,rechnungswesen@bauerelektrotechnik.de,8520
+BIL-00346,Van Beaumont Bouwstoffen B.V.,NL518341978B32,,Daniqueweg 03,4458 NB,Hendrik-Ido-Ambacht,Netherlands,facturen@vanbeaumontbouwstoffen.nl,3340
+BIL-00347,Van den Brande & Zonen NV,BE0857238597,,Lydiapad 03,1959,Moelingen,Belgium,crediteuren@vandenbrandezonen.be,11970
+BIL-00348,Winters Technische Handel B.V.,NL415866432B58,,Jesselaan 2,5482 PM,Aldtsjerk,Netherlands,crediteuren@winterstechnischehandel.nl,36430
+BIL-00349,Van Egisheim Elektro B.V.,NL210385522B19,,Robinstraat 40,6752 EJ,Melick,Netherlands,crediteuren@vanegisheimelektro.nl,7330
+BIL-00350,Garret Elektro B.V.,NL209867551B17,,Rikring 270,3921 KX,Krimpen aan den IJssel,Netherlands,administratie@garretelektro.nl,11890
+BIL-00351,De Man Elektrotechniek B.V.,NL717544034B062,,Ivydreef 800,1354 XR,Zuidveen,Netherlands,administratie@demanelektrotechniek.nl,3660
+BIL-00352,Hendriks & Söhne GmbH & Co. KG,DE168753065,,Riehlplatz 4298,42571,Lübz,Germany,rechnungswesen@hendrikssohne.de,6550
+BIL-00353,Hecker Werkzeughandel GmbH,DE516133637,,Friedericke-Fliegner-Straße 9/5,51081,Bremervörde,Germany,rechnungswesen@heckerwerkzeughandel.de,15690
+BIL-00354,Goyvaerts & Vermeersch BV,BE0175981291,,Laurapad 840,6666,Elverdinge,Belgium,crediteuren@goyvaertsvermeersch.be,10930
+BIL-00355,Adriaensdr Installatietechniek B.V.,NL802984810B42,,Noortjeweg 893,8043 XZ,Sleen,Netherlands,crediteuren@adriaensdrinstallatietechniek.nl,10570
+BIL-00356,Van Brunswijk Bouwstoffen B.V.,NL409577633B72,,Linaweg 5,2709 MZ,Hulst,Netherlands,facturen@vanbrunswijkbouwstoffen.nl,12020
+BIL-00357,De Rycke Sanitair BV,BE0249470567,,Arthurlaan 455,3694,Tillier,Belgium,administratie@deryckesanitair.be,5730
+BIL-00358,Oversteeg Groep B.V.,NL971630639B17,,Aydendreef 563,8075 DN,Froombosch,Netherlands,crediteuren@oversteeggroep.nl,20290
+BIL-00359,De Grunt Bouwstoffen B.V.,NL537279135B96,,Noordreef 569,3130 VW,Buinen,Netherlands,crediteuren@degruntbouwstoffen.nl,7980
+BIL-00360,Van Saksen Bouwstoffen B.V.,NL398238769B18,,Simonweg 6,5781 BE,Abbenes,Netherlands,crediteuren@vansaksenbouwstoffen.nl,
+BIL-00361,Moet Elektrotechniek V.O.F.,NL845092763B43,,Roandreef 3,4829 GB,Esbeek,Netherlands,administratie@moetelektrotechniek.nl,9690
+BIL-00362,Stroh & Adolph GmbH - Starnberg,DE120333847,,Hartmannplatz 40-28,26073,Starnberg,Germany,rechnung@strohadolph.de,8140
+BIL-00363,Anders Baucenter GmbH,DE185335495,,Hölzenbecherstraße 82-58,84255,Bad Kissingen,Germany,rechnung@andersbaucenter.de,15600
+BIL-00364,Geldens Bouwmaterialen B.V.,NL397082704B47,,Corneliabaan 88,5033 JR,Coevorden,Netherlands,administratie@geldensbouwmaterialen.nl,7960
+BIL-00365,Ullrich Baustoffhandel KG,DE394549990,,Hermann Josef-Kostolzin-Straße 410,42821,Eggenfelden,Germany,rechnungswesen@ullrichbaustoffhandel.de,19310
+BIL-00366,Van Berkel Bouwcentrum B.V.,NL655021824B74,,Florianboulevard 3,8571 XV,Ellemeet,Netherlands,administratie@vanberkelbouwcentrum.nl,54290
+BIL-00367,Fechner & Söhne GmbH,DE517117581,,Cecilia-Lindau-Platz 68,59053,Weißenfels,Germany,buchhaltung@fechnersohne.de,31400
+BIL-00368,Verda & Appelman B.V.,NL760555221B22,,Rubensteeg 388,9364 VJ,Lippenhuizen,Netherlands,facturen@verdaappelman.nl,6050
+BIL-00369,Caspar Industriebedarf GmbH & Co. KG,DE569747059,,Röhrichtallee 1777,92643,Osterode am Harz,Germany,rechnung@casparindustriebedarf.de,
+BIL-00370,Van der Velde & Van der Loo V.O.F.,NL879761120B251,,Ayasingel 51,1340 GL,Oosterhout,Netherlands,facturen@vanderveldevanderloo.nl,35960
+BIL-00371,Röhrdanz Elektrogroßhandel GmbH,DE148573610,,Hannchen-Sauer-Allee 2-5,95724,Jüterbog,Germany,,4990
+BIL-00372,Börner Baustoffhandel KG,DE976242620,Van der Spaendonc ICT Diensten B.V.,Majabaan 65,4582 JV,Heesch,Netherlands,facturen@vanderspaendoncictdiensten.nl,10800
+BIL-00373,Kortman Verwarming B.V.,NL308477223B40,,Lothof 0,5287 JA,Alem,Netherlands,crediteuren@kortmanverwarming.nl,27980
+BIL-00374,Simonis & Geldens B.V.,NL758841666B74,,Willempad 394,5130 JW,Katwijk,Netherlands,crediteuren@simonisgeldens.nl,32850
+BIL-00375,Franke & Christoph KG,DE376351483,,Staudestraße 4-9,57305,Starnberg,Germany,rechnungswesen@frankechristoph.de,6450
+BIL-00376,Anders & Berger GmbH,DE197141673,,Pedro-Winkler-Gasse 6271,40399,Gifhorn,Germany,rechnung@andersberger.de,4740
+BIL-00377,Van Nuffel Handel NV,BE0517677937,,Youssefhof 3,2126,Mariakerke,Belgium,administratie@vannuffelhandel.be,62740
+BIL-00378,Martin Elektrogroßhandel KG,DE100210054,,Heide-Marie-Koch-Weg 50/46,53114,Melle,Germany,rechnungswesen@martinelektrogrohandel.de,5950
+BIL-00379,Schwital Elektrotechnik GmbH,DE618908724,,Nergerstr. 6174,89234,Pasewalk,Germany,rechnung@schwitalelektrotechnik.de,1290
+BIL-00380,Goossens Chauffage SRL,BE0785960873,,Rue Wéry 148,6114,Liège,Belgium,factures@goossenschauffage.be,10740
+BIL-00381,Mathurin Elektro B.V.,NL483534575B64,,Victoriabaan 41,7722 JE,Den Helder,Netherlands,administratie@mathurinelektro.nl,18240
+BIL-00382,Robert Matériaux SRL,BE0869955304,,Rue Piret 177,5289,Liège,Belgium,factures@robertmateriaux.be,
+BIL-00383,Bonbach Elektrotechnik GmbH & Co. KG,DE723548418,,Bachmanngasse 1-1,78249,Kleve,Germany,rechnung@bonbachelektrotechnik.de,21930
+BIL-00384,Goovaerts Groep NV,BE0664735673,,Mariebaan 05,2633,Polleur,Belgium,administratie@goovaertsgroep.be,2460
+BIL-00385,Roels & Desmet NV,BE0881563500,,Louiseweg 5,2092,Sint-Lievens-Esse,Belgium,administratie@roelsdesmet.be,2180
+BIL-00386,Van Olst Bouwstoffen B.V.,NL938842599B84,Limbourg IT Solutions BV,Rue Delvaux 92,6635,Wavre,Belgium,factures@limbourgitsolutions.be,5020
+BIL-00387,Etzler Elektrogroßhandel GmbH & Co. KG,DE864126144,,Fischerstr. 659,92858,Bad Kissingen,Germany,buchhaltung@etzlerelektrogrohandel.de,5390
+BIL-00388,Wagner Elektrogroßhandel GmbH,DE473268072,,Rosalie-Bähr-Weg 9,73593,Grimma,Germany,rechnung@wagnerelektrogrohandel.de,2760
+BIL-00389,Van Breukelveen & Wutke V.O.F.,NL366881610B53,,Emmaweg 4,4393 RM,Reutum,Netherlands,crediteuren@vanbreukelveenwutke.nl,9820
+BIL-00390,Pauwels Bouwstoffen B.V.,NL443285529B70,,Kikisingel 8,4841 KM,Markelo,Netherlands,,3340
+BIL-00391,Löchel Gruppe GmbH - Pinneberg,DE131530503,,Wendeplatz 9-9,17463,Pinneberg,Germany,rechnungswesen@lochelgruppe.de,7220
+BIL-00392,Jeggij Elektrogroothandel B.V.,NL849704323B67,,Giovannibaan 9,5148 XD,Losdorp,Netherlands,administratie@jeggijelektrogroothandel.nl,10010
+BIL-00393,Harloff Elektrotechnik GmbH & Co. KG,DE658345447,,Köhlerstraße 5,85134,Niesky,Germany,buchhaltung@harloffelektrotechnik.de,2180
+BIL-00394,Van der Linden Verwarming BV,BE0382451081,,Mariaring 78,8716,Wingene,Belgium,administratie@vanderlindenverwarming.be,3480
+BIL-00395,Mühle & Söhne GmbH,DE544055921,,Dietzweg 12/98,52587,Torgau,Germany,rechnung@muhlesohne.de,3910
+BIL-00396,Delmotte Électro SRL,BE0658155227,,Rue Demanet 155,2983,Mons,Belgium,factures@delmotteelectro.be,11090
+BIL-00397,Wagenvoort Elektro V.O.F.,NL418679207B32,,Victoriasingel 676,4538 EA,Oosterbierum,Netherlands,administratie@wagenvoortelektro.nl,3700
+BIL-00398,Hande Baucenter KG,DE739018322,,Lioba-Schenk-Gasse 3/3,99743,Rottweil,Germany,rechnung@handebaucenter.de,8860
+BIL-00399,Braem Bouwcentrum BV,BE0945608416,,Juliapad 3,7057,Grazen,Belgium,facturen@braembouwcentrum.be,5840
+BIL-00400,Jopich & Söhne GmbH,DE707096187,,Buchholzring 793,30503,Eisenhüttenstadt,Germany,rechnungswesen@jopichsohne.de,20150
+BIL-00401,NOACK & SÖHNE GMBH,DE490879384,,Aziz-Heinrich-Weg 6-8,38621,Lüdenscheid,Germany,buchhaltung@noacksohne.de,10970
+BIL-00402,Beckmann Werkzeughandel GmbH,DE421768515,,Utz-Dussen van-Allee 15-40,58119,Plauen,Germany,buchhaltung@beckmannwerkzeughandel.de,15070
+BIL-00403,Mühle Werkzeughandel GmbH,DE606243479,,Ortmannplatz 57/94,55368,Wittstock,Germany,buchhaltung@muhlewerkzeughandel.de,5550
+BIL-00404,Rogner Sanitär GmbH & Co. KG,DE986907524,,Jäkelring 2135,36621,Wolfenbüttel,Germany,rechnung@rognersanitar.de,4070
+BIL-00405,Materne Électro SRL,BE0521626653,,Rue Léonard 13,1159,Wavre,Belgium,comptabilite@materneelectro.be,13930
+BIL-00406,Van Beaumont Elektro B.V.,NL961425250B73,,Sterrelaan 5,7816 XT,Frieschepalen,Netherlands,crediteuren@vanbeaumontelektro.nl,3670
+BIL-00407,Van Kempen Elektrotechniek B.V.,NL575340078B77,,Xavisteeg 17,1275 TS,de Hoef,Netherlands,facturen@vankempenelektrotechniek.nl,25460
+BIL-00408,Constant Materiaux de Construction,BE0422638422,,Rue Liégeois 59,3201,Tournai,Belgium,comptabilite@constantmateriauxdeconstructio.be,3610
+BIL-00409,Kraus & Cichorius KG,DE398952685,,Kochring 362,27569,Geldern,Germany,buchhaltung@krauscichorius.de,7750
+BIL-00410,Devos & Zonen NV,BE0314448547,,Robbehof 59,8033,Broekom,Belgium,crediteuren@devoszonen.be,4900
+BIL-00411,Stoll & Söhne GmbH,DE859359486,,Jacoballee 925,22774,Brand,Germany,rechnungswesen@stollsohne.de,26710
+BIL-00412,Niemeier Baustoffe GmbH & Co. KG,DE464912176,,Schmidtstraße 65,48551,Stuttgart,Germany,rechnungswesen@niemeierbaustoffe.de,9920
+BIL-00413,Hermans & Zonen NV,BE0509547590,,Silkestraat 1,8291,Pepingen,Belgium,facturen@hermanszonen.be,12870
+BIL-00414,Höning & Adriaensdr B.V.,NL685721107B89,,Elinboulevard 2,5611 BX,Sebaldeburen,Netherlands,facturen@honingadriaensdr.nl,5610
+BIL-00415,Van Olst & Ketel B.V.,NL491082204B27,,Alyssaboulevard 950,5409 BC,Zuid-Beijerland,Netherlands,administratie@vanolstketel.nl,13260
+BIL-00416,Jerusalem Industrie V.O.F.,NL628030831B86,,Liekedreef 420,3979 SA,Oranje,Netherlands,facturen@jerusalemindustrie.nl,4330
+BIL-00417,Vermeir Bouwstoffen NV,BE0370659482,,Etiennehof 242,5421,Heist-aan-Zee,Belgium,facturen@vermeirbouwstoffen.be,3490
+BIL-00418,Rippey Sanitair B.V.,NL612656440B84,,Nickpad 4,3587 RT,Berghem,Netherlands,administratie@rippeysanitair.nl,10280
+BIL-00419,Perkins Industrie B.V.,NL551160662B90,,Sophiepad 69,1597 HH,Doldersum,Netherlands,crediteuren@perkinsindustrie.nl,8890
+BIL-00420,De Bie Elektrotechniek BV,BE0548706636,,Annestraat 477,8328,Korbeek-Dijle,Belgium,crediteuren@debieelektrotechniek.be,11250
+BIL-00421,Christiaens Bouwcentrum NV,0862782374,,Laurastraat 278,3173,Berneau,Belgium,crediteuren@christiaensbouwcentrum.be,16570
+BIL-00422,Nuyts Bouwmaterialen BV,BE0184513867,Van Brenen Software Partners B.V.,Larssteeg 08,5012 JE,Cromvoirt,Netherlands,crediteuren@vanbrenensoftwarepartners.nl,7340
+BIL-00423,Braem Sanitair NV,BE0513182261,,Christinastraat 5,3975,Diets-Heur,Belgium,facturen@braemsanitair.be,
+BIL-00424,Heerschop Bouwcentrum V.O.F.,NL405977902B40,,Siennaboulevard 14,3947 RE,Rijsenhout,Netherlands,facturen@heerschopbouwcentrum.nl,2270
+BIL-00425,Walsteijn Industrie B.V.,NL351745039B42,,Tygolaan 24,2497 PK,Reitsum,Netherlands,facturen@walsteijnindustrie.nl,8550
+BIL-00426,Römer Haustechnik KG,DE429341319,,Rustring 3-2,31672,Eisenhüttenstadt,Germany,rechnungswesen@romerhaustechnik.de,8490
+BIL-00427,Vrancken Bouwstoffen BV,BE0790311363,,Grietring 711,1859,Wihéries,Belgium,facturen@vranckenbouwstoffen.be,5680
+BIL-00428,Van Loo Bouwstoffen NV,BE0552147658,,Lucsteeg 4,2946,Villance,Belgium,,8340
+BIL-00429,Van Geest & Carnotte B.V.,NL480043678B28,Walter Softwarepartner GmbH,Beckmanngasse 43,21993,Dieburg,Germany,rechnung@waltersoftwarepartner.de,9790
+BIL-00430,Verbeke Verwarming NV,BE0432452044,,Paulaboulevard 8,1110,Vieuxville,Belgium,administratie@verbekeverwarming.be,5670
+BIL-00431,Aarden Bouwmaterialen V.O.F.,NL763047617B08,,Azrabaan 649,6804 DN,St. Willebrord,Netherlands,crediteuren@aardenbouwmaterialen.nl,5410
+BIL-00432,Muijs & Zonen B.V.,NL399580835B72,,Bartring 627,8932 HJ,Westmaas,Netherlands,administratie@muijszonen.nl,7660
+BIL-00433,Kamper Bouwcentrum V.O.F.,NL720754042B32,,Lukehof 2,9787 DC,Greonterp,Netherlands,facturen@kamperbouwcentrum.nl,17090
+BIL-00434,Peukert Baucenter GmbH & Co. KG,DE133960537,,Karlfried-Stiebitz-Allee 18-44,94107,Wunsiedel,Germany,buchhaltung@peukertbaucenter.de,14290
+BIL-00435,Rohleder Baustoffe GmbH - Holzminden,DE887637532,,Jungferallee 4396,35569,Holzminden,Germany,rechnung@rohlederbaustoffe.de,12210
+BIL-00436,Chevresson Installatietechniek B.V.,NL384026939B22,,Marksingel 679,3979 ZV,Chaam,Netherlands,crediteuren@chevressoninstallatietechniek.nl,6940
+BIL-00437,Van Nimwegen Installatietechniek V.O.F.,NL536371041B29,,Kianstraat 427,3040 DJ,Wesepe,Netherlands,facturen@vannimwegeninstallatietechniek.nl,4630
+BIL-00438,Roskoth Baustoffe KG,DE988434627,,Siegbert-Sontag-Weg 64/43,45491,Luckau,Germany,rechnungswesen@roskothbaustoffe.de,11120
+BIL-00439,Birnbaum Elektrogroßhandel GmbH,DE646581788,,Hubertus-Schulz-Straße 50/22,14758,Feuchtwangen,Germany,rechnungswesen@birnbaumelektrogrohandel.de,20100
+BIL-00440,Van Beieren Installatietechniek B.V.,NL273941324B54,,Alexanderboulevard 027,2938 VT,Nutter,Netherlands,facturen@vanbeiereninstallatietechniek.nl,4950
+BIL-00441,Pruschke & Stoll GmbH & Co. KG,DE235549617,,Junitzstraße 91/21,44747,Erkelenz,Germany,,5810
+BIL-00442,Sitters & Hoelen V.O.F.,NL761475488B20,,Ambersteeg 7,2350 WW,Wânswert,Netherlands,facturen@sittershoelen.nl,96000
+BIL-00443,Haering Baucenter KG,DE8472588237,,Speerring 4/2,73980,Hohenstein-Ernstthal,Germany,rechnungswesen@haeringbaucenter.de,5070
+BIL-00444,Van Wallaert Verwarming B.V.,NL174725150B68,,Nathanring 511,7042 LH,Waaksens,Netherlands,crediteuren@vanwallaertverwarming.nl,5320
+BIL-00445,Kambs & Dörr GmbH,DE715093779,,Laila-Mende-Straße 970,69519,Weimar,Germany,rechnungswesen@kambsdorr.de,6870
+BIL-00446,Verharen & Geneart B.V.,NL662715631B88,,Karlijnweg 25,9830 PH,Borssele,Netherlands,crediteuren@verharengeneart.nl,6390
+BIL-00447,Mosemann & Schwital GmbH & Co. KG,DE368265427,,Trommlergasse 9/1,99100,Bitterfeld,Germany,rechnungswesen@mosemannschwital.de,3270
+BIL-00448,Buelens Bouwmaterialen BV,BE0699550021,,Bartlaan 471,6937,Staden,Belgium,facturen@buelensbouwmaterialen.be,6070
+BIL-00449,Gerlach Baustoffhandel GmbH & Co.,DE652865676,,Gudrun-Eimer-Ring 53,26968,Schwarzenberg,Germany,buchhaltung@gerlachbaustoffhandel.de,3320
+BIL-00450,Schäfer Elektrogroßhandel GmbH,DE758291845,,Gerard-Albers-Straße 3,43876,Kelheim,Germany,buchhaltung@schaferelektrogrohandel.de,12790
+BIL-00451,Velderman Groep B.V.,NL109042266B38,,Miahof 9,6643 SA,Pieterzijl,Netherlands,crediteuren@veldermangroep.nl,
+BIL-00452,Groote Installatietechniek B.V.,NL858693619B52,,Jackring 9,1225 BJ,Tuil,Netherlands,crediteuren@grooteinstallatietechniek.nl,
+BIL-00453,Nette Heizungsbedarf GmbH,DE731536919,,Luigi-Trupp-Ring 66/92,09633,Lübeck,Germany,rechnung@netteheizungsbedarf.de,11830
+BIL-00454,Roessink Bouwcentrum B.V.,NL817723635B75,,Evylaan 636,5919 BJ,Klaaswaal,Netherlands,facturen@roessinkbouwcentrum.nl,21710
+BIL-00455,Vollbrecht & Faust GmbH,DE268460904,,Säuberlichweg 4,77923,Schwerin,Germany,rechnungswesen@vollbrechtfaust.de,2510
+BIL-00456,Recers Bouwmaterialen B.V.,NL257007785B24,,Isabellepad 80,8049 DP,Beneden-Leeuwen,Netherlands,crediteuren@recersbouwmaterialen.nl,8320
+BIL-00457,Holzapfel & Söhne GmbH & Co. KG,DE433517009,,Birgitt-Meyer-Gasse 53/44,83702,Berlin,Germany,rechnungswesen@holzapfelsohne.de,3120
+BIL-00458,De Leeuw Groep NV,BE0976773205,,Frederiklei 8,2611,Elsene,Belgium,facturen@deleeuwgroep.be,1880
+BIL-00459,Luyckx Elektro BV,BE0786241228,,Tanjapad 585,1984,Mont-Saint-Aubert,Belgium,facturen@luyckxelektro.be,4700
+BIL-00460,Krebs & Kallert KG,DE214908010,,Melissa-Mosemann-Platz 6,24563,Augsburg,Germany,rechnung@krebskallert.de,5090
+BIL-00461,Eigenwillig Baucenter KG - Lemgo,DE393310667,,Jopichallee 80,55354,Lemgo,Germany,rechnung@eigenwilligbaucenter.de,13710
+BIL-00462,Stoll Werkzeughandel GmbH,DE173574218,,Gottlieb-Misicher-Straße 9/4,25423,Viersen,Germany,buchhaltung@stollwerkzeughandel.de,10910
+BIL-00463,Moenen Elektrotechniek V.O.F.,NL608940398B21,,Olafsingel 6,7249 PA,Doorn,Netherlands,crediteuren@moenenelektrotechniek.nl,2150
+BIL-00464,Cosan Bouwcentrum V.O.F.,NL249840510B41,,Jakehof 46,8135 CA,Schardam,Netherlands,facturen@cosmanbouwcentrum.nl,1870
+BIL-00465,Eberhardt Elektrotechnik GmbH,DE222583664,,Wendelin-Hövel-Weg 6/2,13019,Stuttgart,Germany,rechnung@eberhardtelektrotechnik.de,9510
+BIL-00466,Rousselet Bouwstoffen B.V.,NL382831675B06,,Femboulevard 919,9463 KK,Lijnden,Netherlands,crediteuren@rousseletbouwstoffen.nl,21550
+BIL-00467,Verheyden Elektrogroothandel NV,BE0542396350,Van Brenen Software Partners B.V.,Larssteeg 08,5012 JE,Cromvoirt,Netherlands,crediteuren@vanbrenensoftwarepartners.nl,13000
+BIL-00468,Boetet Bouwcentrum B.V.,NL128297197B26,,Justindreef 472,4731 AB,Uitdam,Netherlands,crediteuren@boetetbouwcentrum.nl,7820
+BIL-00469,Michiels & Zonen B.V.,NL541020874B34,,Loeksingel 150,7322 ZT,Zuna,Netherlands,administratie@michielszonen.nl,11150
+BIL-00470,Westerbrg Bouwstoffen B.V.,NL723160986B33,,Bilalhof 52,3226 LV,Goedereede,Netherlands,administratie@westerburgbouwstoffen.nl,
+BIL-00471,Postma & Van Gelder B.V.,NL389107635B51,,Kyaraboulevard 37,3180 WX,Druten,Netherlands,crediteuren@postmavangelder.nl,
+BIL-00472,Rogner Industriebedarf GmbH,DE822657135,,Dippelplatz 35-45,14062,Spremberg,Germany,rechnungswesen@rognerindustriebedarf.de,
+BIL-00473,Martel Verwarming B.V.,NL197532382B45,,Nathanweg 211,1017 SD,Grootegast,Netherlands,facturen@martelverwarming.nl,12710
+BIL-00474,Elberts Elektro B.V.,NL351619881B70,,Nadiaweg 19,1724 PS,Heerlen,Netherlands,facturen@elbertselektro.nl,33270
+BIL-00475,Weyland Verwarming B.V.,NL376358226B80,,Lisepad 92,4104 ST,Domburg,Netherlands,administratie@weylandverwarming.nl,6070
+BIL-00476,Scholz & Gehringer KG,DE544737192,,Knappeweg 8794,96566,Eisleben,Germany,rechnung@scholzgehringer.de,3500
+BIL-00477,Wulff Industriebedarf,DE606497318,,Wellerstr. 73,02077,Döbeln,Germany,rechnungswesen@wulffindustriebedarf.de,3420
+BIL-00478,Heidrich & Lehmann KG,DE626072176,,Vollbrechtgasse 56/65,81946,Merseburg,Germany,rechnung@heidrichlehmann.de,12780
+BIL-00479,Claesdr Elektro B.V.,NL590622322B27,,Samlaan 6,5948 EK,Broekhuizen,Netherlands,administratie@claesdrelektro.nl,13300
+BIL-00480,Verhelst Bouwcentrum BV,BE0923998576,,Patrickdreef 86,1965,Kuurne,Belgium,administratie@verhelstbouwcentrum.be,4940
+BIL-00481,Ditschlerin Heizungsbedarf KG,DE341198293,,Killerstraße 52/23,39222,Brand,Germany,rechnungswesen@ditschlerinheizungsbedarf.de,30440
+BIL-00482,Van der Sande Elektro B.V.,NL295508799B78,,Jethof 63,7415 XB,Neerkant,Netherlands,crediteuren@vandersandeelektro.nl,6500
+BIL-00483,De Bruin Bouwcentrum B.V.,NL643950633B32,,Emmastraat 0,8919 LW,Goirle,Netherlands,crediteuren@debruinbouwcentrum.nl,12970
+BIL-00484,Van Riet Installatietechniek B.V.,NL861322340B33,,Loesring 084,5786 JL,Eleveld,Netherlands,crediteuren@vanrietinstallatietechniek.nl,2830
+BIL-00485,Noordijk Bouwstoffen B.V.,NL700294481B24,,Yfkelaan 57,8447 VX,Vortum-Mullem,Netherlands,facturen@noordijkbouwstoffen.nl,6740
+BIL-00486,Ketel Handel B.V.,NL880770209B41,,Lizweg 47,2079 XK,Startenhuizen,Netherlands,administratie@ketelhandel.nl,10050
+BIL-00487,Geisel Elektro GmbH,DE237134323,,Priska-Tschentscher-Allee 2/4,72494,Bautzen,Germany,buchhaltung@geiselelektro.de,14280
+BIL-00488,Wijland Bouwcentrum B.V.,NL951536517B85,,Esilaweg 748,4217 DB,Hilaard,Netherlands,administratie@wijlandbouwcentrum.nl,33010
+BIL-00489,Englebert Groupe SRL,BE0950474042,,Rue Polet 32,4292,Ottignies,Belgium,factures@englebertgroupe.be,18270
+BIL-00490,Dehmel Baucenter KG,DE722997665,,Daria-Rosenow-Gasse 3-4,23868,Rostock,Germany,buchhaltung@dehmelbaucenter.de,14730
+BIL-00491,Leys Techniek NV,BE0544586800,,Christianebaan 3,8471,Sint-Ulriks-Kapelle,Belgium,crediteuren@leystechniek.be,20860
+BIL-00492,Meyer Sanitär GmbH & Co. KG,DE939617000,,Raphaela-Seip-Ring 641,09339,Meiningen,Germany,rechnungswesen@meyersanitar.de,12710
+BIL-00493,Carsten Sanitär GmbH & Co. KG,DE184141769,,Erica-Bolzmann-Platz 9613,31838,Osterburg,Germany,rechnungswesen@carstensanitar.de,1550
+BIL-00494,Van de Elzas Elektrotechniek V.O.F.,NL340724985B186,,Rileysingel 72,4094 AZ,St. Willebrord,Netherlands,facturen@vandeelzaselektrotechniek.nl,6120
+BIL-00495,Merkx Bouwmaterialen B.V.,NL783616973B443,,Matssingel 92,5024 PN,Roodeschool,Netherlands,administratie@merkxbouwmaterialen.nl,8940
+BIL-00496,Löwer Industriebedarf KG,DE948758119,,Beckerstraße 3-6,81662,Eichstätt,Germany,rechnung@lowerindustriebedarf.de,14440
+BIL-00497,Schomber & Söhne GmbH & Co. KG,DE859945169,,Daria-Salz-Platz 699,99724,Cuxhaven,Germany,rechnungswesen@schombersohne.de,
+BIL-00498,Bauwens Installatietechniek NV,BE0118442805,,Daanpad 786,5322,Rotselaar,Belgium,facturen@bauwensinstallatietechniek.be,6350
+BIL-00499,Michielsen & Zonen NV,BE0952169608,,Leenhof 53,2907,Amay,Belgium,administratie@michielsenzonen.be,14380
+BIL-00500,Niermann Installatietechniek B.V.,NL565492204B47,,Elizehof 1,7882 TD,Kattendijke,Netherlands,crediteuren@niermanninstallatietechniek.nl,17420
+BIL-00501,Galenzone & Zonen B.V.,NL393469118B74,,Kickstraat 76,7683 AV,Braamt,Netherlands,facturen@galenzonezonen.nl,10380
+BIL-00502,VAN WICKERODE ELEKTRO B.V.,NL756379201B96,,Stenbaan 33,7577 BL,Guttecoven,Netherlands,facturen@vanwickerodeelektro.nl,16760
+BIL-00503,Van Parijs & Zonen B.V.,NL876357815B73,,Ilsestraat 5,5700 NT,Spaarndam,Netherlands,administratie@vanparijszonen.nl,3910
+BIL-00504,Carsten Baustoffe GmbH & Co. KG,DE909620527,,Peukertplatz 2-4,23581,Güstrow,Germany,rechnung@carstenbaustoffe.de,
+BIL-00505,Beyer & Vogt KG,DE575672443,,Seifertgasse 7,40827,Schwabmünchen,Germany,rechnung@beyervogt.de,1640
+BIL-00506,Brouwer Industrie,NL407904380B65,,Sophieboulevard 0,5019 TM,Zieuwent,Netherlands,administratie@brouwerindustrie.nl,9950
+BIL-00507,Hendrickx Électro SRL,BE0652637671,,Rue Bonnet 45,9471,Verviers,Belgium,factures@hendrickxelectro.be,11780
+BIL-00508,Lippens Bouwcentrum BV,BE0657906157,,Willydreef 3,2472,Ranst,Belgium,administratie@lippensbouwcentrum.be,7540
+BIL-00509,Voet & Zonen NV,BE0168000803,,Filipsteeg 99,6869,Bienne-lez-Happart,Belgium,administratie@voetzonen.be,6020
+BIL-00510,Van Holland Bouwmaterialen B.V.,NL108498023B43,,Quinnhof 69,3962 DZ,Gulpen,Netherlands,administratie@vanhollandbouwmaterialen.nl,5810
+BIL-00511,Luyten Technische Handel NV,BE0586708987,,Janstraat 2,6320,La Bruyère,Belgium,administratie@luytentechnischehandel.be,14450
+BIL-00512,Van Northeim & Zonen V.O.F.,NL649631327B73,,Mauritssingel 2,9386 BD,Boelenslaan,Netherlands,crediteuren@vannortheimzonen.nl,19550
+BIL-00513,Hethur Baucenter GmbH,DE294731649,,Schaafstr. 92-87,16090,Ochsenfurt,Germany,rechnungswesen@hethurbaucenter.de,10660
+BIL-00514,Verbruggen Bouwstoffen BV,BE0496472975,,Jozefhof 270,1501,Noirchain,Belgium,administratie@verbruggenbouwstoffen.be,4670
+BIL-00515,De Bock Elektrotechniek V.O.F.,NL547639171B55,,Arthurboulevard 72,7321 DS,Petten,Netherlands,administratie@debockelektrotechniek.nl,8950
+BIL-00516,De Bie Elektrotechniek NV,BE0178328639,,Janaring 80,3268,Plombières,Belgium,administratie@debieelektrotechniek.be,4780
+BIL-00517,Nijman Verwarming B.V.,NL996437267B95,,Bartdreef 455,2691 VK,Leimuiderbrug,Netherlands,crediteuren@nijmanverwarming.nl,22800
+BIL-00518,Van Wijland & Van Kuijc V.O.F.,NL688132450B11,,Sennasteeg 576,7328 DA,Heesch,Netherlands,administratie@vanwijlandvankuijc.nl,15600
+BIL-00519,Jonckheere Bouwmaterialen BV,BE0495949630,,Ingridpad 160,3019,As,Belgium,crediteuren@jonckheerebouwmaterialen.be,32110
+BIL-00520,Hertrampf & Söhne KG,DE610914579,,Leni-Hövel-Platz 2/1,47741,Arnstadt,Germany,buchhaltung@hertrampfsohne.de,4320
+BIL-00521,Welf Bouwstoffen B.V.,NL685957100B33,,Lindeweg 4,8415 TN,Westendorp,Netherlands,administratie@welfbouwstoffen.nl,26750
+BIL-00522,Van Duvenvoirde Bouwmaterialen V.O.F.,NL674895555B82,,Izepad 01,6297 HM,Esch,Netherlands,facturen@vanduvenvoirdebouwmaterialen.nl,
+BIL-00523,Jurrijens & Galenzone V.O.F.,NL794805953B57,,Rosalaan 374,7451 BN,Tzum,Netherlands,facturen@jurrijensgalenzone.nl,
+BIL-00524,Gabriel Électricité SA,BE0181084980,,Rue Thirion 97,8405,Verviers,Belgium,comptabilite@gabrielelectricite.be,18590
+BIL-00525,Van Roijen Elektrogroothandel B.V.,NL448669756B22,,Victoriaboulevard 84,6259 MW,Barger-Compascuum,Netherlands,facturen@vanroijenelektrogroothandel.nl,11750
+BIL-00526,Stamrood Industrie B.V.,NL918857275B63,,Jorthof 45,8677 JE,Vijfhuizen,Netherlands,crediteuren@stamroodindustrie.nl,15730
+BIL-00527,Löchel Sanitär GmbH & Co. KG,DE244153970,,Marie-Louise-Schottin-Platz 6/2,96159,Bad Langensalza,Germany,rechnungswesen@lochelsanitar.de,10280
+BIL-00528,Tillmanno & Van Daal B.V.,NL174956719B25,,Jasmijnsingel 1,2639 LZ,De Moer,Netherlands,administratie@tillmannovandaal.nl,10220
+BIL-00529,Noack Handel KG,DE490136011,,Langering 61/72,45743,Sigmaringen,Germany,buchhaltung@noackhandel.de,6000
+BIL-00530,Van der Maes & Kuit V.O.F.,NL383346670B94,,Isesteeg 7,6469 TT,Heesch,Netherlands,crediteuren@vandermaeskuit.nl,11560
+BIL-00531,Mens Bouwmaterialen B.V.,NL345680253B95,,Catosteeg 879,4340 VK,Neerijnen,Netherlands,administratie@mensbouwmaterialen.nl,2390
+BIL-00532,Ehlert Elektrogroothanel B.V.,NL541575005B13,,Tirzabaan 97,1138 CA,Blaricum,Netherlands,administratie@ehlertelektrogroothandel.nl,25410
+BIL-00533,Loep Elektrogroothandel B.V.,NL708197748B68,,Jamiering 368,6518 KC,Dinxperlo,Netherlands,administratie@loepelektrogroothandel.nl,15420
+BIL-00534,Deleu Verwarming,BE0313867729,,Wimboulevard 23,8704,Smeerebbe-Vloerzegem,Belgium,administratie@deleuverwarming.be,7480
+BIL-00535,Bolnbach & Kambs GmbH,DE842800803,,Ahmed-Boucsein-Allee 3,54072,Garmisch-Partenkirchen,Germany,buchhaltung@bolnbachkambs.de,5850
+BIL-00536,Bender Baustoffe GmbH & Co. KG,DE551627750,,Trubstr. 2,66428,Schmölln,Germany,,6080
+BIL-00537,Zobel & Söhne GmbH & Co. KG,DE559689340,,Valeska-Gorlitz-Weg 38,12401,Neustrelitz,Germany,rechnungswesen@zobelsohne.de,7420
+BIL-00538,Cools Bouwcentrum BV,BE0163589383,,Marialei 3,2094,Sint-Martens-Lennik,Belgium,administratie@coolsbouwcentrum.be,21400
+BIL-00539,Schrik & Mangel,NL946772144B11,,Jornlaan 206,2175 JW,Angerlo,Netherlands,administratie@schrikmangel.nl,9230
+BIL-00540,Waardeloo Bouwmaterialen B.V.,NL712051373B65,,Lanastraat 1,1697 PG,Scheerwolde,Netherlands,administratie@waardeloobouwmaterialen.nl,3680
+BIL-00541,Franke Heizungsbedarf KG,DE757780473,,Gereon-Karge-Straße 916,50872,Aurich,Germany,rechnungswesen@frankeheizungsbedarf.de,7900
+BIL-00542,Woudenberg Bouwstoffen B.V.,NL313767380B44,,Aminasingel 49,3764 CN,Ysbrechtum,Netherlands,facturen@woudenbergbouwstoffen.nl,3200
+BIL-00543,Lafleur & Zonen B.V.,NL669974638B46,,Liselaan 561,9751 DT,Wittem,Netherlands,facturen@lafleurzonen.nl,25030
+BIL-00544,Hehl & Timmermans B.V.,NL608306970B31,,Aiméepad 480,5231 GS,Raamsdonksveer,Netherlands,facturen@hehltimmermans.nl,4910
+BIL-00545,Zijlemans Elektro B.V.,NL340117837B74,,Milaweg 3,9752 LH,Oentsjerk,Netherlands,crediteuren@zijlemanselektro.nl,12370
+BIL-00546,Everaert & Verschueren BV,BE0693941069,,Elisesingel 249,6820,Hargimont,Belgium,crediteuren@everaertverschueren.be,7140
+BIL-00547,Winkler & Söhne GmbH,DE882267928,,Wilmsstr. 396,75153,Ochsenfurt,Germany,rechnungswesen@winklersohne.de,10320
+BIL-00548,Wensen Elektrotechniek B.V.,NL337342839B53,,Amiraweg 067,5944 EV,Beekbergen,Netherlands,crediteuren@wensenelektrotechniek.nl,
+BIL-00549,Vandewalle Elektro NV,BE0508732434,,Ankeweg 97,5637,Baillamont,Belgium,administratie@vandewalleelektro.be,6440
+BIL-00550,Scherms Elektrotechniek V.O.F.,NL703068400B14,,Martsingel 4,3142 NV,Kapellebrug,Netherlands,facturen@schermselektrotechniek.nl,4090
+BIL-00551,Rörricht Industriebedarf KG,DE373915696,,Knappeallee 3,42106,Olpe,Germany,buchhaltung@rorrichtindustriebedarf.de,10560
+BIL-00552,Roukes & Galijn,NL248831220B68,,Mettepad 13,7159 RD,Spijkerboor,Netherlands,crediteuren@roukesgalijn.nl,
+BIL-00553,Van de Biesenbos Elektrogroothandel B.V.,NL202988942B07,,Eliassteeg 0,5612 LJ,Edam,Netherlands,facturen@vandebiesenboselektrogroothand.nl,10810
+BIL-00554,Olthof Verwarming B.V.,NL959629660B14,,Marijnboulevard 95,1993 PM,Bingelrade,Netherlands,crediteuren@olthofverwarming.nl,5680
+BIL-00555,Albers & Kitzmann GmbH,DE324292944,,Rennerweg 7734,63902,Neu-Ulm,Germany,rechnung@alberskitzmann.de,
+BIL-00556,De Haas & Le Floch VOF,NL508903050B38,,Willemdreef 86,9788 WD,Overasselt,Netherlands,administratie@dehaaslefloch.nl,2660
+BIL-00557,Van Spreuwel & Puig B.V.,NL587096273B48,,Melissalaan 0,9807 EP,Veenoord,Netherlands,administratie@vanspreuwelpuig.nl,24800
+BIL-00558,Jonkman & Hermans B.V.,NL199226690B63,,Yinthehof 20,5249 SK,Zalk,Netherlands,administratie@jonkmanhermans.nl,10620
+BIL-00559,Hermans Électro SRL,BE0141110761,,Rue De Coster 84,7107,Nivelles,Belgium,comptabilite@hermanselectro.be,7360
+BIL-00560,Groen Installatietechniek V.O.F.,NL132239174B08,,Lizasingel 7,8795 ZM,Kollum,Netherlands,facturen@groeninstallatietechniek.nl,12800
+BIL-00561,Wohlgemut Baustoffe GmbH,DE679416824,,Freia-auch Schlauchin-Gasse 3/9,73979,Kaiserslautern,Germany,rechnungswesen@wohlgemutbaustoffe.de,2290
+BIL-00562,Petit & Massin SA,BE0185973340,,Rue Toussaint 83,2680,La Louvière,Belgium,comptabilite@petitmassin.be,11510
+BIL-00563,Reuter Elektrotechnik KG,DE444774443,Walter Softwarepartner GmbH,Beckmanngasse 43,21993,Dieburg,Germany,rechnung@waltersoftwarepartner.de,6780
+BIL-00564,Van Noordeloos Bouwstoffen B.V.,NL704824173B51,,Azralaan 0,8368 LR,Breukelen,Netherlands,facturen@vannoordeloosbouwstoffen.nl,
+BIL-00565,Strijker Elektrogroothandel B.V.,NL824067553B76,,Nicksteeg 320,3585 VT,Beverwijk,Netherlands,crediteuren@strijkerelektrogroothandel.nl,12660
+BIL-00566,Van Drenthe Verwarming VOF,NL184777341B51,,Jellelaan 0,4860 TL,De Bilt,Netherlands,crediteuren@vandrentheverwarming.nl,21570
+BIL-00567,Johann Elektrotechnik GmbH,DE895024339,,Alexej-Heß-Weg 5-3,74735,Kemnath,Germany,rechnungswesen@johannelektrotechnik.de,14020
+BIL-00568,Lemmens & Zonen BV,BE0502141680,,Lindeboulevard 363,3253,Neerpelt,Belgium,facturen@lemmenszonen.be,28710
+BIL-00569,Doorhof Installatietechniek B.V.,NL112279027B34,,Jortbaan 23,5947 XX,Hooge Mierde,Netherlands,facturen@doorhofinstallatietechniek.nl,2200
+BIL-00570,Pergande Haustechnik GmbH,DE192790248,,Kösterstraße 39-68,96690,Gadebusch,Germany,rechnung@pergandehaustechnik.de,126000
+BIL-00571,Molen Industrie V.O.F.,NL114613019B18,,Loïssteeg 88,1045 NJ,Geldrop,Netherlands,administratie@molenindustrie.nl,8270
+BIL-00572,Lievens Technische Handel BV,BE0629349488,,Inehof 47,2468,Gemmenich,Belgium,crediteuren@lievenstechnischehandel.be,7790
+BIL-00573,Yilmaz Elektro NV,BE0865694462,,Raymondring 60,5037,Wulpen,Belgium,facturen@yilmazelektro.be,6330
+BIL-00574,Kraushaar & Klapp GmbH & Co. KG,DE292118167,,Deborah-Junck-Allee 69/30,95859,Rockenhausen,Germany,rechnung@kraushaarklapp.de,15630
+BIL-00575,Ligtvoet & Konings V.O.F.,NL508469182B07,,Kiandreef 09,1416 SH,Numansdorp,Netherlands,facturen@ligtvoetkonings.nl,12280
+BIL-00576,Hörle & Söhne GmbH,DE286828884,,Ekkehard-Dietz-Weg 933,14886,Pinneberg,Germany,rechnung@horlesohne.de,7240
+BIL-00577,Kremer Instal. B.V.,NL434065879B91,,Aliciastraat 37,9442 GC,Guttecoven,Netherlands,crediteuren@kremerinstallatietechniek.nl,13890
+BIL-00578,Sanders Bouwstoffen B.V.,NL147285340B02,,Anneweg 4,4742 VA,Amsterdam,Netherlands,administratie@sandersbouwstoffen.nl,16940
+BIL-00579,Koch Elektrogroßhandel GmbH,DE165181159,,Kambsplatz 97-55,94690,Crailsheim,Germany,rechnungswesen@kochelektrogrohandel.de,18200
+BIL-00580,Van der Ven Bouwcentrum V.O.F.,NL597812327B60,,Valeriedreef 18,8563 MP,Zandpol,Netherlands,crediteuren@vandervenbouwcentrum.nl,2700
+BIL-00581,Bresse Bouwcentrum B.V.,NL683579921B01,,Tobiasstraat 1,8514 TT,Ellewoutsdijk,Netherlands,facturen@bressebouwcentrum.nl,7200
+BIL-00582,Buchholz Werkzeughandel GmbH,DE489399078,,Andersgasse 31/86,70948,Neu-Ulm,Germany,rechnung@buchholzwerkzeughandel.de,2700
+BIL-00583,Elbertse & Van de Velden B.V.,NL597950004B81,,Pieterweg 31,7243 ZL,Gilze,Netherlands,crediteuren@elbertsevandevelden.nl,11700
+BIL-00584,Van Impe Sanitair BV,BE0380004069,,Muratpad 0,1265,Herselt,Belgium,administratie@vanimpesanitair.be,3400
+BIL-00585,Hermann & Weimer GmbH & Co. KG,DE899090310,,Guiseppe-Kruschwitz-Gasse 81,82595,Stendal,Germany,rechnungswesen@hermannweimer.de,6020
+BIL-00586,Junck Werkzeughandel GmbH & Co. KG,DE677946218,,Ritterweg 171,74456,Kamenz,Germany,rechnung@junckwerkzeughandel.de,4250
+BIL-00587,Heymans Bouwstoffen NV,BE0830569336,,Sennehof 158,7927,Vyle-et-Tharoul,Belgium,facturen@heymansbouwstoffen.be,
+BIL-00588,Lonen & Schrik B.V.,NL383299427B81,,Siennahof 75,6280 ZT,Hitzum,Netherlands,administratie@lonenschrik.nl,10250
+BIL-00589,Wulff & Holt GmbH,DE185099798,,Yasmin-Freudenberger-Gasse 1348,33886,Aurich,Germany,rechnung@wulffholt.de,14000
+BIL-00590,Van Boulogne Bouwcentrum B.V.,NL374371559B58,,Casperbaan 85,9208 PX,Niftrik,Netherlands,facturen@vanboulognebouwcentrum.nl,6620
+BIL-00591,Van Hoecke & Loos BV,BE0123681194,,Merelbaan 758,7961,Kampenhout,Belgium,facturen@vanhoeckeloos.be,12410
+BIL-00592,Heinz Elektro GmbH & Co. KG,DE727416570,Limbourg IT Solutions BV,Rue Delvaux 92,6635,Wavre,Belgium,factures@limbourgitsolutions.be,26460
+BIL-00593,Van Loon Groep B.V.,NL908870287B45,,Nadinelaan 561,9966 MP,Kraggenburg,Netherlands,facturen@vanloongroep.nl,12570
+BIL-00594,Matthijs & Van den Eynde SA,BE0864820968,,Rue Diallo 27,5713,Liège,Belgium,factures@matthijsvandeneynde.be,16370
+BIL-00595,Vallenduuk Bouwcentrum B.V.,NL229238160B38,,Brittlaan 8,4083 ZZ,Bears,Netherlands,crediteuren@vallenduukbouwcentrum.nl,14830
+BIL-00596,Wilkin & Fils SRL,BE0177531324,,Rue Gosset 127,3365,Liège,Belgium,comptabilite@wilkinfils.be,5940
+BIL-00597,Friehus Technische Handel B.V.,NL749208541B52,,Larasingel 50,5535 VB,Rien,Netherlands,administratie@friehustechnischehandel.nl,21760
+BIL-00598,Eelman & Zonen B.V.,NL605359412B94,Van der Spaendonc ICT Diensten B.V.,Majabaan 65,4582 JV,Heesch,Netherlands,facturen@vanderspaendoncictdiensten.nl,8050
+BIL-00599,Moensendijk Verwarming B.V.,NL200131180B12,Van Brenen Software Partners B.V.,Larssteeg 08,5012 JE,Cromvoirt,Netherlands,crediteuren@vanbrenensoftwarepartners.nl,11050
+BIL-00600,Fredriks Verwarming V.O.F.,NL880357575B97,,Marastraat 596,2642 VE,Nijehaske,Netherlands,administratie@fredriksverwarming.nl,19720
+BIL-00601,Van Acker Technische Handel BV,BE0308889819,,Jean-Pierrestraat 874,8736,Clavier,Belgium,crediteuren@vanackertechnischehandel.be,4700
+BIL-00602,Schmitz Électricité SRL,BE0396468739,,Rue Denis 130,6494,Mons,Belgium,factures@schmitzelectricite.be,2480
+BIL-00603,Van Parijs & Zonen V.O.F.,NL797642338B79,,Nathanbaan 189,1396 HJ,Wânswert,Netherlands,administratie@vanparijszonen.nl,4640
+BIL-00604,Löffler Handel GmbH,DE150518836,,Jungfergasse 55,74051,Wesel,Germany,buchhaltung@lofflerhandel.de,6510
+BIL-00605,Spruyt Technische Handel V.O.F.,NL254917225B14,,Jaylinnsingel 758,4865 RH,Winterswijk,Netherlands,administratie@spruyttechnischehandel.nl,9260
+BIL-00606,Beourgeois & Zone nB.V.,NL386437094B80,,Jensbaan 394,9934 VE,Ens,Netherlands,administratie@beourgeoiszonen.nl,7010
+BIL-00607,Van der Spaendonck Installatietechniek B.V.,NL686441554B74,,Nickweg 479,9220 KR,Haaften,Netherlands,crediteuren@vanderspaendonckinstallatietec.nl,90000
+BIL-00608,Veenstra Bouwmaterialen V.O.F.,NL718487909B64,,Lizboulevard 51,7898 VE,Groet,Netherlands,facturen@veenstrabouwmaterialen.nl,4360
+BIL-00609,Adolph Baustoffe GmbH & Co. KG,DE622521131,,Wesackring 22,36960,Bremen,Germany,buchhaltung@adolphbaustoffe.de,
+BIL-00610,Vanden Eynde & Zonen NV,BE0452395271,,Maximring 273,9474,Heure-le-Romain,Belgium,facturen@vandeneyndezonen.be,12460
+BIL-00611,Van Hoecke Bouwcentrum BV,BE0446607854,,Jenniferstraat 47,3105,Overijse,Belgium,administratie@vanhoeckebouwcentrum.be,3660
+BIL-00612,Lebon Chauffage SRL,BE0811198748,,Rue Noël 2,9380,Mons,Belgium,comptabilite@lebonchauffage.be,6170
+BIL-00613,Sam Verwarming V.O.F.,NL977851100B37,,Damianweg 6,3461 LZ,Enumatil,Netherlands,administratie@samverwarming.nl,29510
+BIL-00614,Simon Sanitaire SA,BE0964872376,,Rue Laurent 172,2389,Verviers,Belgium,factures@simonsanitaire.be,5560
+BIL-00615,Van Arkel Verwarming B.V.,NL671671189B58,,Lexlaan 51,1769 KR,Witteveen,Netherlands,facturen@vanarkelverwarming.nl,21940
+BIL-00616,Courtier Technische Handel B.V.,NL215837729B69,,Collinsingel 96,3824 RD,Neerlangel,Netherlands,facturen@courtiertechnischehandel.nl,10790
+BIL-00617,Weinhold & Söhne GmbH,DE878001797,,Alicja-Römer-Allee 11/76,27961,Nordhausen,Germany,rechnungswesen@weinholdsohne.de,6390
+BIL-00618,Van Noort Bouwmaterialen B.V.,NL411859380B01,,Dylanweg 05,7250 HD,Winterswijk Woold,Netherlands,facturen@vannoortbouwmaterialen.nl,
+BIL-00619,Kleybrink & Zonen B.V.,NL861292088B42,,Lizzsteeg 02,4626 JA,Vleuten,Netherlands,crediteuren@kleybrinkzonen.nl,6400
+BIL-00620,Ligtvoet Bouwcentrum B.V.,NL191842179B08,,Noortjepad 033,8314 XD,Broek in Waterland,Netherlands,crediteuren@ligtvoetbouwcentrum.nl,19960
+BIL-00621,Van 't Erve Handel B.V.,NL563053223B04,,Corneliasingel 923,1001 KT,Aalsmeer,Netherlands,administratie@vantervehandel.nl,36300
+BIL-00622,Stoll Haustechnik GmbH,DE405472873,,Victor-Schweitzer-Ring 84-50,73103,Schweinfurt,Germany,buchhaltung@stollhaustechnik.de,
+BIL-00623,Denis Matériaux de Construction SRL,BE0531271977,,Rue Descamps 61,9912,Ottignies,Belgium,factures@denismateriauxdeconstruction.be,20970
+BIL-00624,Van de Darnau Handel B.V.,NL187040987B59,,Nielsdreef 742,6300 EA,Eijsden,Netherlands,crediteuren@vandedarnauhandel.nl,
+BIL-00625,Colen Bouwmaterialen,NL259128258B73,,Jacobhof 69,2843 RE,Molenschot,Netherlands,facturen@coolenbouwmaterialen.nl,15010
+BIL-00626,Walter Verwarming B.V.,NL840076530B49,,Loeksingel 8,8187 HA,Den Dungen,Netherlands,administratie@walterverwarming.nl,9460
+BIL-00627,Söding & Söhne GmbH & Co. KG,DE4394515564,,Tatjana-Eimer-Ring 91,83277,Schrobenhausen,Germany,buchhaltung@sodingsohne.de,9590
+BIL-00628,Vermeulen Verwarming BV,BE0368648974,,Josephpad 5,2251,Petegem-aan-de-Leie,Belgium,crediteuren@vermeulenverwarming.be,7350
+BIL-00629,Dennenberg Verwarming B.V.,NL583564328B98,,Stefbaan 66,2204 PV,Hidaard,Netherlands,facturen@dennenbergverwarming.nl,
+BIL-00630,De Hoog Verwarming B.V.,NL773452004B25,,Jipstraat 79,5053 TJ,Deurne,Netherlands,facturen@dehoogverwarming.nl,7300
+BIL-00631,Wutke Installatietechniek V.O.F.,NL853866212B80,,Amirstraat 0,5669 RL,Rilland,Netherlands,facturen@wutkeinstallatietechniek.nl,7960
+BIL-00632,DENYS & WAUTERS BV,BE0325354965,,Brentring 82,4882,Ghislenghien,Belgium,crediteuren@denyswauters.be,15490
+BIL-00633,Willems & Verstraeten BV,BE0258397223,,Sigriddreef 70,7677,Wetteren,Belgium,crediteuren@willemsverstraeten.be,3780
+BIL-00634,Gérard Groupe SA,BE0463294047,,Rue Desmet 30,2072,Ottignies,Belgium,factures@gerardgroupe.be,
+BIL-00635,De Grote Verwarming B.V.,NL200395400B52,,Joepsingel 54,5914 CB,Ypecolsga,Netherlands,facturen@degroteverwarming.nl,8100
+BIL-00636,Henck Technik GmbH,DE650320457,,Patrik-Stiebitz-Weg 77-94,49983,Pfaffenhofen an der Ilm,Germany,rechnung@hencktechnik.de,6950
+BIL-00637,Preiß Baustoffhandel GmbH,DE182360064,,Hübelplatz 8,26863,Grimma,Germany,rechnung@preibaustoffhandel.de,
+BIL-00638,Tielemans & Zonen BV,BE0730621745,,Auréliehof 96,7639,Fauroeulx,Belgium,facturen@tielemanszonen.be,10660
+BIL-00639,Kabus Baustoffhandel GmbH,DE581736456,,Truppplatz 5,80676,Calw,Germany,rechnung@kabusbaustoffhandel.de,11450
+BIL-00640,Bauer Elektrogroßhandel GmbH & Co. KG,DE705510298,,Wielochgasse 7/4,13332,Eberswalde,Germany,rechnungswesen@bauerelektrogrohandel.de,4000
+BIL-00641,Le Gallen Elektrogroothandel B.V.,NL734881737B60,,Mellehof 107,9477 ST,Afferden,Netherlands,administratie@legallenelektrogroothandel.nl,11030
+BIL-00642,Bauer Elektrogroßhandel GmbH,DE703755635,,Alla-Schleich-Straße 82/86,04216,Torgau,Germany,rechnungswesen@bauerelektrogrohandel.de,13570
+BIL-00643,Seidel Elektrogroßhandel GmbH,DE317055967,,Krausegasse 9791,51227,Hamburg,Germany,buchhaltung@seidelelektrogrohandel.de,6370
+BIL-00644,Perkins & Verheuvel V.O.F.,NL677232702B16,,Charlotteweg 6,1497 ZB,Mijnsheerenland,Netherlands,administratie@perkinsverheuvel.nl,8040
+BIL-00645,Dijkman Technische Handel B.V.,NL660244963B63,,Lisering 12,4763 CR,Cornwerd,Netherlands,administratie@dijkmantechnischehandel.nl,4740
+BIL-00646,Van den Nuwenhuysen & Van der Linden B.V.,NL154398124B03,,Kyaradreef 0,7365 JB,Heukelom,Netherlands,administratie@vandennuwenhuysenvanderlinden.nl,15890
+BIL-00647,Thys Elektrotechniek NV,BE0450236225,,Annestraat 59,7691,Beez,Belgium,crediteuren@thyselektrotechniek.be,28510
+BIL-00648,Albers & Soehne GmbH & Co. KG,DE706085186,,Klotzgasse 569,46411,Parchim,Germany,rechnung@alberssohne.de,9470
+BIL-00649,Van den Velde Bouwcentrum B.V.,NL615850547B32,,Esméeboulevard 596,1979 DW,Zorgvlied,Netherlands,crediteuren@vandenveldebouwcentrum.nl,4770
+BIL-00650,Van Gemert Bouwstoffen B.V.,NL838993835B90,,Jasmijnpad 50,6542 VV,Hobrede,Netherlands,crediteuren@vangemertbouwstoffen.nl,82000
+BIL-00651,De Coster & Cuypers NV,BE0920275276,,Jeanhof 5,9585,Ways,Belgium,administratie@decostercuypers.be,22440
+BIL-00652,Müller und Kraus GmbH,DE867440618,,Austermühlering 4003,27880,Mainburg,Germany,rechnung@mullerkraus.de,3880
+BIL-00653,Kabus Baucenter KG,DE789273480,,Heuserring 5,05067,Lemgo,Germany,buchhaltung@kabusbaucenter.de,9790
+BIL-00654,Lnkle & Janssens V.O.F.,NL951109462B62,,Laraweg 1,6781 NT,Aagtekerke,Netherlands,facturen@lanklejanssens.nl,8300
+BIL-00655,Everts Installatietechniek B.V.,NL631561911B59,,Luukweg 1,2090 HK,Grijpskerke,Netherlands,crediteuren@evertsinstallatietechniek.nl,3150
+BIL-00656,Keudel Industriebedarf GmbH,DE258362512,,Jacqueline-Hauffer-Gasse 4,61184,Staffelstein,Germany,rechnung@keudelindustriebedarf.de,8300
+BIL-00657,Van der Klijn Bouwmaterialen B.V.,NL192027526B86,,Fayboulevard 43,2009 ED,Mussel,Netherlands,administratie@vanderklijnbouwmaterialen.nl,
+BIL-00658,Koster eVrwarming B.V.,NL684805001B38,,Tirzasteeg 126,1347 BD,Werkendam,Netherlands,facturen@kosterverwarming.nl,4750
+BIL-00659,Van Olst Elektro B.V.,NL569172971B52,,Pienweg 36,5476 DN,Kalenberg,Netherlands,facturen@vanolstelektro.nl,23380
+BIL-00660,Janssens Techniek BV,BE0281436558,,Marclaan 10,3430,Merendree,Belgium,facturen@janssenstechniek.be,9410
+BIL-00661,Beier Elektro GmbH & Co. KG,DE414374261,,Pascal-Krein-Platz 3/8,51844,Saarbrücken,Germany,rechnungswesen@beierelektro.de,55660
+BIL-00662,Toussaint Électricité SA,BE0421139569,,Rue Mertens 146,6426,Nivelles,Belgium,comptabilite@toussaintelectricite.be,
+BIL-00663,Rosemann Industriebedarf GmbH,DE482281482,,Hörleallee 4953,82147,Amberg,Germany,rechnung@rosemannindustriebedarf.de,
+BIL-00664,Thys Installatietechniek BV,BE0277795347,,Svenweg 68,3647,Diksmuide,Belgium,administratie@thysinstallatietechniek.be,14220
+BIL-00665,Junk Baustoffhandel GmbH,DE631381642,,Heserring 5/9,32437,Norden,Germany,buchhaltung@junkbaustoffhandel.de,6340
+BIL-00666,Lange Fournitures Techniques SA,BE0955344669,,Rue Lefebvre 24,2889,Mons,Belgium,factures@langefourniturestechniques.be,6160
+BIL-00667,VAN NOROT ELEKTRO B.V.,NL210152642B02,,Duukboulevard 656,5786 ET,Eexterveen,Netherlands,administratie@vannoortelektro.nl,7910
+BIL-00668,Charlier & Delvaux SA,BE0312762389,,Rue Demaret 82,6244,La Louvière,Belgium,comptabilite@charlierdelvaux.be,3510
+BIL-00669,Rijntjes & Zonen V.O.F.,NL924619873B10,,Wesleystraat 527,5705 TV,Odoorn,Netherlands,crediteuren@rijntjeszonen.nl,6960
+BIL-00670,Blom Sanitair B.V.,NL845225335B13,,Wesselboulevard 677,6109 HH,De Tike,Netherlands,facturen@blomsanitair.nl,4290
+BIL-00671,Wulf Elektrotechnik GmbH,DE317464915,,Tröststr. 3-3,98240,Cloppenburg,Germany,buchhaltung@wulfelektrotechnik.de,2530
+BIL-00672,Verbeeck Elektrogroothandel B.V.,NL537862298B23,,Ceylinsingel 82,6265 BS,Noordwelle,Netherlands,crediteuren@verbeeckelektrogroothandel.nl,
+BIL-00673,De Groote Elektrotechniek NV,BE0898577406,,Nicolestraat 4,3530,Wervik,Belgium,crediteuren@degrooteelektrotechniek.be,9590
+BIL-00674,Antoine Matériaux SA,BE0896122101,,Rue Pire 32,9759,Liège,Belgium,factures@antoinemateriaux.be,6510
+BIL-00675,Holt Werkzeughandel GmbH,DE702533755,,Franz-Jacob-Allee 75-24,87215,Heinsberg,Germany,rechnung@holtwerkzeughandel.de,139000
+BIL-00676,Segers Bouwcentrum NV,BE0184754106,,Wimbaan 423,3439,Dilsen-Stokkem,Belgium,crediteuren@segersbouwcentrum.be,5010
+BIL-00677,Rädel & Söhne GmbH & Co. KG,DE110899674,Van der Spaendonc ICT Diensten B.V.,Majabaan 65,4582 JV,Heesch,Netherlands,facturen@vanderspaendoncictdiensten.nl,22070
+BIL-00678,Möchlichen & Söhne GmbH,DE421306214,,Dobesweg 5/9,19110,Kyritz,Germany,,4370
+BIL-00679,Kranz Werkzeughandel GmbH & Co. KG,DE103250098,,Ortrun-Flantz-Platz 8569,76324,Tecklenburg,Germany,buchhaltung@kranzwerkzeughandel.de,10570
+BIL-00680,Steuer Technik GmbH,DE926188073,,Loosstr. 21/36,21465,Reutlingen,Germany,buchhaltung@steuertechnik.de,7290
+BIL-00681,Wilmont Industrie V.O.F.,NL992320057B59,,Kimlaan 20,8288 VE,Grathem,Netherlands,administratie@wilmontindustrie.nl,3620
+BIL-00682,De Jager Elektro B.V.,NL482906258B32,,Nikkisingel 0,3848 BX,Kinderdijk,Netherlands,crediteuren@dejagerelektro.nl,12480
+BIL-00683,Oosterhout Sanitair B.V.,NL792944501B10,,Aminasingel 099,8236 JK,Ellewoutsdijk,Netherlands,crediteuren@oosterhoutsanitair.nl,5170
+BIL-00684,Kort Elektro B.V.,NL952970175B89,,Mohammedsingel 05,1744 XB,Grafhorst,Netherlands,administratie@kortelektro.nl,6950
+BIL-00685,Huisman & Zonen B.V.,NL621165231B38,,Jolijnring 941,8251 GD,Steenwijkerwold,Netherlands,facturen@huismanzonen.nl,3210
+BIL-00686,Peeters Techniek BV,BE0385235995,,Yarasingel 789,5610,Lettelingen,Belgium,administratie@peeterstechniek.be,5630
+BIL-00687,Stumpf Sanitär GmbH,DE128764452,,Ortwin-Mentzel-Gasse 9863,95549,Beilngries,Germany,rechnungswesen@stumpfsanitar.de,4150
+BIL-00688,Mühle & Herrmann KG,DE912275640,,Klemmallee 5,12892,Prenzlau,Germany,rechnungswesen@muhleherrmann.de,3500
+BIL-00689,Lips Bouwcentrum V.O.F.,NL945923902B81,,Joeplaan 3,2166 JK,Haskerhorne,Netherlands,administratie@lipsbouwcentrum.nl,4560
+BIL-00690,Van den Berg & Van de Plas V.O.F.,NL530097895B70,,Renskeweg 58,6629 CT,Oosterstreek,Netherlands,crediteuren@vandenbergvandeplas.nl,7550
+BIL-00691,Klein Bouwstoffen B.V.,NL800831233B83,,Joshuadreef 424,8674 TM,Easterlittens,Netherlands,facturen@kleinbouwstoffen.nl,7150
+BIL-00692,Wauters & oZnen BV,BE0793773681,,Erikpad 70,9266,Hoevenen,Belgium,crediteuren@wauterszonen.be,8370
+BIL-00693,Schweitzer Elektro GmbH & Co. KG,DE993599071,,Friedhold-Schlosser-Allee 20-42,32699,Stuttgart,Germany,rechnungswesen@schweitzerelektro.de,4510
+BIL-00694,Van Praagh Bouwmaterialen V.O.F.,NL911325224B95,,Hannahstraat 89,7587 CT,Ekehaar,Netherlands,crediteuren@vanpraaghbouwmaterialen.nl,9750
+BIL-00695,Hartung Baustoffhandel GmbH,DE113598909,,Spießstr. 97/68,16722,Haldensleben,Germany,rechnung@hartungbaustoffhandel.de,9100
+BIL-00696,Zaal Bouwmaterialen B.V.,NL151212235B21,,Alexanderbaan 25,9062 TP,Markenbinnen,Netherlands,administratie@zaalbouwmaterialen.nl,7620
+BIL-00697,De Backer Bouwmaterialen,BE0186094666,,Philipsteeg 495,1810,Petit-Roeulx-lez-Braine,Belgium,facturen@debackerbouwmaterialen.be,
+BIL-00698,Schenk Baucenter GmbH,DE307511166,,Dippelallee 48,22534,Kronach,Germany,rechnung@schenkbaucenter.de,
+BIL-00699,Brizee Techniek B.V.,NL848486223B19,,Tessweg 43,3699 KD,Woerdense Verlaat,Netherlands,crediteuren@brizeetechniek.nl,
+BIL-00700,Van Spreeuwel & Zonen B.V.,907865473B92,,Amirsteeg 484,4123 ZE,Terschuur,Netherlands,administratie@vanspreeuwelzonen.nl,2480
+BIL-00701,Puig Installatietechniek V.O.F.,NL842716738B54,,Gielsteeg 233,7566 WV,Marijenkampen,Netherlands,crediteuren@puiginstallatietechniek.nl,20810
+BIL-00702,Jadoul Chauffage SRL,BE0924198469,,Rue Urbain 26,3875,Ottignies,Belgium,comptabilite@jadoulchauffage.be,9010
+BIL-00703,Chotzen Industrie B.V.,NL885764410B96,,Twansteeg 9,5875 SV,Meeuwen,Netherlands,facturen@chotzenindustrie.nl,7580
+BIL-00704,Lelijveld Bouwcentrum V.O.F.,NL362380248B01,,Rubenring 83,2453 WK,Zweeloo,Netherlands,facturen@lelijveldbouwcentrum.nl,7960
+BIL-00705,Mens Elektrotechniek V.O.F. - Herpen,NL561681813B52,,Yassinstraat 469,8421 EX,Herpen,Netherlands,facturen@menselektrotechniek.nl,6100
+BIL-00706,Keltenie Groep B.V.,NL989931797B53,,Lizapad 18,5859 GH,Ursem,Netherlands,facturen@kelteniegroep.nl,7610
+BIL-00707,Heijmans & Van Beieren B.V.,NL797145408B24,,Sennabaan 5,4789 DX,Wijhe,Netherlands,crediteuren@heijmansvanbeieren.nl,3040
+BIL-00708,Wohlgemut Sanitär KG,DE289409450,,Anna-Marie-Hänel-Weg 77/68,23432,Lörrach,Germany,rechnung@wohlgemutsanitar.de,8970
+BIL-00709,Warmer Gruppe KG,DE236979608,,Gierschnergasse 8-3,78702,Pfaffenhofen an der Ilm,Germany,rechnungswesen@warmergruppe.de,4670
+BIL-00710,Mahieu Industrie BV,BE0376721617,,Matthiasdreef 8,9621,Nalinnes,Belgium,administratie@mahieuindustrie.be,7310
+BIL-00711,Thomas & Zonen BV,BE0182261164,,Anjalei 886,1931,Kapellen,Belgium,facturen@thomaszonen.be,24890
+BIL-00712,Seifert Elektrogroßhandel GmbH & Co. KG,DE570365157,,Gehringergasse 65-53,05260,Angermünde,Germany,rechnung@seifertelektrogrohandel.de,7350
+BIL-00713,Van Geffen & Sitters B.V.,NL135618183B76,,Mettestraat 12,9905 TE,Sevenum,Netherlands,crediteuren@vangeffensitters.nl,16840
+BIL-00714,Brands Sanitair B.V.,NL966810433B70,,Aronsingel 05,6467 CW,Mookhoek,Netherlands,crediteuren@brandssanitair.nl,46060
+BIL-00715,Hehl & Huisman B.V.,NL497529831B47,,Stefanstraat 9,6963 KR,Giessenburg,Netherlands,administratie@hehlhuisman.nl,4190
+BIL-00716,Greij Groep B.V.,NL118830065B54,,Lottelaan 76,6876 XE,Velsen-Zuid,Netherlands,crediteuren@greijgroep.nl,12490
+BIL-00717,Van Rijnsbergen & Zonen B.V.,NL956670202B61,,Jannalaan 0,5449 LS,Oud Annerveen,Netherlands,facturen@vanrijnsbergenzonen.nl,10090
+BIL-00718,Bierstraten & De Gratie,NL761122988B68,,Youssefsingel 48,3905 SP,Hauwert,Netherlands,administratie@bierstratendegratie.nl,3200
+BIL-00719,Buchholz & Johann GmbH,DE972792130,,Hoffmanngasse 1-6,13245,Mittweida,Germany,buchhaltung@buchholzjohann.de,5350
+BIL-00720,Kort Elektrotechniek V.O.F.,NL755058332B12,,Berendpad 64,9469 CV,Rotterdam-Albrandswaard,Netherlands,crediteuren@kortelektrotechniek.nl,3570
+BIL-00721,Wigman Industrie B.V.,NL714899200B95,,Dylanostraat 8,6231 SD,Nijbroek,Netherlands,crediteuren@wigmanindustrie.nl,16330
+BIL-00722,Ketel Sanitair B.V.,NL425623035B38,,Majaweg 9,7086 LN,Nieuwveen,Netherlands,facturen@ketelsanitair.nl,17230
+BIL-00723,Wolfswinkel Elektrogroothandel B.V.,NL522332178B39,,Jasonlaan 9,9090 ZB,Vianen NB,Netherlands,crediteuren@wolfswinkelelektrogroothandel.nl,
+BIL-00724,Van Ooste Bouwcentrum V.O.F.,NL364774064B93,,Dirklaan 63,2260 NK,Jellum,Netherlands,administratie@vanoostebouwcentrum.nl,18160
+BIL-00725,De Ruiter & Zonen B.V.,NL736780736B48,,Zeynepdreef 675,3494 AX,Oosterhout,Netherlands,administratie@deruiterzonen.nl,11740
+BIL-00726,Boucsein & Hethur GmbH,DE744623687,,Geislerring 89-12,53275,Hettstedt,Germany,buchhaltung@boucseinhethur.de,18670
+BIL-00727,Slegers Elektrogroothandel NV,BE0730122695,,Wilfriedsteeg 37,3772,Thieusies,Belgium,crediteuren@slegerselektrogroothandel.be,1720
+BIL-00728,Van der Sande Verwarming B.V.,NL332995309B13,,Kevinhof 555,3474 XG,Gasteren,Netherlands,facturen@vandersandeverwarming.nl,8070
+BIL-00729,Heremans Techniek BV,BE0390177266,,Rolandweg 8,9127,Athus,Belgium,administratie@heremanstechniek.be,3890
+BIL-00730,Becht Elektrotechniek V.O.F.,NL296250221B94,,Lauraweg 31,3612 HX,Raerd,Netherlands,crediteuren@bechtelektrotechniek.nl,
+BIL-00731,Dewulf Verwarming BV,BE0389582299,,Hildaweg 16,6875,Loksbergen,Belgium,facturen@dewulfverwarming.be,7630
+BIL-00732,Scherms Installatietechniek B.V.,NL526216314B99,,Lizebaan 438,2406 GD,Kats,Netherlands,administratie@schermsinstallatietechniek.nl,7660
+BIL-00733,Mansvelt & De Bruin B.V.,NL423963056B65,,Elizasingel 6,8246 LC,Renkum,Netherlands,crediteuren@mansveltdebruin.nl,9060
+BIL-00734,Horemans Elektrogroothandel BV,BE0686926776,,Katelijnering 83,2156,Beffe,Belgium,crediteuren@horemanselektrogroothandel.be,8950
+BIL-00735,Jeggij & De Vries B.V.,NL955690804B86,,Demihof 68,2035 JD,Zwaagdijk-Oost,Netherlands,facturen@jeggijdevries.nl,4570
+BIL-00736,Van den Brand Sanitair B.V.,NL434524825B84,,Tristansingel 242,2360 AB,Kekerdom,Netherlands,crediteuren@vandenbrandsanitair.nl,19110
+BIL-00737,Hak Installatietechniek VOF,NL432840339B09,,Stefansingel 1,2639 NN,Berg en Terblijt,Netherlands,facturen@hakinstallatietechniek.nl,
+BIL-00738,Walsteijn & Fiere V.O.F.,NL475339059B16,Van der Spaendonc ICT Diensten B.V.,Majabaan 65,4582 JV,Heesch,Netherlands,facturen@vanderspaendoncictdiensten.nl,10640
+BIL-00739,Van Luin Elektrogroothandel B.V.,NL791113267B77,,Indylaan 510,1255 MJ,Beuningen,Netherlands,administratie@vanluinelektrogroothandel.nl,
+BIL-00740,Jacobs Bouwstoffen V.O.F.,NL838520660B91,,Jackpad 217,8698 BP,Fijnaart,Netherlands,crediteuren@jacobsbouwstoffen.nl,3600
+BIL-00741,Köster Sanitär GmbH,DE253214356,,Hans-Uwe-Schleich-Weg 9-1,02042,Leipziger Land,Germany,rechnungswesen@kostersanitar.de,18830
+BIL-00742,Van Bergen Bouwstoffen B.V.,NL668666911B82,,Jonathandreef 8,1798 LL,Oud Ade,Netherlands,crediteuren@vanbergenbouwstoffen.nl,15750
+BIL-00743,Cremer Sanitaire SA - Liège,BE0457257753,,Rue Dufour 121,7765,Liège,Belgium,factures@cremersanitaire.be,5700
+BIL-00744,Nette & Söhne GmbH,DE630223017,,Metzgasse 2,31771,Sondershausen,Germany,buchhaltung@nettesohne.de,3100
+BIL-00745,Patberg & Söhne KG,DE473855956,,Tintzmannallee 41,86538,Pfaffenhofen an der Ilm,Germany,buchhaltung@patbergsohne.de,3710
+BIL-00746,Haack Bouwcentrum B.V.,NL973087834B47,,Rafaellaan 2,4970 TB,Obdam,Netherlands,crediteuren@haackbouwcentrum.nl,78560
+BIL-00747,Ring Haustechnik GmbH,DE576102460,,Möchlichengasse 6-5,83662,Passau,Germany,buchhaltung@ringhaustechnik.de,8970
+BIL-00748,Breugelmans Sanitair BV,BE0196908109,,Rudyboulevard 172,7212,Waasmunster,Belgium,crediteuren@breugelmanssanitair.be,15860
+BIL-00749,Gute Gruppe GmbH,DE806795289,,Bauerring 37/28,16832,Cottbus,Germany,buchhaltung@gutegruppe.de,5720
+BIL-00750,Van Luyssel Bouwcentrum B.V.,NL547918677B23,,Ivanboulevard 4,8742 DL,Jonkerslân,Netherlands,facturen@vanluysselbouwcentrum.nl,16380
+BIL-00751,Girschner & Söhne KG,DE439827006,,Frieder-Weihmann-Allee 1,80869,Altötting,Germany,rechnung@girschnersohne.de,14010
+BIL-00752,Huijs Installatietechniek B.V.,NL412230513B91,,Milansteeg 62,8545 TS,Westerbork,Netherlands,,19850
+BIL-00753,Van den Assem Elektro B.V.,NL926332891B34,,Marinusdreef 493,4781 XW,Winterswijk Miste,Netherlands,facturen@vandenassemelektro.nl,4280
+BIL-00754,Lambert Électro NV,BE0338888536,,Jozefhof 175,2822,Tenneville,Belgium,crediteuren@lambertelectro.be,2090
+BIL-00755,Stumpf Baustoffe KG,DE9524426740,,Säuberlichstr. 162,84815,Biedenkopf,Germany,rechnung@stumpfbaustoffe.de,9110
+BIL-00756,Trub & Siering KG,DE365359505,,Rotraut-Bohlander-Weg 6-3,39057,Starnberg,Germany,buchhaltung@trubsiering.de,10860
+BIL-00757,Van Cuijck & Zonen V.O.F.,NL989862107B90,,Mustafastraat 12,2702 HW,Pietersbierum,Netherlands,crediteuren@vancuijckzonen.nl,10620
+BIL-00758,Boudewijns Bouwmaterialen B.V.,NL628316550B39,,Aidenlaan 35,6916 VK,'s Gravenmoer,Netherlands,facturen@boudewijnsbouwmaterialen.nl,2900
+BIL-00759,De Vos Installatietechniek B.V.,NL549532354B71,,Marijnpad 589,3264 JP,Waverveen,Netherlands,administratie@devosinstallatietechniek.nl,9360
+BIL-00760,Dippel & Stumpf GmbH,DE120659391,,Mülichenallee 67,87641,Lichtenfels,Germany,rechnungswesen@dippelstumpf.de,2760
+BIL-00761,Bluemel Baustoffe GmbH,DE576498805,,Kristiane-Etzler-Ring 6/2,13204,Sankt Goarshausen,Germany,rechnungswesen@blumelbaustoffe.de,14550
+BIL-00762,Charon & Zonen B.V.,NL926834891B19,,Matthijsboulevard 47,9582 ER,Kerk Avezaath,Netherlands,administratie@charonzonen.nl,1310
+BIL-00763,Rackham Bouwstoffen B.V.,NL216345156B24,,Sennaboulevard 1,4185 GH,IJlst,Netherlands,administratie@rackhambouwstoffen.nl,9410
+BIL-00764,Van Popel Techniek,NL633597839B82,,Maudweg 09,6952 RH,Berkenwoude,Netherlands,facturen@vanpoppeltechniek.nl,21950
+BIL-00765,BAUER BAUSTOFFE GMBH,DE507608561,,Heinzstraße 45,47574,Iserlohn,Germany,rechnung@bauerbaustoffe.de,7440
+BIL-00766,Engels Technische Handel V.O.F.,NL188464399B63,,Nienkesingel 5,7623 RP,IJmuiden,Netherlands,administratie@engelstechnischehandel.nl,7990
+BIL-00767,Jansen & Zonen B.V.,NL365639711B85,,Muhammeddreef 157,7874 SM,Uitdam,Netherlands,administratie@jansenzonen.nl,
+BIL-00768,Rietveld Bouwstoffen V.O.F.,NL949326796B85,,Jeltepad 28,4428 CT,Nieuw-Buinen,Netherlands,crediteuren@rietveldbouwstoffen.nl,8330
+BIL-00769,Van der Loo Bouwstoffen V.O.F.,NL382153127B86,,Lenapad 68,2096 CC,Overasselt,Netherlands,crediteuren@vanderloobouwstoffen.nl,5070
+BIL-00770,Lejeune Matériaux de Construction SA,BE0411871167,,Rue Lambert 89,3399,La Louvière,Belgium,comptabilite@lejeunemateriauxdeconstruction.be,
+BIL-00771,De Groote & Janssen BV,BE01202516104,,Willysteeg 0,7280,Corenne,Belgium,administratie@degrootejanssen.be,6810
+BIL-00772,Geertsen Technische Handel,NL535581497B50,,Haileyweg 14,4964 CN,Hengevelde,Netherlands,crediteuren@geertsentechnischehandel.nl,2930
+BIL-00773,Bos Sanitair B.V.,NL285267560B20,,Borispad 91,1479 MG,De Zilk,Netherlands,crediteuren@bossanitair.nl,32650
+BIL-00774,Renner Baustoffhandel GmbH,DE319497661,,Sybille-Keudel-Gasse 8542,02074,Bersenbrück,Germany,buchhaltung@rennerbaustoffhandel.de,8050
+BIL-00775,De Hoogh Industrie B.V.,NL423769928B99,,Bramboulevard 3,2103 HR,Neer,Netherlands,crediteuren@dehooghindustrie.nl,11470
+BIL-00776,Geertsen Bouwcentrum B.V.,NL563801642B04,,Rowanweg 90,2584 AT,Sint Maartensbrug,Netherlands,administratie@geertsenbouwcentrum.nl,18100
+BIL-00777,Hazenveld Bouwcentrum V.O.F.,NL913855409B36,,Vinceweg 7,3194 AK,Halle,Netherlands,crediteuren@hazenveldbouwcentrum.nl,8890
+BIL-00778,Van der Ven & Zonen B.V.,NL288857880B21,,Louisepad 31,2710 BW,Nij Beets,Netherlands,facturen@vandervenzonen.nl,9550
+BIL-00779,Spaan Elektro B.V.,NL325720976B07,,Victoriadreef 816,1062 RJ,Havelterberg,Netherlands,crediteuren@spaanelektro.nl,13290
+BIL-00780,Kaul & Söhne GmbH & Co. KG,DE234471604,,Kenneth-Trüb-Gasse 87/44,75964,Lemgo,Germany,rechnungswesen@kaulsohne.de,9360
+BIL-00781,Verschueren Techniek BV,BE0932850970,,Bensteeg 5,5366,Linkebeek,Belgium,administratie@verschuerentechniek.be,12690
+BIL-00782,Meyer & Marchand SA,BE0125425133,,Rue Glineur 76,7119,Liège,Belgium,comptabilite@meyermarchand.be,10420
+BIL-00783,Lamotte Bouwstoffen B.V.,NL312717408B63,,Joosthof 21,3209 TW,Marsum,Netherlands,crediteuren@lamottebouwstoffen.nl,7030
+BIL-00784,De Mey Bouwmaterialen NV,BE0498320183,,Godelieveweg 71,1137,Saint-Remy,Belgium,crediteuren@demeybouwmaterialen.be,23790
+BIL-00785,Van Gemert Bouwstoffen - Cadzand,NL838993835B90,,Jasmijnpad 50,6542 VV,Hobrede,Netherlands,crediteuren@vangemertbouwstoffen.nl,42000
+BIL-00786,Keijzer Technische Handel B.V.,NL369766215B61,,Deanlaan 973,7082 VZ,Wieringerwerf,Netherlands,crediteuren@keijzertechnischehandel.nl,9620
+BIL-00787,Scholten Bouwcentrum B.V.,NL562760731B58,,Davidhof 678,3170 CG,Nieuwe Wetering,Netherlands,administratie@scholtenbouwcentrum.nl,9520
+BIL-00788,Stettyn & Zonen V.O.F.,NL180582403B93,,Micksingel 1,3443 CV,St. Willebrord,Netherlands,administratie@stettynzonen.nl,
+BIL-00789,Haengreve Bouwcentrum B.V.,NL228464715B29,,Sofiering 73,1957 PX,Rasquert,Netherlands,facturen@haengrevebouwcentrum.nl,10320
+BIL-00790,Cools Elektro NV,BE0687467504,,Lydielei 518,8386,Goutroux,Belgium,facturen@coolselektro.be,8050
+BIL-00791,Van Mispelen & Massa B.V.,NL286988502B29,,Demihof 204,4262 HL,De Wilp,Netherlands,administratie@vanmispelenmassa.nl,101000
+BIL-00792,Michel Fournitures Technique SA,BE0108399996,,Rue Bourguignon 157,9666,Wavre,Belgium,factures@michelfourniturestechniques.be,
+BIL-00793,Van Veen Bouwstoffen B.V.,NL134142338B77,,Fabiënneweg 7,1918 EB,Groot-Ammers,Netherlands,administratie@vanveenbouwstoffen.nl,3610
+BIL-00794,Lijn Bouwmaterialen V.O.F.,NL710107160B05,,Loeshof 6,3384 HM,Venray,Netherlands,facturen@lijnbouwmaterialen.nl,
+BIL-00795,Broeders Bouwmaterialen B.V.,NL993077760B35,,Ninaboulevard 941,6624 CH,Leiden,Netherlands,crediteuren@broedersbouwmaterialen.nl,8830
+BIL-00796,Kolster Instal. BV,NL878488534B98,,Sofialaan 66,3541 KH,Doornenburg,Netherlands,crediteuren@kolsterinstallatietechniek.nl,5470
+BIL-00797,Heerschop Sanitair BV,NL116024901B87,,Jimdreef 005,3982 LW,Hazerswoude-Dorp,Netherlands,administratie@heerschopsanitair.nl,4750
+BIL-00798,Jopich Heizungsbedarf GmbH & Co. KG,DE457345648,,Mentzelring 2132,19107,Griesbach Rottal,Germany,buchhaltung@jopichheizungsbedarf.de,4820
+BIL-00799,Ehlert Baustoffhandel GmbH,DE486886558,,Carmelo-Bien-Ring 8/9,22769,Heinsberg,Germany,buchhaltung@ehlertbaustoffhandel.de,3980
+BIL-00800,Fechant Groep B.V.,NL214972684B19,,Davelaan 8,8522 ZD,Pijnacker,Netherlands,facturen@fechantgroep.nl,6260
+BIL-00801,Heerschop & Claesdr B.V.,NL484791405B57,,Oscarboulevard 770,3832 XZ,Collendoorn,Netherlands,administratie@heerschopclaesdr.nl,26160
+BIL-00802,Beijring Bouwmaterialen V.O.F.,NL894582515B92,,Lolabaan 1,9715 XS,Sint Kruis,Netherlands,facturen@beijringbouwmaterialen.nl,11270
+BIL-00803,Kirpenstein Elektrogroothandel B.V.,NL932243777B73,,Wessellaan 29,2850 LN,Escharen,Netherlands,facturen@kirpensteinelektrogroothandel.nl,
+BIL-00804,Vranckx Techniek NV,BE0732263942,,Gittesteeg 7,1706,Lantin,Belgium,administratie@vranckxtechniek.be,7020
+BIL-00805,Kleibrink & Zonen B.V.,NL109099680B79,,Simonsingel 974,2120 VX,Burgerveen,Netherlands,administratie@kleibrinkzonen.nl,10400
+BIL-00806,Momberg Bouwstoffen B.V.,NL712425712B48,,Nielsstraat 25,4882 HM,Hulshorst,Netherlands,crediteuren@mombergbouwstoffen.nl,17380
+BIL-00807,ZAENKER SANITAER KG,DE751282333,,Hillerplatz 5,59025,Prenzlau,Germany,rechnungswesen@zankersanitar.de,12530
+BIL-00808,Raeymaekers Installatietechniek NV,BE0442481169,,Elisasteeg 24,1743,Néchin,Belgium,facturen@raeymaekersinstallatietechniek.be,15580
+BIL-00809,Ring & Söhne KG,DE502270717,,Veli-Kensy-Platz 4/2,02063,Suhl,Germany,buchhaltung@ringsohne.de,7070
+BIL-00810,De Smet Bouwmaterialen NV,BE0272747645,,Tinestraat 4,1200,Ciply,Belgium,administratie@desmetbouwmaterialen.be,14180
+BIL-00811,Segers Industrie BV,BE0200022937,,Albertpad 74,9372,Ombret,Belgium,administratie@segersindustrie.be,2130
+BIL-00812,Winkler Elektro GmbH,DE651625758,,Jonas-Schönland-Platz 56,32333,Auerbach,Germany,rechnungswesen@winklerelektro.de,12240
+BIL-00813,Vink & Heinrichs V.O.F.,NL971887294B52,,Ninaweg 685,6885 HG,Losdorp,Netherlands,crediteuren@vinkheinrichs.nl,
+BIL-00814,Overdijk Bouwcentrum V.O.F.,NL425129005B80,,Elisestraat 4,7637 ZT,Ottersum,Netherlands,,10820
+BIL-00815,Bien Baucenter KG,DE993245640,,Fatima-Weller-Straße 50,92912,Gunzenhausen,Germany,buchhaltung@bienbaucenter.de,18200
+BIL-00816,Van der Avoirt Elektro V.O.F.,NL421733001B42,,Danielpad 7,7974 PW,Hattem,Netherlands,facturen@vanderavoirtelektro.nl,12000
+BIL-00817,Bourguignon Groupe SRL,BE0358666136,,Rue Müller 124,9858,Verviers,Belgium,factures@bourguignongroupe.be,17410
+BIL-00818,Michiels Elektrogroothandel BV,BE0596087332,Van Brenen Software Partners B.V.,Larssteeg 08,5012 JE,Cromvoirt,Netherlands,crediteuren@vanbrenensoftwarepartners.nl,6580
+BIL-00819,Koning & Zonen B.V.,NL567954159B8,,Bibipad 74,6091 GX,Denekamp,Netherlands,crediteuren@koningzonen.nl,7140
+BIL-00820,Daems Bouwstoffen BV,BE0335483530,,Dirkpad 4,3061,Bornival,Belgium,facturen@daemsbouwstoffen.be,4100
+BIL-00821,Stey & Kreusel GmbH & Co. KG,DE806701483,,Kohlstraße 71,31227,Zeulenroda,Germany,rechnung@steykreusel.de,15820
+BIL-00822,Klein Elektro V.O.F.,NL251304479B78,,Morrisdreef 056,5362 GG,Wolsum,Netherlands,crediteuren@kleinelektro.nl,12310
+BIL-00823,Bruggeman Techniek V.O.F.,NL645829727B52,,Joëllaan 24,3650 DH,Marle,Netherlands,facturen@bruggemantechniek.nl,16890
+BIL-00824,Briere Bouwstoffen B.V.,NL416644047B59,,Isabelboulevard 869,7240 ZV,Oisterwijk,Netherlands,facturen@brierebouwstoffen.nl,17750
+BIL-00825,Boetet Techniek B.V.,NL808589816B56,,Azrapad 32,4370 PG,Hoeven,Netherlands,facturen@boetettechniek.nl,2570
+BIL-00826,Hazenveld Industrie VOF,NL105722375B70,,Jenspad 49,8098 JW,Ell,Netherlands,crediteuren@hazenveldindustrie.nl,11600
+BIL-00827,Michiels & Zonen,NL771597906B18,,Ellaboulevard 201,1355 LR,Lexmond,Netherlands,crediteuren@michielszonen.nl,6910
+BIL-00828,Oestrovsky Haustechnik GmbH,DE398640009,Van Brenen Software Partners B.V.,Larssteeg 08,5012 JE,Cromvoirt,Netherlands,crediteuren@vanbrenensoftwarepartners.nl,7530
+BIL-00829,De Vuyst Installatietechniek NV,BE0980042882,,Janweg 4,3553,Lanaye,Belgium,administratie@devuystinstallatietechniek.be,8950
+BIL-00830,Noel Sanitaire SRL,BE0592504899,,Rue Michiels 103,3286,Charleroi,Belgium,comptabilite@noelsanitaire.be,13320
+BIL-00831,Faust & Wende GmbH,DE594817420,,Conradiallee 1-5,27173,Biedenkopf,Germany,buchhaltung@faustwende.de,1790
+BIL-00832,Speer Haustechnik GmbH & Co. KG,DE681905812,,Spießweg 3-9,40332,Mallersdorf,Germany,buchhaltung@speerhaustechnik.de,
+BIL-00833,Wilms Baustoffhandel GmbH,DE298470427,Walter Softwarepartner GmbH,Beckmanngasse 43,21993,Dieburg,Germany,rechnung@waltersoftwarepartner.de,10260
+BIL-00834,De Vries & Uphuis B.V.,NL309462280B92,,Robinlaan 5,7305 LZ,Grolloo,Netherlands,crediteuren@devriesuphuis.nl,8080
+BIL-00835,Saxo Elektrogroothandel B.V.,NL411815504B96,,Standreef 02,4454 VK,Overschild,Netherlands,administratie@saxoelektrogroothandel.nl,6320
+BIL-00836,Schulz Baustoffe,DE716216813,,Birgitta-Röhricht-Platz 10,36798,Pritzwalk,Germany,rechnungswesen@schulzbaustoffe.de,13890
+BIL-00837,Jorrisen & Claesdr B.V.,NL370598115B64,,Noortjedreef 7,6818 GR,Oud Ootmarsum,Netherlands,administratie@jorrisenclaesdr.nl,10320
+BIL-00838,Renard Chauffage SA,BE0496681764,,Rue Paquay 64,9483,Namur,Belgium,comptabilite@renardchauffage.be,6520
+BIL-00839,Goovaerts & Wouters NV,BE0591291025,,Rogerweg 72,4228,Fernelmont,Belgium,crediteuren@goovaertswouters.be,
+BIL-00840,Govarts Sanitair B.V.,NL411454646B39,,Naudhof 1,5092 WD,Zevenbergschen Hoek,Netherlands,facturen@govartssanitair.nl,25280
+BIL-00841,Cools Elektrogroothandel BV,BE0227381397,,Albertweg 031,6697,Patignies,Belgium,crediteuren@coolselektrogroothandel.be,6910
+BIL-00842,Luyten & Eeckhout NV,BE0531647235,,Soniastraat 2,7869,Sint-Laureins,Belgium,crediteuren@luyteneeckhout.be,9460
+BIL-00843,Kathagen & Wright B.V.,NL842410947B63,,Adampad 36,8689 MC,Maria Hoop,Netherlands,crediteuren@kathagenwright.nl,5530
+BIL-00844,Mansvelt Bouwstoffen V.O.F.,NL780267188B93,,Tirzasingel 374,3016 EW,Doniaga,Netherlands,facturen@mansveltbouwstoffen.nl,
+BIL-00845,Van Looy Industrie BV,BE0985021510,,Koenraadstraat 93,3658,Landskouter,Belgium,administratie@vanlooyindustrie.be,5850
+BIL-00846,Hellwig Handel GmbH & Co. KG,DE831856709,,Thiesring 6,61209,Büsingen am Hochrhein,Germany,buchhaltung@hellwighandel.de,10670
+BIL-00847,Van den Bergh Groep V.O.F.,NL197209076B28,,Benweg 45,6364 TB,Maurik,Netherlands,facturen@vandenberghgroep.nl,4220
+BIL-00848,Köhler Baucenter KG,DE189085397,,Robby-Schomber-Ring 1611,73588,Borken,Germany,rechnungswesen@kohlerbaucenter.de,1960
+BIL-00849,Boucsein & Weinhold GmbH & Co. KG,DE140308132,,Truppring 1,25750,Stade,Germany,rechnung@boucseinweinhold.de,9720
+BIL-00850,Höning Bouwcentrum B.V.,NL394483082B86,,Pukstraat 9,1708 PT,Scherpenzeel,Netherlands,administratie@honingbouwcentrum.nl,10270
+BIL-00851,Simons Chauffage SA,BE03249016501,,Rue Jacob 107,5032,Verviers,Belgium,comptabilite@simonschauffage.be,9470
+BIL-00852,Willemsen Installatietechniek V.O.F.,NL246733633B92,,Jadestraat 619,8878 CM,Hoornaar,Netherlands,,6650
+BIL-00853,De Graaf Bouwcentrum B.V.,NL612147289B80,,Kaysingel 896,9332 VP,Rolde,Netherlands,crediteuren@degraafbouwcentrum.nl,2640
+BIL-00854,Verhoeven Bouwstoffen B.V.,NL595378308B09,,Jurrestraat 4,6359 ST,Scharendijke,Netherlands,crediteuren@verhoevenbouwstoffen.nl,
+BIL-00855,Van de Biezenbos Verwarming B.V.,NL890017125B08,,Mickdreef 53,2326 ZM,Schaijk,Netherlands,facturen@vandebiezenbosverwarming.nl,10150
+BIL-00856,De Bruyn Bouwmaterialen V.O.F.,NL600738478B92,,Maritpad 7,5143 TP,Kerkwijk,Netherlands,administratie@debruynbouwmaterialen.nl,16650
+BIL-00857,Louis Chauffage SRL,BE0274651099,,Rue Meyer 123,4695,Arlon,Belgium,comptabilite@louischauffage.be,4630
+BIL-00858,Perck Bouwmaterialen B.V.,NL147977445B54,,Timostraat 030,9970 NC,Almelo,Netherlands,crediteuren@perckbouwmaterialen.nl,7280
+BIL-00859,Atzler Haustechnik KG,DE695927284,,Antonios-Ziegert-Weg 6920,25438,Mayen,Germany,rechnung@atzlerhaustechnik.de,3680
+BIL-00860,Burton Industrie SRL,BE0658096119,,Rue Henry 9,7657,Mons,Belgium,factures@burtonindustrie.be,11830
+BIL-00861,Van Haeften Installatietechniek B.V.,NL554942797B41,,Catharinabaan 891,9775 HP,Broekland,Netherlands,crediteuren@vanhaefteninstallatietechniek.nl,6170
+BIL-00862,Heyne Bouwstoffen V.O.F.,NL339773681B99,,Yasminelaan 45,3435 NP,Nagele,Netherlands,facturen@heynebouwstoffen.nl,11600
+BIL-00863,Dippel & Trüb GmbH,DE829211472,,Arnim-Hörle-Straße 177,63414,Herzberg,Germany,rechnungswesen@dippeltrub.de,6510
+BIL-00864,De Paepe Handel BV,BE0370750852,,Marielei 4,8780,Sainte-Cécile,Belgium,facturen@depaepehandel.be,6510
+BIL-00865,Schenk Industrie V.O.F.,NL632762930B04,,Benjaminsingel 224,8036 ZK,Anderen,Netherlands,administratie@schenkindustrie.nl,4190
+BIL-00866,Ritter Sanitär GmbH,DE540232016,,Mentzelstraße 1-1,82386,Regensburg,Germany,buchhaltung@rittersanitar.de,4840
+BIL-00867,Van Mil & Hendrikse B.V.,NL313725921B88,,Michaelweg 1,1445 CN,Blijham,Netherlands,facturen@vanmilhendrikse.nl,8070
+BIL-00868,Remy Électricité SA,BE0491549162,,Rue Desmet 135,6384,Tournai,Belgium,factures@remyelectricite.be,3990
+BIL-00869,Tulstek Technik KG,DE582190328,,Gutegasse 317,88520,Griesbach Rottal,Germany,rechnung@tlustektechnik.de,4760
+BIL-00870,Michel Matériaux de Construction SA,BE0851525130,,Rue Peeters 129,2296,Wavre,Belgium,comptabilite@michelmateriauxdeconstruction.be,5420
+BIL-00871,Hauffer & Rogner GmbH,DE836613394,,Damian-Mies-Straße 81-67,50061,Ochsenfurt,Germany,rechnung@haufferrogner.de,9870
+BIL-00872,Van Laarhoven Industrie B.V.,NL782266083B16,,Ivysteeg 17,8605 VP,Klazienaveen,Netherlands,administratie@vanlaarhovenindustrie.nl,23210
+BIL-00873,Vergeer Verwarming V.O.F.,NL448594692B48,,Amypad 5,6772 MW,Oosthuizen,Netherlands,crediteuren@vergeerverwarming.nl,8840
+BIL-00874,Mosemann Baustoffhandel GmbH,DE554493262,,Ernstweg 899,09620,Nauen,Germany,rechnung@mosemannbaustoffhandel.de,4950
+BIL-00875,Vos Installatietechniek B.V.,NL555284547B23,,Fienelaan 7,3689 HJ,Bruinehaar,Netherlands,administratie@vosinstallatietechniek.nl,18740
+BIL-00876,Van der Noot Bouwmaterialen B.V.,NL141942442B55,,Dylanbaan 9,4233 SD,Wildervank,Netherlands,administratie@vandernootbouwmaterialen.nl,15160
+BIL-00877,De Ridder Verwarming NV,BE0331103124,,Malikaweg 59,1185,Sint-Truiden,Belgium,crediteuren@deridderverwarming.be,2180
+BIL-00878,De Grote & Kuipers V.O.F.,NL266371119B10,,Micklaan 69,4145 JE,Rijswijk (NB),Netherlands,crediteuren@degrotekuipers.nl,3500
+BIL-00879,Serra & Zonen V.O.F.,NL850255295B98,,Jaylinnsteeg 77,1747 VZ,Manderveen,Netherlands,crediteuren@serrazonen.nl,19690
+BIL-00880,Rippey & Zonen B.V.,NL642442371B67,,Jakepad 729,5810 JS,Goudriaan,Netherlands,administratie@rippeyzonen.nl,8880
+BIL-00881,Brugman & Zonen B.V.,NL658682859B20,,Floortjehof 334,4259 HE,Stavoren,Netherlands,facturen@brugmanzonen.nl,5340
+BIL-00882,Lage Groep B.V.,NL769189920B41,,Lindseypad 79,6039 CN,Eexterzandvoort,Netherlands,administratie@lagegroep.nl,2450
+BIL-00883,Van de Pavert Bouwmaterialen B.V.,NL484897084B48,,Isishof 1,6314 BL,Bladel,Netherlands,crediteuren@vandepavertbouwmaterialen.nl,2980
+BIL-00884,Dekker Sanitair B.V.,NL153582130B95,,Ambersteeg 7,4794 ZC,Bierum,Netherlands,facturen@dekkersanitair.nl,9560
+BIL-00885,Dubois Fournitures Techniques SRL,BE0979540035,,Rue Wauters 84,7447,Liège,Belgium,factures@duboisfourniturestechniques.be,11000
+BIL-00886,Süßbeier & Söhne GmbH,DE243755891,,Junckweg 28-40,56836,Schwäbisch Gmünd,Germany,rechnung@suebiersohne.de,2240
+BIL-00887,Zänker & Thies KG,DE899591245,,Andrea-Kühnert-Ring 2,69563,Mellrichstadt,Germany,buchhaltung@zankerthies.de,3990
+BIL-00888,Nys Bouwcentrum NV,BE0714738446,,Baslei 119,3811,Javingue,Belgium,crediteuren@nysbouwcentrum.be,1310
+BIL-00889,Kleybrink Installatietechniek V.O.F.,NL272167429B09,,Simonpad 905,5510 ZW,Vrouwenakker,Netherlands,administratie@kleybrinkinstallatietechniek.nl,6770
+BIL-00890,Bolander Sanitär GmbH,DE299190047,,Hans-Theo-Kühnert-Ring 59,87084,Anklam,Germany,rechnungswesen@bolandersanitar.de,3140
+BIL-00891,Lange Elektrotechnik GmbH,DE187212377,,Hans-Joachim-Linke-Allee 3-5,04785,Strasburg,Germany,rechnungswesen@langeelektrotechnik.de,11290
+BIL-00892,Hendrickx Industrie BV,BE0256290615,,Paulinesteeg 06,2487,Baaigem,Belgium,administratie@hendrickxindustrie.be,8890
+BIL-00893,Meijer & Everde B.V.,NL943677182B75,,Pippabaan 6,6224 NC,Westerbroek,Netherlands,facturen@meijereverde.nl,15610
+BIL-00894,Van Dongen Bouwcentrum V.O.F.,NL689392845B34,,Demistraat 1,2802 TS,Siddeburen,Netherlands,facturen@vandongenbouwcentrum.nl,8720
+BIL-00895,Etzler Sanitär KG,DE578796089,,Natascha-Dörschner-Platz 269,72877,Füssen,Germany,buchhaltung@etzlersanitar.de,2430
+BIL-00896,Eimer Baustoffe KG,DE183339806,,Römerring 33-99,72960,Wernigerode,Germany,rechnung@eimerbaustoffe.de,8520
+BIL-00897,Geertsen Technische Handel B.V.,NL662557672B94,,Yasminring 0,9861 BH,Orvelte,Netherlands,administratie@geertsentechnischehandel.nl,3930
+BIL-00898,Kusch Sanitär KG,DE444733679,,Hans-Joachim-Grein Groth-Weg 32-56,44754,Beilngries,Germany,buchhaltung@kuschsanitar.de,11220
+BIL-00899,Van der Hoeven Bouwstoffen B.V.,NL604392951B03,,Timohof 993,5081 TX,Loosbroek,Netherlands,administratie@vanderhoevenbouwstoffen.nl,8650
+BIL-00900,Versluijs & Van Dillen B.V.,NL780513199B47,,Estherhof 5,1051 MA,Schipluiden,Netherlands,crediteuren@versluijsvandillen.nl,32660
+BIL-00901,Room & Van den Nuwenhuysen B.V.,NL686133574B57,,Melledreef 8,8425 ZK,Heeze,Netherlands,crediteuren@roomvandennuwenhuysen.nl,1820
+BIL-00902,Drubin & Reinhardt KG,DE259276659,,Hildegunde-Briemer-Ring 54,83501,Suhl,Germany,rechnung@drubinreinhardt.de,13560
+BIL-00903,Van der Auwera Bouwstoffen NV,BE0885371301,,Anneliessteeg 85,2036,Buissenal,Belgium,facturen@vanderauwerabouwstoffen.be,3040
+BIL-00904,Kruschwitz Haustechnik GmbH & Co. KG,DE293818994,,Wilmsenstraße 62,58347,Heiligenstadt,Germany,buchhaltung@kruschwitzhaustechnik.de,5910
+BIL-00905,Maes & Zonen NV,BE0909855907,,Nickbaan 541,6473,Lapscheure,Belgium,administratie@maeszonen.be,1800
+BIL-00906,Scharroo Bouwmaterialen B.V.,NL643347637B85,,Juliuspad 4,8860 HT,Nieuw-Amsterdam,Netherlands,administratie@scharroobouwmaterialen.nl,4100
+BIL-00907,Depuydt Installatietechniek NV,BE0458399824,,Mathieubaan 6,1501,Grandmetz,Belgium,facturen@depuydtinstallatietechniek.be,9680
+BIL-00908,Buchholz Sanitär KG,DE786030276,,Isolde-Heinrich-Weg 4-4,78430,Hansestadttralsund,Germany,rechnungswesen@buchholzsanitar.de,30540
+BIL-00909,Löwer Elektro KG,DE109165609,,Hella-Sager-Platz 616,46128,Rastatt,Germany,rechnung@lowerelektro.de,6350
+BIL-00910,De Reede Bouwcentrum B.V.,NL232538144B07,,Lennlaan 565,4560 LX,Egmond aan den Hoef,Netherlands,administratie@dereedebouwcentrum.nl,5110
+BIL-00911,Mangold Haustechnik GmbH & Co. KG,DE500736317,,Börnerring 1,95880,Bruchsal,Germany,rechnungswesen@mangoldhaustechnik.de,8220
+BIL-00912,De Gruil Bouwmaterialen B.V.,NL245245357B85,,Jaydendreef 06,9792 EJ,Wijckel,Netherlands,facturen@degruilbouwmaterialen.nl,16180
+BIL-00913,Van Haeften Bouwcentrum B.V.,NL575839885B81,,Tijnboulevard 7,4757 JL,Wognum,Netherlands,facturen@vanhaeftenbouwcentrum.nl,18410
+BIL-00914,Rogner & Söhne GmbH & Co. KG,DE581554115,,Hanne-Wende-Weg 88,49040,Viersen,Germany,,23010
+BIL-00915,Martens Bouwmaterialen NV,BE0889147448,,Stellalaan 517,1560,Meix-devant-Virton,Belgium,crediteuren@martensbouwmaterialen.be,3870
+BIL-00916,Yildirim & Laureys NV,BE0548361255,,Annastraat 497,8796,Egem,Belgium,crediteuren@yildirimlaureys.be,22630
+BIL-00917,Van der Avoirt & Mulders B.V.,NL890042804B96,,Davesteeg 1,2330 GA,Heel,Netherlands,administratie@vanderavoirtmulders.nl,7230
+BIL-00918,Van Schweinfurt & Everde B.V.,NL855476553B50,,Jolieweg 46,9345 PR,Almelo,Netherlands,facturen@vanschweinfurteverde.nl,17290
+BIL-00919,Jacob & Kohl GmbH & Co. KG,DE757935977,,Miriam-Hecker-Ring 970,91234,Ludwigslust,Germany,rechnung@jacobkohl.de,6280
+BIL-00920,Riehl Sanitär KG,DE442238518,,Marlies-Linke-Straße 9,69809,Hohenstein-Ernstthal,Germany,rechnung@riehlsanitar.de,6560
+BIL-00921,Van 't Houteveen Bouwmaterialen V.O.F.,NL605672755B63,,Lizzylaan 961,2892 LP,Erm,Netherlands,crediteuren@vanthouteveenbouwmaterialen.nl,16880
+BIL-00922,Junck Elektrogroßhandel GmbH,DE680096911,,Klothilde-Schmidtke-Weg 4/4,91682,Erfurt,Germany,rechnungswesen@junckelektrogrohandel.de,3090
+BIL-00923,Totwiller & Zonen B.V.,NL211251825B02,,Chrisdreef 056,2634 JG,Woltersum,Netherlands,facturen@totwillerzonen.nl,14810
+BIL-00924,Van der Laarse & Zonen V.O.F.,NL890385760B77,,Sophiebaan 7,4476 PR,Hulsel,Netherlands,crediteuren@vanderlaarsezonen.nl,7670
+BIL-00925,DUPONT INSTALLATIETECHNIEK NV,BE0582075743,,Silviastraat 780,4774,Humain,Belgium,crediteuren@dupontinstallatietechniek.be,9110
+BIL-00926,Dubois Elektro B.V.,NL661696926B85,,Loisweg 914,7116 WP,Beneden-Leeuwen,Netherlands,crediteuren@duboiselektro.nl,11030
+BIL-00927,Vermeulen & Zonen BV,BE0446716180,,Larastraat 656,2640,Bilzen,Belgium,crediteuren@vermeulenzonen.be,10080
+BIL-00928,Gehringer Industriebedarf,DE984165585,,Dussen vanstr. 53/87,11781,Büsingen am Hochrhein,Germany,rechnungswesen@gehringerindustriebedarf.de,10260
+BIL-00929,Melet Verwarming V.O.F.,NL901841503B94,,Lynnweg 5,5074 HZ,Akersloot,Netherlands,crediteuren@meletverwarming.nl,2680
+BIL-00930,Teunissen Industrie V.O.F.,NL361670087B48,,Gerritdreef 09,6884 ED,Markenbinnen,Netherlands,crediteuren@teunissenindustrie.nl,6730
+BIL-00931,Van Eck Techniek B.V.,NL481968328B75,,Lisadreef 70,8967 DW,Meijel,Netherlands,administratie@vanecktechniek.nl,8310
+BIL-00932,Ring Baucenter GmbH,DE481482646,,Faustgasse 2,30198,Celle,Germany,buchhaltung@ringbaucenter.de,5390
+BIL-00933,Hendriks Heizungsbedarf GmbH & Co. KG,DE280162221,,Janina-Neureuther-Gasse 927,49418,Bayreuth,Germany,rechnung@hendriksheizungsbedarf.de,
+BIL-00934,Weiß Technik KG,DE560662565,,Ebertstraße 7/5,53940,Sangerhausen,Germany,rechnung@weitechnik.de,8410
+BIL-00935,Marchal & Cornelisse B.V.,NL538640915B46,,Selenapad 345,3606 PW,Haulerwijk,Netherlands,administratie@marchalcornelisse.nl,12840
+BIL-00936,Mijsberg Sanitair B.V.,NL795472980B20,,Rubenbaan 4,2858 SD,Terherne,Netherlands,crediteuren@mijsbergsanitair.nl,8950
+BIL-00937,De Smit & Van de Wiel B.V.,NL760575149B39,,Basring 8,7896 CE,Noordhoek,Netherlands,administratie@desmitvandewiel.nl,13420
+BIL-00938,Kramer Baucenter GmbH & Co. KG,DE331514949,,Losekannallee 445,55251,Schweinfurt,Germany,rechnung@kramerbaucenter.de,3660
+BIL-00939,Bollen Elektrogroothandel NV,BE0602602298,Walter Softwarepartner GmbH,Beckmanngasse 43,21993,Dieburg,Germany,rechnung@waltersoftwarepartner.de,39900
+BIL-00940,Römer & Wilms GmbH,DE455440732,,Trubinstraße 41,41399,Hohenstein-Ernstthal,Germany,rechnungswesen@romerwilms.de,18400
+BIL-00941,Rose Haustechnik GmbH,DE271801968,,Gregor-Junken-Weg 81-23,01538,Bischofswerda,Germany,rechnungswesen@rosehaustechnik.de,14780
+BIL-00942,Claes Elektrotechniek NV,BE0298461891,,Stefanhof 5,4352,Oombergen,Belgium,facturen@claeselektrotechniek.be,26370
+BIL-00943,Weeldenburg & Friehus B.V.,NL629363665B50,,Nadinelaan 5,1324 PT,Scharsterbrug,Netherlands,administratie@weeldenburgfriehus.nl,2710
+BIL-00944,Versluijs en Zonen B.V.,NL541513645B36,,Aronring 5,8697 PL,Sint Maartensbrug,Netherlands,crediteuren@versluijszonen.nl,12560
+BIL-00945,Lambert Chauffage SRL,BE0158331864,,Rue Allard 54,6653,Arlon,Belgium,factures@lambertchauffage.be,3160
+BIL-00946,Van Rijnsbergen Elektrogroothandel B.V.,NL900239651B91,,Teundreef 731,8366 EM,Horst,Netherlands,crediteuren@vanrijnsbergenelektrogroothand.nl,13770
+BIL-00947,Van der Wal & Zonen B.V.,NL378916882B35,,Nieksteeg 8,8093 VS,Rozendaal,Netherlands,facturen@vanderwalzonen.nl,11970
+BIL-00948,Van Wel & Zonen B.V.,NL237144535B85,,Silkesteeg 50,1054 JP,Aalsum,Netherlands,crediteuren@vanwelzonen.nl,8010
+BIL-00949,Jurrijens Sanitair V.O.F.,NL939403372B14,,Taralaan 762,2897 JN,Tzummarum,Netherlands,crediteuren@jurrijenssanitair.nl,2620
+BIL-00950,Nijman & Zonen B.V.,NL464867905B59,,Ameliastraat 210,2196 GX,Kedichem,Netherlands,facturen@nijmanzonen.nl,10330
+BIL-00951,Van Beieren Techniek V.O.F.,NL775042686B61,,Madeliefbaan 10,3593 WW,Zaamslag,Netherlands,facturen@vanbeierentechniek.nl,19260
+BIL-00952,Van Spreuwel Elektrotechniek B.V.,NL875327062B18,,Meesbaan 384,2363 WK,Serooskerke,Netherlands,administratie@vanspreuwelelektrotechniek.nl,
+BIL-00953,Zijlmans Sanitair,NL170515727B61,,Maximsingel 1,4263 GR,Hooge Mierde,Netherlands,facturen@zijlmanssanitair.nl,5250
+BIL-00954,Pieters Elektrogroothandel V.O.F.,NL168747287B44,,Siennaweg 835,2982 JJ,Wateringen,Netherlands,crediteuren@pieterselektrogroothandel.nl,3490
+BIL-00955,Hein Heizungsbedarf GmbH,DE147659674,,Heusergasse 8953,34453,Bautzen,Germany,rechnungswesen@heinheizungsbedarf.de,1610
+BIL-00956,Hagendoorn Verwarming B.V.,NL224256201B50,,Lisaring 060,2347 MT,Aarlanderveen,Netherlands,crediteuren@hagendoornverwarming.nl,
+BIL-00957,Tammerijn Verwarming B.V.,NL736226035B11,,Yasmineweg 93,5056 JL,Zuidoostbeemster,Netherlands,facturen@tammerijnverwarming.nl,5500
+BIL-00958,Dircken & Zonen V.O.F.,NL901898947B47,,Joshuaboulevard 3,8606 MK,Vrouwenpolder,Netherlands,administratie@dirckenzonen.nl,17800
+BIL-00959,Van Ham & De Beer B.V.,NL262787284B90,,Sennapad 431,1619 PK,Foxwolde,Netherlands,crediteuren@vanhamdebeer.nl,4950
+BIL-00960,Elsenaar Elektro V.O.F.,NL432427162B70,,Jorisboulevard 8,2680 RE,Doetinchem,Netherlands,facturen@elsenaarelektro.nl,18250
+BIL-00961,Sontag Baucenter GmbH,DE255270986,,Röhrichtring 44,22316,Düren,Germany,buchhaltung@sontagbaucenter.de,9620
+BIL-00962,Ariens Elektrotechniek B.V.,NL917464065B18,,Kianlaan 44,5510 ZB,Amstelveen,Netherlands,facturen@arienselektrotechniek.nl,6420
+BIL-00963,Zuidweg & Van Northeim V.O.F. - Mariaparochie,NL400969989B51,,Laurensteeg 574,4971 MP,Mariaparochie,Netherlands,crediteuren@zuidwegvannortheim.nl,
+BIL-00964,Léonard & Gillet SRL,BE0105400747,,Rue Dewez 32,1684,Wavre,Belgium,factures@leonardgillet.be,6020
+BIL-00965,Mertens Sanitaire SA,BE0868760242,,Rue Diallo 102,3423,Verviers,Belgium,comptabilite@mertenssanitaire.be,5340
+BIL-00966,Rademaker Installatietechniek B.V.,NL630334421B18,,Lenasteeg 5,8444 WV,Rockanje,Netherlands,facturen@rademakerinstallatietechniek.nl,17830
+BIL-00967,Pieters & Van Dessel NV,BE0343032073,,Monikaring 0,8138,Rumillies,Belgium,crediteuren@pietersvandessel.be,14710
+BIL-00968,DeSutter Bouwstoffen,BE0382515849,,Carolinehof 290,6023,Liège,Belgium,facturen@desutterbouwstoffen.be,2630
+BIL-00969,Kraushaar Elektrogroßhandel GmbH & Co. KG,DE104907047,,Lisa-Schüler-Allee 21/95,55958,Günzburg,Germany,rechnung@kraushaarelektrogrohandel.de,
+BIL-00970,Barents Groep V.O.F.,NL527224321B75,,Evisingel 39,8486 SN,Kinderdijk,Netherlands,facturen@barentsgroep.nl,9910
+BIL-00971,Le Gulcher Groep B.V.,NL956384754B05,,Quintysingel 520,1857 JP,Wilbertoord,Netherlands,facturen@legulchergroep.nl,9610
+BIL-00972,Le Floch Bouwmaterialen B.V.,NL426466318B51,,Barthof 778,6741 CS,IJzendoorn,Netherlands,facturen@leflochbouwmaterialen.nl,3790
+BIL-00973,Konings Bouwstoffen V.O.F.,NL800088933B31,,Eliaspad 36,9938 TM,Sappemeer,Netherlands,crediteuren@koningsbouwstoffen.nl,7350
+BIL-00974,Depuydt Bouwcentrum BV,BE0711169501,,Christopheboulevard 4,8433,Limbourg,Belgium,facturen@depuydtbouwcentrum.be,8720
+BIL-00975,Koch Industriebedarf KG,DE978295746,,Elisabet-Scheibe-Weg 8-9,91409,Bayreuth,Germany,buchhaltung@kochindustriebedarf.de,10700
+BIL-00976,Schrik & Mangel B.V.,NL848613214B10,,Semring 30,6195 ET,Munnekeburen,Netherlands,administratie@schrikmangel.nl,2900
+BIL-00977,Van Salm Verwarming B.V.,NL164425366B83,,Dylanoweg 0,5698 DE,Ees,Netherlands,crediteuren@vansalmverwarming.nl,46250
+BIL-00978,Schenk Sanitär KG,DE846812123,,Hanne-Ullmann-Gasse 6/2,77623,Kronach,Germany,buchhaltung@schenksanitar.de,20680
+BIL-00979,Dorsman Bouwcentrum B.V.,NL906248900B35,,Naomihof 6,1188 DW,Hattemerbroek,Netherlands,administratie@dorsmanbouwcentrum.nl,4580
+BIL-00980,Van Praet Elektrotechniek BV,BE0724961011,,Marcelboulevard 447,3607,Hérinnes-lez-Pecq,Belgium,,10270
+BIL-00981,Van Mispelen Sanitair B.V.,NL242046367B31,,Hannapad 8,1792 TE,Oudega,Netherlands,crediteuren@vanmispelensanitair.nl,6720
+BIL-00982,Cambier Sanitaire SA,BE0714970148,,Rue François 75,5740,Nivelles,Belgium,factures@cambiersanitaire.be,2850
+BIL-00983,Boer & Zonen B.V.,NL361259074B56,,Benjaminboulevard 65,2443 RD,Nederweert-Eind,Netherlands,facturen@boerzonen.nl,1780
+BIL-00984,Van Dooren & Van der Meulen V.O.F.,NL289715127B94,,Lucstraat 78,8715 KP,Veenhuizen,Netherlands,crediteuren@vandoorenvandermeulen.nl,7630
+BIL-00985,Stiffel Werkzeughandel KG,DE459816489,,Alfredo-Mans-Ring 3-7,09916,Donaueschingen,Germany,buchhaltung@stiffelwerkzeughandel.de,3500
+BIL-00986,Thiry & Fils SRL,BE0491561974,,Rue Laurent 94,1943,Tournai,Belgium,factures@thiryfils.be,13200
+BIL-00987,Aalts & Zonen B.V.,NL319251480B70,,Jillpad 9,3625 CD,Eys,Netherlands,crediteuren@aaltszonen.nl,6940
+BIL-00988,Dillen Bouwmaterialen BV,BE0273145929,,Nicolesteeg 096,3514,Neigem,Belgium,administratie@dillenbouwmaterialen.be,6650
+BIL-00989,Bäer Technik,DE738224541,,Wilhelm-Staude-Gasse 3745,86399,Finsterwalde,Germany,rechnungswesen@barertechnik.de,
+BIL-00990,Mercks Installatietechniek B.V.,NL840982303B16,,Bilalboulevard 082,2086 RZ,Liempde,Netherlands,crediteuren@mercksinstallatietechniek.nl,3600
+BIL-00991,Aumann & Preiß KG,DE423193523,,Bernhard-Steckel-Gasse 5424,16316,Lüneburg,Germany,rechnungswesen@aumannprei.de,5960
+BIL-00992,Wirth & Dobes GmbH,DE656249065,,Jolanda-Pechel-Gasse 0,54796,Greiz,Germany,rechnungswesen@wirthdobes.de,
+BIL-00993,Vercauteren & Moors BV,BE0695363509,,Gerryweg 1,3893,Ninove,Belgium,administratie@vercauterenmoors.be,12600
+BIL-00994,Lempereur & Goffinet SRL,BE0615964294,,Rue Thibaut 83,6569,Wavre,Belgium,comptabilite@lempereurgoffinet.be,214000
+BIL-00995,Van 't Houteveen & Zonen V.O.F.,NL159997565B47,,Fayeweg 30,8976 AV,Surhuizum,Netherlands,administratie@vanthouteveenzonen.nl,3940
+BIL-00996,Verbeeck Bouwcentrum BV,BE0338384668,,Annelaan 7,7316,Herquegies,Belgium,crediteuren@verbeeckbouwcentrum.be,11030
+BIL-00997,Rogge Handel GmbH,DE849803546,,Karin-Weihmann-Allee 93/36,68397,Pirmasens,Germany,rechnung@roggehandel.de,5360
+BIL-00998,Budig & Stey KG,DE519749640,,Korinna-Riehl-Gasse 65-89,18080,Coburg,Germany,rechnungswesen@budigstey.de,
+BIL-00999,Smeets Sanitair B.V.,NL926703710B74,Walter Softwarepartner GmbH,Beckmanngasse 43,21993,Dieburg,Germany,rechnung@waltersoftwarepartner.de,17820
+BIL-01000,Rohleder & Söhne GmbH & Co. KG,DE561667185,,Kasimir-Baum-Straße 2,31897,Rottweil,Germany,buchhaltung@rohledersohne.de,6080
+BIL-01001,Kabus Sanitär GmbH,DE989242841,,Gerhart-Junitz-Weg 9,75897,Altentreptow,Germany,buchhaltung@kabussanitar.de,3630
+BIL-01002,Marchal & Fils SRL,BE0664790986,,Rue Lecocq 114,6914,Charleroi,Belgium,comptabilite@marchalfils.be,8130
+BIL-01003,Ackermann Heizungsbedarf KG,DE938679870,,Blochplatz 89/17,67695,Osterburg,Germany,rechnungswesen@ackermannheizungsbedarf.de,13090
+BIL-01004,Willemsen Bouwmaterialen V.O.F.,NL355710363B55,,Yusufhof 857,8796 VD,Bloemendaal,Netherlands,facturen@willemsenbouwmaterialen.nl,15730
+BIL-01005,Van Mil Groep B.V.,NL601644438B70,,Michabaan 4,6648 PD,Liessel,Netherlands,facturen@vanmilgroep.nl,2420
+BIL-01006,Häring Heizungsbedarf KG,DE687120355,,Adelheid-Zimmer-Gasse 796,51363,Gunzenhausen,Germany,rechnungswesen@haringheizungsbedarf.de,8230
+BIL-01007,Geerts Elektro NV,BE0811758502,,Dirkhof 900,1672,Wijtschate,Belgium,facturen@geertselektro.be,14410
+BIL-01008,Scheibe Elektro GmbH & Co. KG,DE490511624,,Wolfhard-Bolnbach-Ring 6/5,86698,Regen,Germany,rechnung@scheibeelektro.de,6680
+BIL-01009,Van der Velden Sanitair B.V.,NL963148795B10,,Dylanohof 975,7354 WW,Spankeren,Netherlands,crediteuren@vanderveldensanitair.nl,28900
+BIL-01010,Dachgelder Elektrotechniek V.O.F.,NL138546365B80,,Elizasingel 82,6188 TW,Westerbork,Netherlands,facturen@dachgelderelektrotechniek.nl,23290
+BIL-01011,Vignon Technische Handel V.O.F.,NL331073681B85,,Indyhof 5,8058 EP,Hoogblokland,Netherlands,crediteuren@vignontechnischehandel.nl,15930
+BIL-01012,Linke Technik KG,DE878295151,,Karla-Reuter-Gasse 13/11,12168,Worbis,Germany,rechnung@linketechnik.de,5540
+BIL-01013,Bähr Werkzeughandel GmbH,DE455942903,,Rainer-Pechel-Allee 85,38404,Bützow,Germany,rechnungswesen@bahrwerkzeughandel.de,5940
+BIL-01014,Van Tours & Zonen V.O.F.,NL608663769B49,,Kevinstraat 08,3521 CG,Lauwersoog,Netherlands,facturen@vantourszonen.nl,3370
+BIL-01015,Neureuther Elektrogroßhandel GmbH,DE404822078,,Langeweg 86-37,99552,Amberg,Germany,rechnung@neureutherelektrogrohandel.de,19060
+BIL-01016,De Jonge & Zonen V.O.F.,NL241949922B27,,Youssefstraat 12,5139 GK,Longerhouw,Netherlands,crediteuren@dejongezonen.nl,8870
+BIL-01017,Neven Bouwcentrum BV,BE0611392277,,Mariahof 9,7177,Bersillies-l'Abbaye,Belgium,crediteuren@nevenbouwcentrum.be,14290
+BIL-01018,Laureys Elektrogroothandel BV,BE0531964443,,Ilsering 33,7062,Dréhance,Belgium,facturen@laureyselektrogroothandel.be,10250
+BIL-01019,Klerks Sanitair B.V.,NL550149967B26,,Dirkhof 7,5583 PE,Ittervoort,Netherlands,facturen@klerkssanitair.nl,13740
+BIL-01020,Scholten Bouwstoffen V.O.F.,NL861238683B12,,Imkedreef 6,7077 LC,Avenhorn,Netherlands,administratie@scholtenbouwstoffen.nl,47370
+BIL-01021,Schlosser & Söhne GmbH & Co. KG,DE487075984,,Karzring 72-92,27198,Lüdenscheid,Germany,rechnungswesen@schlossersohne.de,4910
+BIL-01022,Janssens Industrie BV,BE0837504834,,Kennethboulevard 0,5201,Guirsch,Belgium,facturen@janssensindustrie.be,1380
+BIL-01023,LIÉGEOIS ÉLECTRICITÉ SRL,BE0984027553,,Rue Hardy 137,6761,Tournai,Belgium,comptabilite@liegeoiselectricite.be,1200
+BIL-01024,Van Kusen Bouwmaterialen V.O.F.,NL170110003B76,,Florislaan 6,1225 TV,Nieuwdorp,Netherlands,crediteuren@vankusenbouwmaterialen.nl,17360
+BIL-01025,Linke Sanitär GmbH & Co. KG,DE251957685,,Tatiana-Nerger-Straße 29/79,66766,Parsberg,Germany,rechnung@linkesanitar.de,
+BIL-01026,Van der Heyden Bouwmaterialen V.O.F.,NL826757971B77,,Victorweg 340,3533 EH,Drieborg,Netherlands,administratie@vanderheydenbouwmaterialen.nl,4680
+BIL-01027,Mude Heizungsbedarf KG,DE368480890,,Svetlana-Beier-Weg 4-6,81362,Bad Mergentheim,Germany,buchhaltung@mudeheizungsbedarf.de,8670
+BIL-01028,Engels & Zonen B.V.,NL613641017B95,,Justinhof 48,7722 MS,Limbricht,Netherlands,crediteuren@engelszonen.nl,4360
+BIL-01029,Boucsein & Hethur GmbH & Co. KG,DE105118980,,Enno-Steckel-Straße 6-6,68213,Gifhorn,Germany,buchhaltung@boucseinhethur.de,4020
+BIL-01030,Albert Électricité SRL,BE0822763821,,Rue Mahy 180,1167,Namur,Belgium,factures@albertelectricite.be,3170
+BIL-01031,Stiebitz Elektro GmbH & Co. KG,DE791131756,,Wiltrud-Kaul-Allee 9-6,03404,Schwäbisch Hall,Germany,buchhaltung@stiebitzelektro.de,30110
+BIL-01032,Van Heusden & Wunderink B.V.,NL679153816B68,,Isabellelaan 192,3504 NG,Leiderdorp,Netherlands,administratie@vanheusdenwunderink.nl,5360
+BIL-01033,Flink Elektrotechniek B.V.,NL280010955B52,,Noutdreef 8,9354 ZP,Meerstad,Netherlands,administratie@flinkelektrotechniek.nl,7880
+BIL-01034,VanHagen Instal. V.O.F.,NL509868460B72,,Kayleesteeg 26,8707 GD,Donkerbroek,Netherlands,administratie@vanhageninstallatietechniek.nl,23400
+BIL-01035,Wiek Baucenter GmbH,DE379340713,,Niemeiergasse 55,07657,Kleve,Germany,buchhaltung@wiekbaucenter.de,49040
+BIL-01036,Van Rijthovne & Zonen B.V.,NL117548599B65,,Elinepad 621,9769 WR,Wijlre,Netherlands,crediteuren@vanrijthovenzonen.nl,2930
+BIL-01037,Barents Handel B.V.,NL783093341B74,,Katesteeg 98,7743 CD,Molenschot,Netherlands,administratie@barentshandel.nl,8010
+BIL-01038,Verda Groep B.V.,NL104058932B92,,Tychostraat 473,4623 DA,Burum,Netherlands,facturen@verdagroep.nl,14450
+BIL-01039,Van Haeften Elektrotechniek B.V.,NL771939435B33,,Yasminsingel 59,9212 KB,Liempde,Netherlands,crediteuren@vanhaeftenelektrotechniek.nl,
+BIL-01040,De Hoogh & Lommert B.V.,NL125378537B66,,Yusufboulevard 732,6111 SK,Bavel,Netherlands,crediteuren@dehooghlommert.nl,1580
+BIL-01041,Junitz & Hering KG,DE165873766,,Tim-Weller-Ring 14/59,63876,Neu-Ulm,Germany,buchhaltung@junitzhering.de,10760
+BIL-01042,Berends Industrie V.O.F.,NL688330371B95,,Tobiasstraat 7,5228 XW,Woerdense Verlaat,Netherlands,crediteuren@berendsindustrie.nl,12610
+BIL-01043,Spieß Baustoffhandel GmbH,DE591116494,,Cichoriusring 6/2,60115,Hagenow,Germany,rechnung@spiebaustoffhandel.de,
+BIL-01044,Van Straaten Bouwcentrum B.V.,NL262326542B89,,Twandreef 67,1764 WK,Hellum,Netherlands,crediteuren@vanstraatenbouwcentrum.nl,20530
+BIL-01045,Walter Elektro B.V.,NL140166847B38,,Woutboulevard 61,7260 TX,Aarlanderveen,Netherlands,facturen@walterelektro.nl,18050
+BIL-01046,Ellis Bouwstoffen B.V.,NL518611609B36,,Fatimalaan 401,5710 GL,Veenoord,Netherlands,administratie@ellisbouwstoffen.nl,6710
+BIL-01047,Schenkel Elektrogroothandel V.O.F.,NL111325589B13,,Merlehof 352,6432 RD,Teteringen,Netherlands,crediteuren@schenkelelektrogroothandel.nl,6110
+BIL-01048,Bien & Söhne GmbH,DE646666136,,Liebeltweg 4676,80033,Aue,Germany,rechnung@biensohne.de,8320
+BIL-01049,Doorhof Bouwstoffen B.V.,NL345788402B74,,Floorsingel 74,7691 AM,Hardinxveld-Giessendam,Netherlands,administratie@doorhofbouwstoffen.nl,6720
+BIL-01050,Van Landen Elektro V.O.F.,NL945534945B818,,Rubenstraat 5,9831 NB,Vollenhove,Netherlands,administratie@vanlandenelektro.nl,16420
+BIL-01051,Müller & Wilms GmbH,DE157626131,,Hertrampfplatz 0,94929,Greiz,Germany,buchhaltung@mullerwilms.de,13870
+BIL-01052,Verbeke Bouwcentrum BV,BE0214065852,,Jeaninepad 217,1418,Charleroi,Belgium,crediteuren@verbekebouwcentrum.be,5710
+BIL-01053,Van der Ploeg Elektro B.V.,NL279355399B85,,Fayepad 9,8798 KW,Aalsmeer,Netherlands,administratie@vanderploegelektro.nl,8140
+BIL-01054,Peterse Elektro B.V.,NL321075169B30,,Helenaweg 1,2138 PL,Woltersum,Netherlands,facturen@peterseelektro.nl,3380
+BIL-01055,Olykan Sanitir V.O.F.,NL647283746B83,,Annabelsteeg 4,7300 JW,Holsloot,Netherlands,crediteuren@olykansanitair.nl,8330
+BIL-01056,Striebitz & Söhne KG,DE994779063,,Grzegorz-Kusch-Gasse 1323,61586,Marienberg,Germany,buchhaltung@striebitzsohne.de,49980
+BIL-01057,De Paepe Bouwmaterialen BV,BE0950234433,,Oscardreef 8,8157,Sint-Pauwels,Belgium,facturen@depaepebouwmaterialen.be,23650
+BIL-01058,Hellevoort Bouwmaterialen B.V.,NL198751865B45,,Gielbaan 202,5483 TH,Cornwerd,Netherlands,administratie@hellevoortbouwmaterialen.nl,8310
+BIL-01059,Van de Berg Verwarming V.O.F.,NL480936094B66,,Kyanboulevard 43,2279 ZL,Aalsmeer,Netherlands,administratie@vandebergverwarming.nl,5100
+BIL-01060,Van de Biesenbos & De Bont V.O.F.,NL595367749B22,,Kianbaan 152,7521 LL,Paasloo,Netherlands,crediteuren@vandebiesenbosdebont.nl,16680
+BIL-01061,De Vries Handel B.V.,NL268225289B46,,Marelaan 1,7392 LP,Berg en Dal,Netherlands,facturen@devrieshandel.nl,5740
+BIL-01062,Van der Schuijt & Le Matelot B.V.,NL748456134B64,,Elinesteeg 8,3299 JV,Leutingewolde,Netherlands,administratie@vanderschuijtlematelot.nl,6280
+BIL-01063,Puig Sanitair B.V.,NL762993351B10,,Lilystraat 93,1158 AM,Akersloot,Netherlands,crediteuren@puigsanitair.nl,1740
+BIL-01064,Bernaards Technische Handel B.V.,NL449019278B85,,Suzepad 668,9498 HW,Zuidveen,Netherlands,administratie@bernaardstechnischehandel.nl,
+BIL-01065,SEGERS BOUWMATERIALEN NV,BE0592265554,,Stevensteeg 1,7102,Donstiennes,Belgium,crediteuren@segersbouwmaterialen.be,9110
+BIL-01066,Kerkhofs Bouwmaterialen BV,BE0254860087,,Willyhof 95,6907,Schellebelle,Belgium,facturen@kerkhofsbouwmaterialen.be,15940
+BIL-01067,Vercammen Elektrotechniek NV,BE0537157837,,Janweg 004,1487,Noordschote,Belgium,facturen@vercammenelektrotechniek.be,90000
+BIL-01068,Van de Wiel Verwarming B.V.,NL569709241B07,,Yasminring 73,9026 TK,Dreumel,Netherlands,administratie@vandewielverwarming.nl,8400
+BIL-01069,Sterckx Technische Handel NV,BE0368363101,,Sophiedreef 95,2401,Ramegnies,Belgium,crediteuren@sterckxtechnischehandel.be,5590
+BIL-01070,Weitzel Sanitär GmbH,DE179444831,,Sölzerplatz 632,99348,Demmin,Germany,rechnung@weitzelsanitar.de,5450
+BIL-01071,Ullrich Haustechnik GmbH,DE333855589,,Zoran-Stumpf-Allee 59,45043,Wismar,Germany,rechnungswesen@ullrichhaustechnik.de,11040
+BIL-01072,De Coster Technische Handel NV,BE0693675284,,Juliabaan 8,9892,Aiseau,Belgium,crediteuren@decostertechnischehandel.be,9990
+BIL-01073,Börner Baucenter GmbH,DE713041404,,Ben-Krause-Straße 3-7,01554,Ueckermünde,Germany,rechnungswesen@bornerbaucenter.de,22380
+BIL-01074,Vanhoutte Bouwmaterialen BV,BE0805165232,,Paulsteeg 8,3535,Bellevaux-Ligneuville,Belgium,administratie@vanhouttebouwmaterialen.be,16990
+BIL-01075,Uphuis Elektro B.V.,NL554247901B85,,Arthurpad 123,6956 WG,Sirjansland,Netherlands,facturen@uphuiselektro.nl,
+BIL-01076,De Clercq Techniek NV,BE0344359676,,Samboulevard 69,9079,Libin,Belgium,crediteuren@declercqtechniek.be,7240
+BIL-01077,Estey & De Leeuw V.O.F.,NL843616161B27,,Feddedreef 127,7884 BR,Cruquius,Netherlands,facturen@esteydeleeuw.nl,6460
+BIL-01078,Oostveen Bouwmaterialen B.V.,NL604925332B55,,Berendweg 85,3882 LW,Tirns,Netherlands,facturen@oostveenbouwmaterialen.nl,12680
+BIL-01079,Martin & Söhne GmbH,DE451511533,,Geiselplatz 2,13603,Gräfenhainichen,Germany,rechnungswesen@martinsohne.de,21730
+BIL-01080,Janssen Boucwentrum NV - Wortel,BE0282977147,,Stienring 655,6490,Wortel,Belgium,crediteuren@janssenbouwcentrum.be,
+BIL-01081,Arnould Chauffage SA,BE0217591776,,Rue Renard 40,5402,Verviers,Belgium,comptabilite@arnouldchauffage.be,20500
+BIL-01082,Ullrich & Söhne GmbH & Co. KG,DE587502372,,Hans-Heinrich-Wesack-Weg 5735,93933,Pinneberg,Germany,rechnung@ullrichsohne.de,6300
+BIL-01083,Van Enschot Verwarming B.V.,NL378606992B31,,Lotteweg 62,6064 TE,Gendt,Netherlands,facturen@vanenschotverwarming.nl,27750
+BIL-01084,Boeser en Mahieu B.V.,NL835643996B87,,Johannahof 41,8858 TV,Overslag,Netherlands,administratie@boesermahieu.nl,19230
+BIL-01085,Plath & Zänker GmbH,DE451520056,,Peer-Eberth-Allee 2/1,71444,Parsberg,Germany,rechnungswesen@plathzanker.de,8610
+BIL-01086,Bollen & Pollet,BE0130148921,,Kenstraat 25,3445,Villers-Perwin,Belgium,facturen@bollenpollet.be,8680
+BIL-01087,Van der Loo Bouwmaterialen B.V.,NL893001503B15,,Isabellesteeg 9,6901 MR,IJlst,Netherlands,facturen@vanderloobouwmaterialen.nl,5970
+BIL-01088,Dörschner Elektrotechnik GmbH,DE517304549,,Orhan-Zobel-Platz 50/12,09796,Eisenach,Germany,rechnung@dorschnerelektrotechnik.de,26160
+BIL-01089,Delfosse Électro SA,BE0935112665,,Rue George 37,6960,Namur,Belgium,factures@delfosseelectro.be,17220
+BIL-01090,Bähr Werkzeughandel,DE417514400,,Arnulf-Hentschel-Weg 6/8,81668,Erding,Germany,rechnung@bahrwerkzeughandel.de,6970
+BIL-01091,Heß & Gieß GmbH,DE583100677,,Dina-Lübs-Ring 96/29,90073,Chemnitz,Germany,rechnung@hegie.de,5940
+BIL-01092,De Man Bouwmaterialen B.V.,NL103433519B56,,Selinastraat 91,2453 VH,Zandvoort,Netherlands,crediteuren@demanbouwmaterialen.nl,5110
+BIL-01093,Van Klaarwater Groep B.V.,NL691500536B27,,Marijnsteeg 807,7258 KZ,Gilze,Netherlands,administratie@vanklaarwatergroep.nl,6370
+BIL-01094,De Cock Handel NV - Ophain-Bois-Seigneur-Isaac,BE0558610676,,Runeweg 45,1032,Ophain-Bois-Seigneur-Isaac,Belgium,administratie@decockhandel.be,3150
+BIL-01095,Verhoeven & Heyne B.V.,NL969740383B18,,Siennastraat 6,2576 HB,De Goorn,Netherlands,crediteuren@verhoevenheyne.nl,1990
+BIL-01096,Holzapfel Elektrotechnik GmbH,DE700138002,,Heidemarie-Schulz-Ring 24-70,41644,Guben,Germany,rechnung@holzapfelelektrotechnik.de,12280
+BIL-01097,Scheffers Sanitair B.V.,NL407908620B61,,Milansingel 0,9574 EN,Maasvlakte Rotterdam,Netherlands,administratie@schefferssanitair.nl,14370
+BIL-01098,Heylen Bouwcentrum BV,BE0712277329,,Ellalaan 933,1507,Ezemaal,Belgium,crediteuren@heylenbouwcentrum.be,
+BIL-01099,Blomme Verwarming NV,BE0543700355,,Jeroenhof 158,4337,Dilbeek,Belgium,facturen@blommeverwarming.be,14000
+BIL-01100,Van Mook Bouwstoffen V.O.F.,NL568995799B59,,Luuksingel 69,8719 LW,Wervershoof,Netherlands,facturen@vanmookbouwstoffen.nl,11300
+BIL-01101,Wouters Verwarming BV,BE0484404444,,Mariehof 7,4065,Machelen,Belgium,crediteuren@woutersverwarming.be,16040
+BIL-01102,Lether Bouwstoffen B.V.,NL334820678B81,,Stefpad 177,1981 AV,Ferwert,Netherlands,administratie@letherbouwstoffen.nl,9940
+BIL-01103,Feenstra Bouwcentrum B.V.,NL687027434B17,,Davidring 62,7662 KW,Eexterveen,Netherlands,administratie@feenstrabouwcentrum.nl,3050
+BIL-01104,Herrmann Elektro GmbH,DE417602552,,Buttestr. 754,48043,Güstrow,Germany,rechnung@herrmannelektro.de,45170
+BIL-01105,Stiffel Haustechnik GmbH,DE680665526,,Esther-Vogt-Gasse 84,72454,Königs Wusterhausen,Germany,buchhaltung@stiffelhaustechnik.de,2320
+BIL-01106,Drysdale Groep B.V.,NL528348505B87,,Tylerboulevard 969,5067 LC,Noordbeemster,Netherlands,administratie@drysdalegroep.nl,8090
+BIL-01107,Mater & Zonen B.V.,NL480868948B78,,Fatimaweg 838,6254 LC,Losdorp,Netherlands,facturen@materzonen.nl,19870
+BIL-01108,Scheuermann & Wirth KG,DE223104450,,Fechnerweg 1644,04991,Roding,Germany,buchhaltung@scheuermannwirth.de,4030
+BIL-01109,De Gruson Elektrotechniek B.V.,NL133329291B33,,Benthehof 68,9191 MN,Schiermonnikoog,Netherlands,crediteuren@degrusonelektrotechniek.nl,19460
+BIL-01110,Van Berkel & Zonen V.O.F.,NL845144194B27,,Tristandreef 69,3954 SA,Oud Gastel,Netherlands,administratie@vanberkelzonen.nl,
+BIL-01111,Stange Bouwstoffen B.V.,NL917508336B35,,Sylviehof 799,7154 ZV,Scharsterbrug,Netherlands,crediteuren@stangebouwstoffen.nl,11140
+BIL-01112,Jans Elektro B.V.,NL892150738B53,,Chloëstraat 782,4731 DJ,Heide,Netherlands,facturen@janselektro.nl,14020
+BIL-01113,De Bruin Handel V.O.F.,NL119235979B53,,Raviboulevard 69,1729 LM,Aalst,Netherlands,administratie@debruinhandel.nl,28880
+BIL-01114,Van Ham & Tins BV,NL715293993B33,,Benbaan 84,6273 TJ,Ottersum,Netherlands,crediteuren@vanhamtins.nl,11310
+BIL-01115,Lehmann Industriebedarf,DE146744734,,Staudeallee 7421,62688,Eisenberg,Germany,buchhaltung@lehmannindustriebedarf.de,4030
+BIL-01116,Seifert Elektro GmbH,DE995569858,,Losekanngasse 1,56061,Eggenfelden,Germany,rechnungswesen@seifertelektro.de,14680
+BIL-01117,Pratt & Zonen V.O.F.,NL390098025B84,,Alibaan 23,1890 CB,Wijchen,Netherlands,administratie@prattzonen.nl,2710
+BIL-01118,Hänel Haustechnik GmbH & Co. KG,DE254460628,,Gerwin-Henck-Platz 12,53885,Zossen,Germany,rechnung@hanelhaustechnik.de,2340
+BIL-01119,Van Buuren Technische Handel B.V.,NL360625982B64,,Tristansingel 18,1924 DE,Veendam,Netherlands,administratie@vanbuurentechnischehandel.nl,5740
+BIL-01120,De Smedt Techniek BV,BE0909134796,,Steflaan 2,2528,Haltinne,Belgium,administratie@desmedttechniek.be,1350
+BIL-01121,De Waele Bouwstoffen NV,BE0793645789,,Ginettedreef 7,6683,Westkerke,Belgium,facturen@dewaelebouwstoffen.be,8260
+BIL-01122,Riehl Gruppe GmbH,DE739890586,,Kirstin-Kitzmann-Weg 79-99,53377,Nürtingen,Germany,rechnungswesen@riehlgruppe.de,4570
+BIL-01123,Lachmann Industriebedarf GmbH & Co. KG,DE960592930,,Krokergasse 7796,19608,Gelnhausen,Germany,rechnung@lachmannindustriebedarf.de,15640
+BIL-01124,Heuser Elektrotechnik GmbH,DE348993575,,Sylvio-Hofmann-Straße 8/2,40401,Hannoversch Münden,Germany,buchhaltung@heuserelektrotechnik.de,5820
+BIL-01125,Mies & Söhne KG,DE806176226,,Sauergasse 8,51190,Iserlohn,Germany,buchhaltung@miessohne.de,3950
+BIL-01126,Van Arnsberg & Zonen B.V.,NL675295261B64,,Samboulevard 396,8134 WR,Zwinderen,Netherlands,facturen@vanarnsbergzonen.nl,5060
+BIL-01127,Becker & Wesack KG,DE987059388,,Heckerstr. 3/8,38590,Rehau,Germany,buchhaltung@beckerwesack.de,14650
+BIL-01128,Heß & Sauer,DE128610295,,Blochallee 47,28227,Kitzingen,Germany,rechnung@hesauer.de,7910
+BIL-01129,De Boeck & Peeters NV,BE0261475232,,Christinepad 381,8250,Estinnes-au-Val,Belgium,facturen@deboeckpeeters.be,19960
+BIL-01130,Van Gorp Bouwstoffen NV,BE0621477174,,Robbelaan 8,2575,Villers-Poterie,Belgium,crediteuren@vangorpbouwstoffen.be,11880
+BIL-01131,Benthin Technik GmbH,DE743010752,,Loosweg 11,91585,Eisenach,Germany,buchhaltung@benthintechnik.de,10840
+BIL-01132,Juncken Baustoffe GmbH & Co. KG,DE199823067,,Geißlerstraße 218,56139,Artern,Germany,rechnungswesen@junckenbaustoffe.de,30020
+BIL-01133,Van Driessche & Meersman NV,BE0970281936,,Viktorboulevard 430,2438,Mesnil-Saint-Blaise,Belgium,crediteuren@vandriesschemeersman.be,12910
+BIL-01134,Galenzone & De Strigter V.O.F.,NL243895449B89,,Elenasteeg 8,6190 HC,Raalte,Netherlands,crediteuren@galenzonedestrigter.nl,8020
+BIL-01135,Mohaupt & Söhne GmbH,DE449278231,,Kristin-Ehlert-Straße 1,81607,Meppen,Germany,buchhaltung@mohauptsohne.de,6940
+BIL-01136,Junck Baustoffhandel GmbH,DE278607682,,Spießallee 370,08395,Bad Liebenwerda,Germany,buchhaltung@junckbaustoffhandel.de,3410
+BIL-01137,Wouters Fournitures Techniques SRL,BE0173188220,,Rue Lacroix 76,3645,Verviers,Belgium,comptabilite@woutersfourniturestechniques.be,4660
+BIL-01138,Jähn Gruppe GmbH & Co. KG,DE273909699,,Patberggasse 8/8,34796,Senftenberg,Germany,buchhaltung@jahngruppe.de,17050
+BIL-01139,Van den Broeck Bouwstoffen NV,BE0733179112,,Malikalei 169,2620,Saint-Vincent,Belgium,facturen@vandenbroeckbouwstoffen.be,4390
+BIL-01140,Ditschlerin & Junk KG,DE241061328,,Bertha-Hesse-Platz 8/6,62324,Rostock,Germany,rechnung@ditschlerinjunk.de,41070
+BIL-01141,Sölzer Baustoffhandel GmbH & Co. KG,DE674735990,,H.-Dieter-Hofmann-Straße 799,20096,Grimmen,Germany,rechnungswesen@solzerbaustoffhandel.de,
+BIL-01142,Seifert & Lorch GmbH,DE327007332,,Johan-Kramer-Ring 7755,31182,Borken,Germany,buchhaltung@seifertlorch.de,8760
+BIL-01143,Hörle & Lange KG,DE702270855,,Kösterstraße 26-96,02368,Backnang,Germany,rechnungswesen@horlelange.de,24740
+BIL-01144,Holsten Baustoffe GmbH,DE808402051,,Dittmar-Kramer-Gasse 55/19,17895,Hünfeld,Germany,buchhaltung@holstenbaustoffe.de,17930
+BIL-01145,Mosley Bouwmaterialen B.V.,NL815174578B74,,Femweg 42,5774 NN,Gorinchem,Netherlands,administratie@mosleybouwmaterialen.nl,17390
+BIL-01146,Schweitzer Elektrogroßhandel GmbH,DE960792502,,Thiesstr. 13-35,19904,Calau,Germany,buchhaltung@schweitzerelektrogrohandel.de,8260
+BIL-01147,Tanghe Handel BV,BE0802813440,,Jeanninelei 64,6628,Villers-sur-Semois,Belgium,administratie@tanghehandel.be,8400
+BIL-01148,Van Bovene Groep B.V.,NL683369363B61,,Benstraat 494,6777 GT,Neede,Netherlands,crediteuren@vanbovenegroep.nl,7360
+BIL-01149,Reijers Technische Handel B.V.,NL824722131B98,,Amirasteeg 015,3160 SP,Lepelstraat,Netherlands,crediteuren@reijerstechnischehandel.nl,8800
+BIL-01150,Franke Haustechnik KG,DE393062061,Van der Spaendonc ICT Diensten B.V.,Majabaan 65,4582 JV,Heesch,Netherlands,facturen@vanderspaendoncictdiensten.nl,26830
+BIL-01151,Tournay Matériaux de Construction SRL,BE0491136945,,Rue Jacquet 134,4287,Ottignies,Belgium,factures@tournaymateriauxdeconstruction.be,3740
+BIL-01152,Nohlmans Heizungsbedarf KG,DE381991615,,Schottinring 871,63272,Sebnitz,Germany,rechnung@nohlmansheizungsbedarf.de,10180
+BIL-01153,David Verwarming B.V.,NL246491273B04,,Irissingel 65,4309 GK,Stitswerd,Netherlands,crediteuren@davidverwarming.nl,16220
+BIL-01154,Johann Gruppe GmbH,DE577488537,,Björn-Pechel-Gasse 219,59182,Wolfratshausen,Germany,rechnung@johanngruppe.de,
+BIL-01155,Aeije Bouwmaterialen B.V.,NL347879360B32,,Daniqueboulevard 45,5076 EB,Zeijen,Netherlands,crediteuren@aeijebouwmaterialen.nl,15440
+BIL-01156,Dachgeldt Industrie B.V.,NL616003342B38,,Philipstraat 5,3715 SR,Nistelrode,Netherlands,administratie@dachgeldtindustrie.nl,3840
+BIL-01157,Röhricht Elektrogroßhandel GmbH,DE637604820,,Pölitzstraße 9,61584,Kyritz,Germany,rechnung@rohrichtelektrogrohandel.de,11810
+BIL-01158,Delforge Sanitaire SA,BE05784130785,,Rue Dupont 132,9335,Nivelles,Belgium,factures@delforgesanitaire.be,8480
+BIL-01159,Westerburg & Weeldenburg B.V.,NL720195688B60,,Bartring 2,2061 AH,Stroe,Netherlands,facturen@westerburgweeldenburg.nl,19240
+BIL-01160,Put Bouwstoffen BV,BE0867352565,,Samuelring 4,1258,Wieze,Belgium,administratie@putbouwstoffen.be,9310
+BIL-01161,Beourgeois Bouwmaterialen V.O.F.,NL497347055B36,,Laurenssteeg 046,7623 GA,Garnwerd,Netherlands,administratie@beourgeoisbouwmaterialen.nl,3700
+BIL-01162,Kok Techniek B.V.,NL435211139B42,,Aronpad 115,7408 HZ,Ter Aard,Netherlands,administratie@koktechniek.nl,3550
+BIL-01163,Stoffeslz Elektrotechniek B.V. - Wjelsryp,NL695832844B22,,Evelienstraat 38,8973 WG,Wjelsryp,Netherlands,facturen@stoffelszelektrotechniek.nl,3510
+BIL-01164,SCHÄFER BAUCENTER GMBH & CO. KG - FREITAL,DE910029537,,Ingo-Beyer-Platz 128,42997,Freital,Germany,buchhaltung@schaferbaucenter.de,13010
+BIL-01165,Van de Biesenbos Bouwstoffen V.O.F.,NL436161542B25,,Selenaboulevard 23,8559 MC,Alteveer,Netherlands,facturen@vandebiesenbosbouwstoffen.nl,3320
+BIL-01166,Gnodde & Zonen V.O.F.,NL814585584B67,,Yinthedreef 9,5551 MT,Einighausen,Netherlands,administratie@gnoddezonen.nl,7710
+BIL-01167,Debruyne Bouwmaterialen BV,BE0479925154,,Jozefstraat 33,2028,Sint-Pieters-Voeren,Belgium,administratie@debruynebouwmaterialen.be,1750
+BIL-01168,Conradi Heizungsbedarf KG,DE758973884,,Heinz-Dieter-Junken-Platz 63,29451,Coburg,Germany,rechnungswesen@conradiheizungsbedarf.de,7080
+BIL-01169,Walter Baustoffe GmbH,DE163031064,,Annelies-Geißler-Gasse 5,22681,Gotha,Germany,rechnung@walterbaustoffe.de,5770
+BIL-01170,Hornich & Söhne GmbH,DE773542196,Van Brenen Software Partners B.V.,Larssteeg 08,5012 JE,Cromvoirt,Netherlands,crediteuren@vanbrenensoftwarepartners.nl,4060
+BIL-01171,Verbeeck Bouwcentrum NV,BE0886799247,,Ruthweg 7,5715,Grosage,Belgium,facturen@verbeeckbouwcentrum.be,8320
+BIL-01172,Van der Klijn Bouwcentrum V.O.F.,NL604834590B9,,Jensweg 95,9215 VD,Maasvlakte Rotterdam,Netherlands,administratie@vanderklijnbouwcentrum.nl,19300
+BIL-01173,Täsche Sanitär GmbH,DE897329706,,Schenkplatz 7-3,61615,Emmendingen,Germany,rechnungswesen@taschesanitar.de,5740
+BIL-01174,Groen Handel V.O.F.,NL486886743B80,,Ryandreef 218,3149 ML,Den Andel,Netherlands,facturen@groenhandel.nl,12870
+BIL-01175,Poelmans Bouwcentrum NV,BE0104942961,Walter Softwarepartner GmbH,Beckmanngasse 43,21993,Dieburg,Germany,rechnung@waltersoftwarepartner.de,18830
+BIL-01176,Molen & Jeggij B.V.,NL804960582B26,,Tijnring 907,3339 RX,IJzendijke,Netherlands,administratie@molenjeggij.nl,
+BIL-01177,Perrono Bouwcentrum V.O.F.,NL617001884B20,,Aaronstraat 396,8774 BE,Vleuten,Netherlands,administratie@perronobouwcentrum.nl,14390
+BIL-01178,Van Eck & Zonen B.V.,NL590427473B02,,Simonpad 125,6362 CW,Haarle,Netherlands,crediteuren@vaneckzonen.nl,14990
+BIL-01179,Tielemans Bouwcentrum B.V.,NL291017139B44,,Laurensteeg 14,9733 MT,Oudemirdum,Netherlands,administratie@tielemansbouwcentrum.nl,
+BIL-01180,Gieß & Hermann KG,DE985665500,,Ladeckstraße 66-16,43156,Bamberg,Germany,rechnungswesen@giehermann.de,3480
+BIL-01181,Goderts Industrie B.V.,NL902601465B54,,Hiddepad 3,2476 LM,Broek,Netherlands,crediteuren@godertsindustrie.nl,8120
+BIL-01182,Lensen Bouwmaterialen V.O.F.,NL978106253B14,,Luuklaan 739,3796 XC,Arcen,Netherlands,facturen@lensenbouwmaterialen.nl,11120
+BIL-01183,JONKMAN ELEKTROGROOTHANDEL B.V.,NL590593090B06,,Maritsingel 060,9530 DS,Vinkel,Netherlands,administratie@jonkmanelektrogroothandel.nl,
+BIL-01184,Room Groep B.V.,NL673573365B14,,Matthijsweg 846,2664 PT,Holten,Netherlands,crediteuren@roomgroep.nl,3090
+BIL-01185,Seip Gruppe GmbH & Co. KG,DE428508459,,Grafallee 32,53602,Güstrow,Germany,buchhaltung@seipgruppe.de,6940
+BIL-01186,Claeys & Zonen NV,BE0856528252,,Celinebaan 1,4150,Wetteren,Belgium,administratie@claeyszonen.be,
+BIL-01187,Oennen Bouwcentrum B.V.,NL332341238B95,,Annahof 738,9779 GH,Blije,Netherlands,crediteuren@oennenbouwcentrum.nl,5520
+BIL-01188,Donnay & Fils SRL,BE0449485406,,Rue Lhoir 7,7020,Wavre,Belgium,factures@donnayfils.be,13630
+BIL-01189,Horemans Bouwmaterialen NV,BE0810371538,,Stephaniesteeg 519,6857,Denderhoutem,Belgium,administratie@horemansbouwmaterialen.be,6570
+BIL-01190,Striebitz Baustoffe GmbH,DE838066391,,Rotraud-Butte-Ring 512,31333,Main-Höchst,Germany,rechnungswesen@striebitzbaustoffe.de,17720
+BIL-01191,Van Suinvorde Elektro B.V.,NL207499879B60,,Thijmenring 9,4826 DC,Groessen,Netherlands,crediteuren@vansuinvordeelektro.nl,
+BIL-01192,Wagenknecht Elektrogroßhandel KG,DE313907621,,Hans-Herbert-Hübel-Platz 9,40666,Uffenheim,Germany,rechnung@wagenknechtelektrogrohandel.de,3580
+BIL-01193,Schinke Elektrotechnik KG,DE751375404,Van der Spaendonc ICT Diensten B.V.,Majabaan 65,4582 JV,Heesch,Netherlands,facturen@vanderspaendoncictdiensten.nl,25250
+BIL-01194,Hesse & Hecker GmbH & Co. KG,DE132169436,,Katalin-Textor-Allee 61,45327,Mühldorf am Inn,Germany,rechnung@hessehecker.de,18050
+BIL-01195,Recers Bouwstoffen B.V.,NL192470197B55,,Owenhof 195,2735 PB,Oosterhesselen,Netherlands,crediteuren@recersbouwstoffen.nl,17610
+BIL-01196,Woudenberg Bouwcentrum B.V.,NL902264040B72,,Josephinelaan 1,1718 ML,Meerlo,Netherlands,administratie@woudenbergbouwcentrum.nl,9760
+BIL-01197,Seifert Handel GmbH,DE278654244,,Ann-Gertz-Weg 758,68202,Illertissen,Germany,rechnung@seiferthandel.de,
+BIL-01198,Döhn Sanitär KG,DE666886808,,Girschnerstr. 6-1,03088,Ebern,Germany,rechnungswesen@dohnsanitar.de,9040
+BIL-01199,Pison Bouwstoffen B.V.,NL761052590B4,,Oliviasteeg 0,2893 SD,Bakkeveen,Netherlands,administratie@pisonbouwstoffen.nl,5310
+BIL-01200,Hande & Warmer GmbH & Co. KG,DE844597866,,Marlies-Gude-Ring 1524,84421,Euskirchen,Germany,rechnungswesen@handewarmer.de,1200
+BIL-01201,Lambotte Industrie SRL,BE0847088874,,Rue Dumortier 36,2920,Mons,Belgium,comptabilite@lambotteindustrie.be,9770
+BIL-01202,Van de Pol Installatietechniek V.O.F.,NL468954488B70,,Benjamindreef 578,9270 KW,Heesselt,Netherlands,administratie@vandepolinstallatietechniek.nl,5390
+BIL-01203,Bakker Bouwcentrum B.V.,NL932858219B939,,Pieterhof 443,2731 PK,Bovensmilde,Netherlands,facturen@bakkerbouwcentrum.nl,7960
+BIL-01204,Wende Baustoffe GmbH & Co. KG,DE758293983,,Sandy-Schottin-Allee 4,62847,Sömmerda,Germany,buchhaltung@wendebaustoffe.de,6180
+BIL-01205,Hak Bouwmaterialen B.V.,NL855309458B53,,Fayesteeg 931,9571 HN,Oost-Souburg,Netherlands,crediteuren@hakbouwmaterialen.nl,17620
+BIL-01206,Rek Installatietechniek B.V.,NL391470920B28,,Juliusdreef 5,9962 JM,Oudorp,Netherlands,crediteuren@rekinstallatietechniek.nl,9970
+BIL-01207,Willemsen Sanitair V.O.F.,NL334580870B48,,Ivyweg 9,3223 JH,Kekerdom,Netherlands,facturen@willemsensanitair.nl,9390
+BIL-01208,Hahn Elektrotechnik GmbH,DE734057571,,Blümelstr. 914,54312,Meißen,Germany,buchhaltung@hahnelektrotechnik.de,6450
+BIL-01209,Le Marec Industrie B.V.,NL416805398B57,,Michelleboulevard 006,2388 EC,Tjerkgaast,Netherlands,crediteuren@lemarecindustrie.nl,7300
+BIL-01210,Overeem Sanitair VOF,NL423108101B99,,Jasperring 841,9824 HC,Nunhem,Netherlands,administratie@overeemsanitair.nl,13580
+BIL-01211,Thys Elektro BV,BE0370714544,,Barbarahof 841,2987,Hulsonniaux,Belgium,facturen@thyselektro.be,11090
+BIL-01212,Pieper Baustoffhandel KG,DE676267306,,Maria-Weitzel-Platz 4/4,38520,Güstrow,Germany,buchhaltung@pieperbaustoffhandel.de,13350
+BIL-01213,Van der Laan Sanitair B..V - Barendrecht,NL957480532B66,,Linasteeg 00,2840 WG,Barendrecht,Netherlands,crediteuren@vanderlaansanitair.nl,14230
+BIL-01214,Huisman & Zonen,NL733873057B23,,Sofiehof 5,2953 NJ,De Mortel,Netherlands,administratie@huismanzonen.nl,5520
+BIL-01215,Ortmann Heizungsbedarf GmbH & Co. KG,DE446445855,,Knappeallee 5-8,84649,Erbisdorf,Germany,rechnungswesen@ortmannheizungsbedarf.de,7530
+BIL-01216,Vaessen Technische Handel B.V.,NL427075547B73,,Stanlaan 089,5035 WE,Zevenhoven,Netherlands,crediteuren@vaessentechnischehandel.nl,8590
+BIL-01217,Segebahn Baustoffhandel GmbH,DE147264570,,Kranzring 570,24438,Bremen,Germany,rechnung@segebahnbaustoffhandel.de,7180
+BIL-01218,Korsman Industrie V.O.F.,NL959372397B75,,Nisalaan 504,7070 MT,Waterlandkerkje,Netherlands,facturen@korsmanindustrie.nl,5060
+BIL-01219,Willems Elektrogroothandel NV,BE0164907817,,Kamielhof 72,7114,Wéris,Belgium,crediteuren@willemselektrogroothandel.be,8620
+BIL-01220,Michiels Technische Handel NV,BE0439854673,,Ivolaan 5,1364,Verviers,Belgium,administratie@michielstechnischehandel.be,10810
+BIL-01221,Van der Kint Verwarming B.V.,NL975942568B02,,Jamesdreef 109,8008 SN,Leermens,Netherlands,facturen@vanderkintverwarming.nl,2440
+BIL-01222,Verbeeck & Gervais BV,NL877625813B17,,Valeriering 9,2945 ZR,Spijkenisse,Netherlands,facturen@verbeeckgervais.nl,5020
+BIL-01223,Dries Groep B.V.,NL810728390B17,,Hendrikbaan 0,8441 GG,Gouda,Netherlands,facturen@driesgroep.nl,12390
+BIL-01224,Ebert Baustoffhandel GmbH,DE713152854,,Schottinstr. 29/13,95878,Pinneberg,Germany,buchhaltung@ebertbaustoffhandel.de,3460
+BIL-01225,Cosman Elektrogroothandel V.O.F.,NL241684797B40,,Victorhof 925,8503 LX,Broek in Waterland,Netherlands,facturen@cosmanelektrogroothandel.nl,4490
+BIL-01226,Uphus Verwarming B.V.,NL110310578B75,,Mellelaan 6,8982 LX,Jellum,Netherlands,crediteuren@uphusverwarming.nl,20990
+BIL-01227,Poncelet Elektrogroothandel B.V.,NL593460064B33,,Imkestraat 85,4804 SK,Yerseke,Netherlands,administratie@ponceletelektrogroothandel.nl,7280
+BIL-01228,Rogner Gruppe KG,DE661277051,,Eberhardtgasse 1248,02740,Groß-Gerau,Germany,rechnung@rognergruppe.de,2190
+BIL-01229,Van Kuijc Sanitair B.V.,NL127574144B78,,Tessring 965,8486 PE,Heelsum,Netherlands,administratie@vankuijcsanitair.nl,
+BIL-01230,De Mol & Driessen B.V.,NL495868120B07,,Quintylaan 0,7530 GJ,Kruisland,Netherlands,crediteuren@demoldriessen.nl,5560
+BIL-01231,Davids & Kuhl GmbH & Co. KG,DE941134728,,Birthe-Gieß-Straße 55/33,92180,Hagenow,Germany,rechnung@davidskuhl.de,16200
+BIL-01232,Frerichs & Huberts B.V.,NL558843089B51,,Thijnsingel 0,3298 DR,Tolkamer,Netherlands,crediteuren@frerichshuberts.nl,5160
+BIL-01233,Delvigne Chauffage SRL,BE0749794986,Limbourg IT Solutions BV,Rue Delvaux 92,6635,Wavre,Belgium,factures@limbourgitsolutions.be,7960
+BIL-01234,Kühnert Gruppe KG,DE864051605,,Kitzmannring 75/66,73666,Quedlinburg,Germany,buchhaltung@kuhnertgruppe.de,4890
+BIL-01235,Kraus Baustoffhandel GmbH,DE452022995,,Hanna-Mende-Ring 37/91,14859,Karlsruhe,Germany,buchhaltung@krausbaustoffhandel.de,7690
+BIL-01236,Van 't Wel Bouwstoffen B.V.,NL938596152B61,,Benjamindreef 629,8377 VN,Weesp,Netherlands,administratie@vantwelbouwstoffen.nl,8610
+BIL-01237,Junken Baucenter GmbH - Pinneberg,DE197660544,,Thanelstraße 7031,69203,Pinneberg,Germany,rechnungswesen@junkenbaucenter.de,10290
+BIL-01238,Hartung Elektrogroßhandel GmbH,DE273187740,,Hans-Bernd-Steckel-Weg 8,99108,Erbisdorf,Germany,rechnungswesen@hartungelektrogrohandel.de,6470
+BIL-01239,Schmidtke Sanitär GmbH,DE372113539,,Ernst-August-Aumann-Allee 802,65058,Mettmann,Germany,rechnung@schmidtkesanitar.de,10420
+BIL-01240,Baeten Techniek NV,BE0902655870,,Kennybaan 153,2324,Steenkerke,Belgium,facturen@baetentechniek.be,
+BIL-01241,Ter Waarbeek Technische Handel V.O.F.,NL378200009B15,,Levilaan 266,8159 JJ,Brandwijk,Netherlands,facturen@terwaarbeektechnischehandel.nl,8950
+BIL-01242,Manne Sanitair V.O.F.,NL598050069B16,,Naudhof 3,4335 BV,Rijs,Netherlands,crediteuren@mannesanitair.nl,10000
+BIL-01243,Nicaise Électricité SRL,BE0179843077,,Rue Laurent 160,7914,Mons,Belgium,comptabilite@nicaiseelectricite.be,3110
+BIL-01244,De Cuyper Handel BV,BE0274429624,,Lutgardesingel 0,5903,Oekene,Belgium,crediteuren@decuyperhandel.be,11570
+BIL-01245,Jessel Sanitär GmbH & Co. KG,DE478939097,Walter Softwarepartner GmbH,Beckmanngasse 43,21993,Dieburg,Germany,rechnung@waltersoftwarepartner.de,3720
+BIL-01246,Sestig Elektrogroothandel V.O.F.,NL766874289B82,,Tijmenbaan 84,4479 GH,Vredenheim,Netherlands,crediteuren@sestigelektrogroothandel.nl,13770
+BIL-01247,Van der Dussen Baustoffhandel GmbH,DE221020998,,Patbergring 582,16262,Illertissen,Germany,rechnung@vanderdussenbaustoffhandel.de,9370
+BIL-01248,Van Laar Techniek B.V.,NL326541099B73,,Chloélaan 959,7572 KC,Beetsterzwaag,Netherlands,administratie@vanlaartechniek.nl,5570
+BIL-01249,Bogaert Installtaietechniek BV,BE0864626275,,Josephsingel 67,1867,Eisden,Belgium,facturen@bogaertinstallatietechniek.be,11750
+BIL-01250,Brizee Handel B.V. - Zorgvlied,NL269327426B64,,Amberdreef 7,7084 CJ,Zorgvlied,Netherlands,crediteuren@brizeehandel.nl,3300
+BIL-01251,De Bont Elektro B.V.,NL334978881B23,,Zakariabaan 5,1090 DR,Foudgum,Netherlands,facturen@debontelektro.nl,3560
+BIL-01252,Delmotte Matériaux SA,BE0976928440,,Rue Aerts 24,4637,Charleroi,Belgium,comptabilite@delmottemateriaux.be,6980
+BIL-01253,Van de Noordmark Sanitair V.O.F.,NL917624738B63,,Mirtheboulevard 851,6878 BJ,Den Ham,Netherlands,administratie@vandenoordmarksanitair.nl,17440
+BIL-01254,Bresé Industrie V.O.F.,NL682771762B35,,Laurensingel 505,6528 LA,Pietersbierum,Netherlands,administratie@breseindustrie.nl,12130
+BIL-01255,Wagenknecht Haustechnik GmbH & Co. KG,DE553456129,,Marjan-Christoph-Ring 73-67,16873,Marktheidenfeld,Germany,rechnung@wagenknechthaustechnik.de,3810
+BIL-01256,Van Wessex Bouwmaterialen B.V.,NL225161415B17,,Dionring 73,7837 SC,Stavoren,Netherlands,administratie@vanwessexbouwmaterialen.nl,25930
+BIL-01257,Knappe Sanitär GmbH & Co. KG,DE203496796,,Kathy-Pieper-Platz 32-82,23443,Lichtenfels,Germany,buchhaltung@knappesanitar.de,3160
+BIL-01258,Ouwel Bouwmaterialen B.V.,NL401542652B60,,Morrissingel 5,7054 KP,Noordwijk,Netherlands,administratie@ouwelbouwmaterialen.nl,18120
+BIL-01259,Hondeveld & Zonen B.V.,NL717221214B23,,Leondreef 09,3680 NK,Susteren,Netherlands,administratie@hondeveldzonen.nl,8010
+BIL-01260,Estey & Van der Meer B.V.,NL964778305B96,,Boring 23,8424 MJ,Oosterwolde,Netherlands,crediteuren@esteyvandermeer.nl,23950
+BIL-01261,Delfosse Matériaux de Construction SRL,BE0395396016,,Rue Robert 88,7717,Huy,Belgium,factures@delfossemateriauxdeconstructio.be,29590
+BIL-01262,Room Buwmaterialen B.V.,NL168110643B21,,Karlijnring 9,1298 ZC,Borger,Netherlands,crediteuren@roombouwmaterialen.nl,6180
+BIL-01263,Remmers Techniek B.V.,NL526324454B14,,Jimweg 7,2311 HG,Etten-Leur,Netherlands,crediteuren@remmerstechniek.nl,11460
+BIL-01264,Vervoort Bouwcentrum B.V.,NL130222592B76,,Willembaan 516,5660 MB,Maarheeze,Netherlands,administratie@vervoortbouwcentrum.nl,6560
+BIL-01265,Trüb Baucenter GmbH,DE608568979,,Ulla-Wernecke-Straße 423,72825,Lemgo,Germany,rechnung@trubbaucenter.de,10880
+BIL-01266,Lambotte & Nys SA,BE0412527533,,Rue Dupuis 155,6618,Nivelles,Belgium,factures@lambottenys.be,10000
+BIL-01267,Blaak Verwarming V.O.F.,NL783394952B55,,Bentering 37,5320 XT,'t Haantje,Netherlands,crediteuren@blaakverwarming.nl,
+BIL-01268,Van Stralen Bouwcentrum B.V.,NL367862922B36,,Elizabethboulevard 579,3498 VG,Kortenhoef,Netherlands,crediteuren@vanstralenbouwcentrum.nl,118000
+BIL-01269,Wende Haustechnik GmbH & Co. KG,DE452922297,,Blochgasse 4-2,33052,Kulmbach,Germany,rechnung@wendehaustechnik.de,2530
+BIL-01270,Zevenboom Bouwmaterialen B.V.,NL154677276B43,,Woutdreef 9,5830 XP,Losdorp,Netherlands,administratie@zevenboombouwmaterialen.nl,7860
+BIL-01271,Zijlmans Sanitair B.V.,NL555581409B67,,Dirkbaan 57,6993 VP,Roelofarendsveen,Netherlands,crediteuren@zijlmanssanitair.nl,6790
+BIL-01272,Klotz & Jessel KG,DE274587852,,Gröttnerplatz 521,71828,Arnstadt,Germany,rechnung@klotzjessel.de,9060
+BIL-01273,Scherms & Zonen B.V.,NL341079154B14,,Joypad 67,9057 GD,Blijham,Netherlands,crediteuren@schermszonen.nl,26930
+BIL-01274,De Grote & Zonen B.V.,NL786298234B30,,Mustafaboulevard 863,3554 LN,Veessen,Netherlands,facturen@degrotezonen.nl,
+BIL-01275,Eckbauer Baustoffe GmbH & Co. KG,DE207866682,,Sölzergasse 7534,24153,Nabburg,Germany,rechnungswesen@eckbauerbaustoffe.de,22470
+BIL-01276,Höfig Werkzeughandel KG,DE363747299,,Elif-Scholl-Weg 9476,50218,Erding,Germany,rechnungswesen@hofigwerkzeughandel.de,5890
+BIL-01277,Killer Baucenter GmbH und Co. KG,DE771031242,,Zirmeallee 1271,16763,Koblenz,Germany,rechnung@killerbaucenter.de,1400
+BIL-01278,Kobelt & Radisch GmbH,DE867658814,,Nergerallee 6/2,22467,Plauen,Germany,rechnung@kobeltradisch.de,2140
+BIL-01279,Tillmanno & Zonen B.V.,NL536071145B92,,Tristansingel 3,3902 GA,Oppenhuizen,Netherlands,administratie@tillmannozonen.nl,33400
+BIL-01280,Holthuis & Zonen B.V.,NL680499353B99,,Tessastraat 9,9061 DE,Balgoij,Netherlands,,2440
+BIL-01281,Linscohten & Zonen,NL618917583B66,,Amiralaan 82,3892 MV,Oudehaske,Netherlands,administratie@linschotenzonen.nl,4380
+BIL-01282,Gotthard Bausto.,DE107639026,,Sedat-Kabus-Allee 87,93382,Dresden,Germany,buchhaltung@gotthardbaustoffhandel.de,
+BIL-01283,Emmen & Martel B.V.,NL730093997B42,,Samboulevard 6,8785 ES,Rohel,Netherlands,crediteuren@emmenmartel.nl,15550
+BIL-01284,Van Dijk Bouwcentrum B.V.,NL349804684B72,,Joystraat 177,8624 XM,Nietap,Netherlands,crediteuren@vandijkbouwcentrum.nl,10480
+BIL-01285,Van Tuijl Elektrogroothandel B.V.,NL669562242B77,,Yusufboulevard 78,4821 CN,Gemonde,Netherlands,,4720
+BIL-01286,Aarts Installatietechniek B.V.,NL737888347B65,,Thijsboulevard 595,2257 CZ,Schermerhorn,Netherlands,administratie@aartsinstallatietechniek.nl,10430
+BIL-01287,Hulst Bouwcentrum V.O.F.,NL285849093B85,,Joshuabaan 05,6606 WJ,Haarlo,Netherlands,facturen@hulstbouwcentrum.nl,11750
+BIL-01288,Berends Sanitair B.V.,NL781197814B45,,Justinweg 748,1469 ER,Haaften,Netherlands,crediteuren@berendssanitair.nl,18080
+BIL-01289,Ullrich Haustechnik GmbH & Co. KG,DE447006489,,Lidia-Blümel-Ring 26/46,22984,Wiedenbrück,Germany,rechnungswesen@ullrichhaustechnik.de,3180
+BIL-01290,De Wolf & Van Laere BV,BE02062733805,,Jeanring 433,7527,Hingeon,Belgium,facturen@dewolfvanlaere.be,5160
+BIL-01291,Gervais & Van Dalem B.V.,NL680768018B65,,Brentweg 33,9677 CS,Oppenhuizen,Netherlands,administratie@gervaisvandalem.nl,4450
+BIL-01292,Van Westfalen Elektrotechniek B.V.,NL524971817B17,,Imranhof 884,6147 JK,Heusden,Netherlands,administratie@vanwestfalenelektrotechniek.nl,5070
+BIL-01293,Pergande Sanitär GmbH,DE745686685,,Wohlgemutstr. 88/90,98448,Quedlinburg,Germany,rechnung@pergandesanitar.de,109000
+BIL-01294,Marchal Bouwcentrum V.O.F.,NL841541582B81,,Tijmensteeg 1,4249 CX,Wernhout,Netherlands,crediteuren@marchalbouwcentrum.nl,13620
+BIL-01295,Van Baalen Industrie B.V.,NL760080817B77,,Thijsboulevard 978,2577 GT,Schoonrewoerd,Netherlands,crediteuren@vanbaalenindustrie.nl,57110
+BIL-01296,PEETERS VERWARMING BV,BE0525568516,,Jefweg 346,1848,Beaumont,Belgium,administratie@peetersverwarming.be,5570
+BIL-01297,Kobelt Handel KG,DE764157741,,Schwitalring 9,92355,Crailsheim,Germany,rechnungswesen@kobelthandel.de,6250
+BIL-01298,Anders Industriebedarf GmbH & Co. KG,DE422306387,,Lucia-Albers-Weg 93/76,66302,Hannover,Germany,buchhaltung@andersindustriebedarf.de,10420
+BIL-01299,Lankle & De Gruijl V.O.F.,NL966781918B78,,Yassinsingel 6,9771 MD,Schijndel,Netherlands,crediteuren@lankledegruijl.nl,1480
+BIL-01300,Weller Technik KG,DE583332987,,Matthäiplatz 2056,78803,Regen,Germany,rechnung@wellertechnik.de,10260
+BIL-01301,Mies Elektrogroßhandel GmbH,DE286197687,,Süleyman-Döring-Platz 7-9,87900,Schwarzenberg,Germany,rechnungswesen@mieselektrogrohandel.de,10250
+BIL-01302,Oostveen Techniek V.O.F.,NL949412096B18,,Jasmijnhof 936,6759 RM,Babberich,Netherlands,facturen@oostveentechniek.nl,14300
+BIL-01303,Stamrood Verwarming B.V.,NL745471251B02,,Mirtelaan 67,8767 EG,Nieuwpoort,Netherlands,crediteuren@stamroodverwarming.nl,
+BIL-01304,Ramaker Installatietechniek V.O.F.,NL244316695B78,,Michaelring 184,7800 WS,Wetsens,Netherlands,administratie@ramakerinstallatietechniek.nl,5100
+BIL-01305,Van der Laar & Weylant BV,NL906074127B09,,Annelaan 765,4222 CS,De Punt,Netherlands,crediteuren@vanderlaarweylant.nl,7880
+BIL-01306,Hagendoorn Elektrotechniek B.V.,NL563573628B39,,Liviasingel 9,3626 NA,Nieuw-Lekkerland,Netherlands,administratie@hagendoornelektrotechniek.nl,2420
+BIL-01307,Aarden Installatietechniek B.V.,NL431361946B02,,Emilyhof 70,1787 MC,De Moer,Netherlands,administratie@aardeninstallatietechniek.nl,10610
+BIL-01308,Van Luin Verwarming B.V.,NL491163514B87,,Louisedreef 148,8170 BR,Minnertsga,Netherlands,crediteuren@vanluinverwarming.nl,2580
+BIL-01309,Harloff & Sager GmbH,DE268363403,,Thiesgasse 1,56598,Wolfenbüttel,Germany,buchhaltung@harloffsager.de,
+BIL-01310,De Vos & Michiels BV,BE0397721596,,Johandreef 71,1046,Eine,Belgium,administratie@devosmichiels.be,13450
+BIL-01311,Molenaar Bouwcentrum B.V.,NL302786799B73,,Norahbaan 4,8526 GG,Westwoud,Netherlands,crediteuren@molenaarbouwcentrum.nl,10680
+BIL-01312,Van Dooren Bouwmaterialen B.V.,NL317645994B35,,Benthebaan 919,5601 LT,Sint Philipsland,Netherlands,facturen@vandoorenbouwmaterialen.nl,13770
+BIL-01313,Van Dijck Elektro BV,BE0751297789,,Kathleensteeg 9,4532,Escanaffles,Belgium,facturen@vandijckelektro.be,6560
+BIL-01314,Jacobi & Gerritsen B.V.,NL457158145B81,,Beaustraat 214,3954 CT,Kerkdriel,Netherlands,facturen@jacobigerritsen.nl,9030
+BIL-01315,Smit & Van der Strigt V.O.F.,NL168343004B29,,Renskedreef 2,3508 LV,Noordeloos,Netherlands,administratie@smitvanderstrigt.nl,4240
+BIL-01316,Waardeloo Bouwstoffen V.O.F.,NL628786900B50,,Victorbaan 120,9108 ZW,Hobrede,Netherlands,crediteuren@waardeloobouwstoffen.nl,168000
+BIL-01317,Van Bentheim & Zonen B.V.,NL394992351B63,,Lynnstraat 5,6167 TX,Posterholt,Netherlands,administratie@vanbentheimzonen.nl,8540
+BIL-01318,Van de Eerenbeemt Sanitair V.O.F.,NL308290739B06,,Tirzabaan 1,1325 JR,Toornwerd,Netherlands,facturen@vandeeerenbeemtsanitair.nl,6560
+BIL-01319,Ooms Installatietechniek NV,BE0769811308,,Lisesteeg 5,8371,Bossière,Belgium,facturen@oomsinstallatietechniek.be,2930
+BIL-01320,Dietz Technik GmbH,DE917506752,,Dogan-Nerger-Allee 198,28347,Dresden,Germany,rechnung@dietztechnik.de,32030
+BIL-01321,Cornelisse Sanitair B.V.,NL882059080B38,,Sennlaan 3,4365 NG,Wognum,Netherlands,administratie@cornelissesanitair.nl,10560
+BIL-01322,Bronder Installatietechniek B.V.,NL950866243B39,Van Brenen Software Partners B.V.,Larssteeg 08,5012 JE,Cromvoirt,Netherlands,crediteuren@vanbrenensoftwarepartners.nl,3670
+BIL-01323,Put & Gielen NV,BE0945805127,,Cindydreef 32,6568,Pepingen,Belgium,administratie@putgielen.be,7150
+BIL-01324,Arent Techniek B.V.,NL407761324B52,,Juulhof 269,8999 BN,Woerden,Netherlands,administratie@arenttechniek.nl,3450
+BIL-01325,Goudriaan Elektrotechniek B.V.,NL769136744B19,,Novastraat 96,6729 ZS,Loënga,Netherlands,facturen@goudriaanelektrotechniek.nl,3460
+BIL-01326,Saelens Bouwcentrum NV,BE0750027161,,Mohamedsingel 8,5382,Aubel,Belgium,administratie@saelensbouwcentrum.be,8480
+BIL-01327,Hendriks Elektrogroßhandel KG,DE766633565,,Hentschelplatz 50,96044,Herzberg,Germany,rechnung@hendrikselektrogrohandel.de,5420
+BIL-01328,Weinhage Heizungsbedarf GmbH,DE687052578,,Lehmanngasse 1,10725,Nordhausen,Germany,buchhaltung@weinhageheizungsbedarf.de,8130
+BIL-01329,Ruppert Technik GmbH,DE530331581,,Kläre-Wernecke-Platz 58-37,15987,Sulzbach-Rosenberg,Germany,buchhaltung@rupperttechnik.de,19530
+BIL-01330,Van Goerle Bouwcentrum B.V.,NL115259323B88,,Amyring 890,3903 WH,Houtigehage,Netherlands,,11310
+BIL-01331,Smet Techniek BV,BE0780631093,,Rudistraat 951,1187,Sint-Pieters-Rode,Belgium,administratie@smettechniek.be,9090
+BIL-01332,Vandewalle Bouwcentrum NV,BE0357399415,,Magdasingel 7,4056,Chokier,Belgium,facturen@vandewallebouwcentrum.be,21010
+BIL-01333,Van der Ven Industrie V.O.F.,NL556522920B23,Limbourg IT Solutions BV,Rue Delvaux 92,6635,Wavre,Belgium,factures@limbourgitsolutions.be,7410
+BIL-01334,Jekel Eelktrotechniek B.V.,NL250806165B92,,Felixweg 2,1750 GT,'s-Heerenhoek,Netherlands,crediteuren@jekelelektrotechniek.nl,4620
+BIL-01335,Jurrijens Bouwstoffen B.V.,NL244405651B40,,Sofiestraat 269,3689 TR,Smallebrugge,Netherlands,crediteuren@jurrijensbouwstoffen.nl,8850
+BIL-01336,Lips Sanitair B.V.,NL847353229B35,,Noralaan 33,6019 RK,Haarzuilens,Netherlands,crediteuren@lipssanitair.nl,5510
+BIL-01337,Schoofs & Zonen BV - Porcheresse,BE0460244389,,Mariasingel 2,3841,Porcheresse,Belgium,facturen@schoofszonen.be,9080
+BIL-01338,Van der Veiver Bouwmaterialen B.V.,NL584392493B81,,Twansteeg 61,5237 RP,Lauwerzijl,Netherlands,facturen@vanderveiverbouwmaterialen.nl,5740
+BIL-01339,Steyaert Industrie BV,BE0938870999,,Kurtsingel 61,4150,Cherain,Belgium,administratie@steyaertindustrie.be,4220
+BIL-01340,Schacht Haustechnik GmbH,DE169271942,,Preißstraße 89-53,17551,Wurzen,Germany,rechnung@schachthaustechnik.de,2930
+BIL-01341,KOLEN & ZONEN V.O.F.,NL872916142B78,,Boazlaan 818,8985 BV,Noordwijkerhout,Netherlands,crediteuren@kolenzonen.nl,10540
+BIL-01342,Kremer Handel B.V.,NL585935286B51,,Nienkesteeg 3,3055 RR,Garminge,Netherlands,administratie@kremerhandel.nl,2630
+BIL-01343,Franke Heizungsbedarf GmbH,DE854882391,,Schomberring 5840,32955,Wolfenbüttel,Germany,rechnung@frankeheizungsbedarf.de,4680
+BIL-01344,Vertooren Sanitair B.V.,NL193056826B04,,Linaring 58,9558 ES,Graft,Netherlands,facturen@vertoorensanitair.nl,
+BIL-01345,Staude Baustoffhandel GmbH & Co. KG,DE867921183,,Etzlerallee 4120,61292,Biedenkopf,Germany,buchhaltung@staudebaustoffhandel.de,2170
+BIL-01346,Hendriks & Söhne GmbH,DE250994689,,Winklerplatz 951,89003,Heiligenstadt,Germany,rechnung@hendrikssohne.de,34130
+BIL-01347,Dewez Industrie SA,BE0479989445,,Rue Delfosse 85,5888,Verviers,Belgium,factures@dewezindustrie.be,7300
+BIL-01348,Binner Gruppe KG,DE106112278,,Anthony-Lachmann-Straße 3171,33709,Oschatz,Germany,buchhaltung@binnergruppe.de,4420
+BIL-01349,VAN HERSTAL & ZONEN BV,NL638590681B79,,Julesweg 494,3905 WH,Farmsum,Netherlands,facturen@vanherstalzonen.nl,8250
+BIL-01350,Meeusen & Zonen V.O.F.,NL740230708B74,,Jobring 04,5105 JP,Sappemeer,Netherlands,crediteuren@meeusenzonen.nl,9500
+BIL-01351,Bleijenberg & Geerts B.V.,NL917097058B61,,Deanstraat 69,4513 PL,Bakel,Netherlands,facturen@bleijenberggeerts.nl,18310
+BIL-01352,Verschut & Werdes B.V.,NL971739084B04,,Noortjehof 906,9832 GB,Bingelrade,Netherlands,administratie@verschutwerdes.nl,15720
+BIL-01353,Van der Zijl Elektrogroothandel B.V.,NL252581172B73,,Nisaboulevard 658,6761 XX,Smalle Ee,Netherlands,crediteuren@vanderzijlelektrogroothandel.nl,4260
+BIL-01354,Gutknecht & Ehlert KG,DE369970706,,Bonbachgasse 292,99584,Schwabmünchen,Germany,rechnungswesen@gutknechtehlert.de,3360
+BIL-01355,Dumont Sanitaire SA,BE0905897904,,Rue Thomas 166,5726,Tournai,Belgium,comptabilite@dumontsanitaire.be,10970
+BIL-01356,Brasseur & Beguin SRL,BE0891850638,,Rue Parent 120,2932,Tournai,Belgium,comptabilite@brasseurbeguin.be,12920
+BIL-01357,Bekaert Bouwcentrum NV,BE0922937760,,Karendreef 28,6243,Orp-le-Grand,Belgium,crediteuren@bekaertbouwcentrum.be,10990
+BIL-01358,Scholl & Bohnbach KG,DE430763906,,Mendering 3/6,27824,Güstrow,Germany,buchhaltung@schollbohnbach.de,6540
+BIL-01359,Heerkens Installatietechniek B.V.,NL754428401B28,,Timsteeg 7,8049 CX,Grevenbicht,Netherlands,crediteuren@heerkensinstallatietechniek.nl,6900
+BIL-01360,Claus & Maes BV,BE0628904885,,Eliaslaan 29,4243,Wegnez,Belgium,crediteuren@clausmaes.be,29540
+BIL-01361,Passchiers Installatietechniek V.O.F.,NL453484964B68,,Miasingel 80,3204 DK,Berg en Dal,Netherlands,crediteuren@passchiersinstallatietechniek.nl,8410
+BIL-01362,Hübel Baustoffe GmbH,DE764657323,,Vanessa-Eimer-Straße 679,72708,Soltau,Germany,rechnung@hubelbaustoffe.de,3750
+BIL-01363,Söding & Mülichen GmbH & Co. KG,DE670661751,,Jungferring 1,17401,Ludwigsburg,Germany,buchhaltung@sodingmulichen.de,5990
+BIL-01364,Klapp Heizungsbedarf KG,DE371953963,,Tintzmanngasse 2,67970,Hünfeld,Germany,rechnung@klappheizungsbedarf.de,5490
+BIL-01365,Van Vlaanderen Industrie,NL495996250B09,,Jobdreef 849,8062 SJ,Earnewâld,Netherlands,administratie@vanvlaanderenindustrie.nl,1410
+BIL-01366,Wutke Bouwstoffen V.O.F.,NL827059836B18,,Lindseylaan 328,5916 WA,De Blesse,Netherlands,crediteuren@wutkebouwstoffen.nl,8960
+BIL-01367,Mathieu Sanitair V.O.F.,NL848755841B24,,Yfkeweg 27,4093 GL,Ferwoude,Netherlands,crediteuren@mathieusanitair.nl,11530
+BIL-01368,Levesque Bouwstoffen B.V.,NL791916428B92,,Ayoubboulevard 819,1202 DC,Cruquius,Netherlands,crediteuren@levesquebouwstoffen.nl,13760
+BIL-01369,Post Groep V.O.F.,NL668613679B78,,Elenapad 8,3894 ZK,Milsbeek,Netherlands,facturen@postgroep.nl,3790
+BIL-01370,Söding & Kostolzin GmbH & Co. KG,DE948156788,,Kohlplatz 6-6,14027,Klötze,Germany,buchhaltung@sodingkostolzin.de,4530
+BIL-01371,Van Bentheim & Speijer B.V.,NL589844971B31,,Rubenstraat 78,6544 HL,Wijnjewoude,Netherlands,crediteuren@vanbentheimspeijer.nl,4680
+BIL-01372,Bakker Techniek V.O.F.,NL877793559B96,,Zoeysingel 13,7535 EZ,Oosterblokker,Netherlands,crediteuren@bakkertechniek.nl,8930
+BIL-01373,Vilain Fournitures Techniques SA,BE0335287540,,Rue Pirard 158,4618,Huy,Belgium,comptabilite@vilainfourniturestechniques.be,38590
+BIL-01374,Rose Sanitär GmbH,DE897695393,,Killerweg 8269,72010,Peine,Germany,rechnung@rosesanitar.de,13970
+BIL-01375,Recers Bouwmaterialen,NL767490610B19,,Sofiepad 2,1040 SX,Zorgvlied,Netherlands,administratie@recersbouwmaterialen.nl,11130
+BIL-01376,Johann Heizungsbedarf GmbH,DE328323191,,Andres-Wähner-Platz 98-26,92092,Lichtenfels,Germany,rechnungswesen@johannheizungsbedarf.de,9950
+BIL-01377,Mitschke Industriebedarf KG - Delitzsch,DE139019611,,Schmidtkeallee 9-8,24107,Delitzsch,Germany,rechnung@mitschkeindustriebedarf.de,
+BIL-01378,PALMAN GROEP B.V.,NL508040078B50,,Samuelring 580,7236 HT,Oudelande,Netherlands,crediteuren@palmangroep.nl,6840
+BIL-01379,Weinhold Haustechnik KG,DE320566645,,Tibor-Geisel-Allee 1/1,86859,Geithain,Germany,buchhaltung@weinholdhaustechnik.de,10340
+BIL-01380,Jacobs & Zonen B.V.,NL794825515B79,,Isabellasteeg 30,1339 AW,Langbroek,Netherlands,administratie@jacobszonen.nl,6580
+BIL-01381,De Heer Elektrotechniek B.V.,NL327704161B20,,Chloëweg 3,2377 NR,Oirlo,Netherlands,crediteuren@deheerelektrotechniek.nl,6870
+BIL-01382,Gerlach Haustechnik GmbH,DE681721208,,Schlosserallee 5/7,37714,Stade,Germany,buchhaltung@gerlachhaustechnik.de,5900
+BIL-01383,Butte Bausto. GmbH,DE787539531,,Schleichring 1,50244,Mayen,Germany,rechnungswesen@buttebaustoffhandel.de,7500
+BIL-01384,Koster Elektrotechniek B.V.,NL853981782B85,,Jortstraat 1,1232 LZ,Delfzijl,Netherlands,administratie@kosterelektrotechniek.nl,5050
+BIL-01385,Van Brenen Bouwstoffen B.V.,NL482268223B75,Van Brenen Software Partners B.V.,Larssteeg 08,5012 JE,Cromvoirt,Netherlands,crediteuren@vanbrenensoftwarepartners.nl,13820
+BIL-01386,Zuidweg Groep B.V.,NL880725278B02,,Fabiënnestraat 67,5410 ES,Blankenham,Netherlands,facturen@zuidweggroep.nl,2620
+BIL-01387,VAN DAM BOUWMATERIALEN B.V.,NL169420993B08,,Elizalaan 5,5123 LG,Beek,Netherlands,crediteuren@vandambouwmaterialen.nl,63690
+BIL-01388,Conradi Haustechni kGmbH & Co. KG,DE285652633,,Lilly-Kade-Platz 293,64313,Mettmann,Germany,rechnungswesen@conradihaustechnik.de,4240
+BIL-01389,Van den Brande & Bruyninckx NV,BE0743407916,,Godelievelei 89,9332,Neufvilles,Belgium,administratie@vandenbrandebruyninckx.be,24830
+BIL-01390,Buchholz & Hellwig KG,DE230394179,,Marica-Trommler-Allee 57/40,45307,Wolfenbüttel,Germany,buchhaltung@buchholzhellwig.de,15370
+BIL-01391,Huijben Techniek B.V.,NL896413702B54,,Chloéring 01,5347 BE,Netterden,Netherlands,administratie@huijbentechniek.nl,9940
+BIL-01392,Olthof & Zonen B.V.,NL974362731B79,,Hiddesteeg 00,2229 CH,Marwijksoord,Netherlands,facturen@olthofzonen.nl,
+BIL-01393,Rijks Elektrotechniek B.V.,NL933265252B23,,Roanring 9,4450 JB,De Wilp,Netherlands,administratie@rijkselektrotechniek.nl,
+BIL-01394,Van der Klein Verwarming B.V.,NL550834148B03,,Lunaweg 137,7263 AB,Warnsveld,Netherlands,administratie@vanderkleinverwarming.nl,6020
+BIL-01395,Weimer & Vogt KG,DE213294985,,Schmiedtstraße 1/6,98860,Rottweil,Germany,rechnungswesen@weimervogt.de,4970
+BIL-01396,Van Daal & Van Voorhout B.V.,NL410579235B84,,Jentering 2,1016 SZ,Griendtsveen,Netherlands,administratie@vandaalvanvoorhout.nl,6490
+BIL-01397,Adolph & Conradi GmbH & Co. KG,DE414429112,,Cichoriusgasse 4/6,72085,Sigmaringen,Germany,rechnung@adolphconradi.de,15280
+BIL-01398,Geisler & Adolph GmbH,DE387888518,,Hofmannallee 82/85,59400,Mainburg,Germany,rechnungswesen@geisleradolph.de,17080
+BIL-01399,Heydrich Sanitär GmbH,DE164698991,,Gerard-Heinrich-Straße 731,71998,Gera,Germany,buchhaltung@heydrichsanitar.de,2740
+BIL-01400,Bachmann & Söhne GmbH,DE413509067,,Hartungplatz 90/94,33369,Sankt Goar,Germany,buchhaltung@bachmannsohne.de,14390
+BIL-01401,Broeshart Bouwmaterialen B.V.,NL325146786B32,,Irisweg 70,8317 AK,Reduzum,Netherlands,administratie@broeshartbouwmaterialen.nl,4850
+BIL-01402,Hartung Technik GmbH,DE478278218,,Heidrichplatz 3,06878,München,Germany,rechnungswesen@hartungtechnik.de,5210
+BIL-01403,Hendricks & Geldens V.O.F.,NL403305498B99,,Anoukring 086,3066 EC,Varsseveld,Netherlands,crediteuren@hendricksgeldens.nl,1730
+BIL-01404,Demmendaal & Zonen V.O.F. - Gorredijk,NL519921150B19,,Maaikehof 5,5734 AE,Gorredijk,Netherlands,crediteuren@demmendaalzonen.nl,6730
+BIL-01405,Van Laarhoven & Zonen B.V.,NL220186460B74,,Eviesingel 34,7502 EJ,Grafhorst,Netherlands,crediteuren@vanlaarhovenzonen.nl,14850
+BIL-01406,Appelman Bouwmaterialen V.O.F.,NL467613766B29,,Janneboulevard 1,7223 AC,Zuidvelde,Netherlands,facturen@appelmanbouwmaterialen.nl,3920
+BIL-01407,Finke Elektro KG,DE389215848,,Klaudia-Ernst-Straße 4769,39832,Grimma,Germany,rechnung@finkeelektro.de,9100
+BIL-01408,Uittenbosch Technische Handel V.O.F.,NL128457066B74,,Lukeboulevard 027,7849 CE,Dalmsholte,Netherlands,crediteuren@uittenboschtechnischehandel.nl,8910
+BIL-01409,SCHÖNLAND & SÖHNE GMBH & CO. KG,DE260314927,,Speerstraße 79-57,09745,Ebermannstadt,Germany,buchhaltung@schonlandsohne.de,
+BIL-01410,Zahn & Pruschke GmbH,DE993922237,,Hans-Josef-Gute-Gasse 6070,04927,Demmin,Germany,rechnung@zahnpruschke.de,2580
+BIL-01411,Segerszoen Industrie B.V.,NL350785761B53,,Mellehof 9,4912 XP,Slijkenburg,Netherlands,crediteuren@segerszoenindustrie.nl,10040
+BIL-01412,Willems Groep BV,BE0481805252,,Luclei 40,2573,Velm,Belgium,facturen@willemsgroep.be,
+BIL-01413,Bruder Baucenter GmbH & Co. KG,DE929517022,,Gaby-Reuter-Gasse 33,16261,Grafenau,Germany,rechnung@bruderbaucenter.de,2660
+BIL-01414,Moenen Bouwmaterialen B.V.,NL617024564B87,,Jasonpad 599,7793 MD,Warffum,Netherlands,crediteuren@moenenbouwmaterialen.nl,5690
+BIL-01415,Rörricht & Junken GmbH,DE214949614,,Evi-Mitschke-Allee 7/2,27553,Schweinfurt,Germany,rechnung@rorrichtjunken.de,7840
+BIL-01416,Butselaar Bouwstoffen B.V.,NL785383997B61,,Evelienpad 39,6622 JW,Aarlanderveen,Netherlands,administratie@butselaarbouwstoffen.nl,1780
+BIL-01417,Huybrechts Elektro BV,BE0151780354,,Marleenlei 562,2837,Oret,Belgium,administratie@huybrechtselektro.be,11320
+BIL-01418,Van Gelder & Van der Wal B.V.,NL839462365B39,,Silkehof 67,8195 DS,Bruchem,Netherlands,crediteuren@vangeldervanderwal.nl,23490
+BIL-01419,Hesse Elektro GmbH,DE631475412,,Patbergring 7-7,86186,Ansbach,Germany,rechnung@hesseelektro.de,
+BIL-01420,De Gruson & Zonen V.O.F.,NL196452534B62,,Daniquesingel 00,1558 WN,Hansweert,Netherlands,crediteuren@degrusonzonen.nl,6490
+BIL-01421,Wendt Bouwstoffen B.V.,NL951641794B99,,Rileydreef 410,7436 DX,Uitgeest,Netherlands,facturen@wendtbouwstoffen.nl,
+BIL-01422,Stoffel Elektrotechniek B.V.,NL626339635B64,,Sophiastraat 1,1208 BT,Hengelo (Gld),Netherlands,facturen@stoffelelektrotechniek.nl,5650
+BIL-01423,Miltenburg Installatietechniek V.O.F.,NL869469831B66,,Marijnweg 8,1653 NP,Zandeweer,Netherlands,administratie@miltenburginstallatietechniek.nl,12830
+BIL-01424,Tielemans Installatietechniek B.V.,NL985170391B63,,Dinadreef 7,2211 SB,Noordgouwe,Netherlands,crediteuren@tielemansinstallatietechniek.nl,
+BIL-01425,Van Orleans Elektrogroothandel B.V.,NL531303909B13,,Sarahof 54,1855 LP,Driebergen-Rijsenburg,Netherlands,facturen@vanorleanselektrogroothandel.nl,4100
+BIL-01426,Mude Sanitär GmbH & Co. KG,DE536877463,,Maritta-Langern-Weg 992,76346,Schlüchtern,Germany,buchhaltung@mudesanitar.de,12480
+BIL-01427,Driessen Technische Handel B.V.,NL937848006B03,,Mohamedpad 449,2908 ER,Zaltbommel,Netherlands,crediteuren@driessentechnischehandel.nl,5920
+BIL-01428,Verstraeten & Zonen NV,BE0629166199,,Marieboulevard 88,9670,Louveigné,Belgium,facturen@verstraetenzonen.be,3710
+BIL-01429,Vial Bouwmaterialen V.O.F.,NL412139994B60,,Evieweg 6,9638 VC,Alblasserdam,Netherlands,,8420
+BIL-01430,Metz Haustechnik GmbH,DE109957827,,Olena-Wohlgemut-Allee 67,75067,Uelzen,Germany,rechnung@metzhaustechnik.de,9370
+BIL-01431,Krabbe Techniek B.V.,NL895258294B78,,Novaweg 890,4434 DT,Veenendaal,Netherlands,,6460
+BIL-01432,Labado Elektrotechniek B.V.,NL792763273B86,,Loissingel 489,3799 VX,Stramproy,Netherlands,administratie@labadoelektrotechniek.nl,16780
+BIL-01433,Kathagen Verwarming V.O.F.,NL833680648B08,,Lottesingel 47,9699 EL,Muiden,Netherlands,administratie@kathagenverwarming.nl,14570
+BIL-01434,Hornig Baucenter GmbH,DE140539484,,Ingolf-Radisch-Straße 222,80893,Bautzen,Germany,buchhaltung@hornigbaucenter.de,10940
+BIL-01435,Van Heusden & Doorhof B.V.,NL750867643B34,,Feddebaan 88,3271 CS,Nieuwerkerk,Netherlands,facturen@vanheusdendoorhof.nl,5280
+BIL-01436,Osterhoudt Techniek B.V.,NL554436365B55,,Gerritbaan 1,4694 EJ,Gulpen,Netherlands,facturen@osterhoudttechniek.nl,9070
+BIL-01437,Lambregt Bouwstoffen V.O.F.,NL336103257B94,,Collinsingel 451,7421 PD,Best,Netherlands,facturen@lambregtbouwstoffen.nl,14170
+BIL-01438,Meeusen & Zonen B.V.,NL718381406B95,,Eliseweg 710,9924 KG,Kornwerderzand,Netherlands,crediteuren@meeusenzonen.nl,13790
+BIL-01439,Gilson Électricité SA,BE0295858216,,Rue Janssens 49,2121,Tournai,Belgium,comptabilite@gilsonelectricite.be,7980
+BIL-01440,Van Gemert Bouwstoffen,NL838993835B90,,Jasmijnpad 50,6542 VV,Hobrede,Netherlands,crediteuren@vangemertbouwstoffen.nl,58000
+BIL-01441,Trupp Baustoffe GmbH,DE820519918,,Jaroslav-Schmidt-Platz 8163,55996,Dieburg,Germany,rechnungswesen@truppbaustoffe.de,8320
+BIL-01442,De Grote Elektro B.V.,NL402155787B94,,Kaydreef 02,9714 HD,Diever,Netherlands,facturen@degroteelektro.nl,15640
+BIL-01443,Heydrich Baustoffe GmbH,DE63468822,,Albertine-Meyer-Weg 30/67,73779,Mainburg,Germany,rechnung@heydrichbaustoffe.de,1640
+BIL-01444,Backer & Zonen B.V.,NL816114302B14,,Finnlaan 2,6862 HJ,Kerkwerve,Netherlands,crediteuren@backerzonen.nl,12390
+BIL-01445,Kallen Bouwcentrum B.V.,NL801678919B91,,Romystraat 08,9337 LL,Rijssen,Netherlands,administratie@kallenbouwcentrum.nl,6920
+BIL-01446,Cadefau Verwarming B.V.,NL159499094B16,,Hugosingel 889,3114 RV,St.-Annaparochie,Netherlands,facturen@cadefauverwarming.nl,24750
+BIL-01447,Verboven Handel NV,BE0644725317,,Tinesingel 27,6511,Hergenrath,Belgium,crediteuren@verbovenhandel.be,4990
+BIL-01448,Borremans Elektro BV,BE0467240263,,Frankweg 648,8021,Bonlez,Belgium,administratie@borremanselektro.be,
+BIL-01449,Riehl Baustoffe GmbH,DE245926081,,Dimitri-Blümel-Platz 1087,50536,Niesky,Germany,rechnungswesen@riehlbaustoffe.de,8800
+BIL-01450,Kitzmann Elektrogroßhandel GmbH,DE876385418,,Simona-Riehl-Allee 8,62396,Wismar,Germany,rechnung@kitzmannelektrogrohandel.de,22420
+BIL-01451,Bah Commerce SA,BE0393421844,,Rue Lardinois 8,3955,La Louvière,Belgium,comptabilite@bahcommerce.be,9250
+BIL-01452,Poncelet Elektrotechniek B.V.,NL513203779B73,,Janring 265,7697 BD,Losser,Netherlands,administratie@ponceletelektrotechniek.nl,16120
+BIL-01453,Kortman Technische Handel V.O.F.,NL468562982B90,,Lilyboulevard 2,4384 PC,Schiphol-Rijk,Netherlands,administratie@kortmantechnischehandel.nl,8340
+BIL-01454,Peeters Bouwstoffen BV,BE0155877346,,Koenboulevard 32,4874,Thorembais-les-Béguines,Belgium,administratie@peetersbouwstoffen.be,
+BIL-01455,Kuiper Technische Handel B.V.,NL502456303B83,,Imkestraat 58,8591 WR,Groessen,Netherlands,facturen@kuipertechnischehandel.nl,17250
+BIL-01456,Wieloch Baustoffhandel GmbH & Co. KG,DE920280292,,Speergasse 42-38,88109,Günzburg,Germany,buchhaltung@wielochbaustoffhandel.de,8500
+BIL-01457,Schilt & Zuidweg B.V.,NL579635523B93,,Noorboulevard 751,6247 EP,Vlieland,Netherlands,facturen@schiltzuidweg.nl,4350
+BIL-01458,Nijs Sanitair NV,BE0327494893,,Kellydreef 8,7891,Tisselt,Belgium,crediteuren@nijssanitair.be,18640
+BIL-01459,Reichmann Sanitär KG,DE177119592,,Schmidtstraße 5348,52324,Mittweida,Germany,buchhaltung@reichmannsanitar.de,6990
+BIL-01460,Luyten Verwarming NV,BE0636424728,,Noorsteeg 359,3360,Viemme,Belgium,administratie@luytenverwarming.be,9910
+BIL-01461,Delattre & Fils SRL,BE09366816536,,Rue Marchand 39,3743,La Louvière,Belgium,factures@delattrefils.be,8220
+BIL-01462,Lamotte & Zonen B.V.,NL368110590B08,,Benthestraat 5,4634 LB,Giessenburg,Netherlands,administratie@lamottezonen.nl,
+BIL-01463,Lieshout Handel B.V.,NL503852374B70,,Yfkesteeg 2,1253 NA,Tuk,Netherlands,facturen@lieshouthandel.nl,10180
+BIL-01464,Mies & Klemm GmbH & Co. KG,DE245340361,,Säuberlichplatz 7441,03193,Brilon,Germany,rechnung@miesklemm.de,
+BIL-01465,Verbruggen Bouwstoffen NV,BE0664478772,,Borislei 685,9529,Vertrijk,Belgium,crediteuren@verbruggenbouwstoffen.be,43220
+BIL-01466,Mol & Françoise B.V.,NL265959933B14,,Elizering 652,5011 WA,Schore,Netherlands,crediteuren@molfrancoise.nl,6310
+BIL-01467,Van Beek & Booden V.O.F.,NL303002339B09,,Yassinhof 647,8272 AL,Zandeweer,Netherlands,crediteuren@vanbeekbooden.nl,4750
+BIL-01468,De Beer Sanitair B.V.,NL801680220B77,,Vincentbaan 999,6335 VT,Neede,Netherlands,facturen@debeersanitair.nl,
+BIL-01469,Sager Technik GmbH,DE829699746,,Sibille-Hübel-Ring 3-4,47085,Bad Brückenau,Germany,rechnung@sagertechnik.de,
+BIL-01470,Roht & Söhne GmbH,DE666494300,,Haasering 67,69455,Lübz,Germany,rechnungswesen@rohtsohne.de,15250
+BIL-01471,Decoster & Laureys NV,BE0202585894,,Etienneboulevard 7,9021,Tillier,Belgium,crediteuren@decosterlaureys.be,6610
+BIL-01472,LAFFRAY & TIMMERMAN B.V.,NL943854460B90,,Marthof 92,1358 EC,Neerlangel,Netherlands,administratie@laffraytimmerman.nl,6130
+BIL-01473,Heerkens Industrie V.O.F.,767698175B27,,Jaysonpad 71,6902 TG,Woldendorp,Netherlands,crediteuren@heerkensindustrie.nl,3590
+BIL-01474,Rudolph Elektro GmbH,DE416753801,,Oswald-Adler-Straße 84,18450,Leipziger Land,Germany,rechnung@rudolphelektro.de,21640
+BIL-01475,Van Luinenburg & Brisee B.V.,NL541510997B25,,Daphnehof 53,8327 GW,Oldebroek,Netherlands,facturen@vanluinenburgbrisee.nl,12910
+BIL-01476,Uphaus Elektro B.V.,NL336982555B54,,Madslaan 249,8171 RW,Readtsjerk,Netherlands,facturen@uphauselektro.nl,2280
+BIL-01477,Laurent & Fils SA,BE0497720983,,Rue Roland 120,1769,Ottignies,Belgium,comptabilite@laurentfils.be,5150
+BIL-01478,Mans Elektrogroßhandel GmbH,DE169226321,,Müllergasse 86,03924,Neubrandenburg,Germany,rechnung@manselektrogrohandel.de,2920
+BIL-01479,Van den Berghe & Zonen NV,BE0955645476,,Josephboulevard 305,9739,Handzame,Belgium,facturen@vandenberghezonen.be,7600
+BIL-01480,Förster & Jähn KG,DE334445010,,Hörlestraße 7,62259,Griesbach Rottal,Germany,rechnungswesen@forsterjahn.de,6840
+BIL-01481,Vollbrecht & Faust,DE357010335,,Vittorio-Sölzer-Gasse 56,76624,Beeskow,Germany,buchhaltung@vollbrechtfaust.de,9290
+BIL-01482,Trubin Elektrogroßhandel GmbH,DE332232732,,Kadeweg 150,20523,Herford,Germany,buchhaltung@trubinelektrogrohandel.de,5490
+BIL-01483,De Vrome Industrie B.V.,NL490102359B66,,Lizering 28,1939 CP,Tzummarum,Netherlands,facturen@devromeindustrie.nl,4500
+BIL-01484,Ligtvoet Elektrogroothandel V.O.F.,NL870256962B30,,Aaliyahbaan 0,6199 BW,Woensdrecht,Netherlands,administratie@ligtvoetelektrogroothandel.nl,15620
+BIL-01485,Pratt Groep B.V.,NL731912405B63,,Elenaring 31,2908 BS,Oldemarkt,Netherlands,administratie@prattgroep.nl,2060
+BIL-01486,Klein & Zonen B.V.,NL180852074B19,,Isabelsteeg 124,6549 DS,Onderdendam,Netherlands,crediteuren@kleinzonen.nl,5860
+BIL-01487,Overdijk Bouwmaterialen B.V.,NL285723207B82,,Roosbaan 98,4255 VR,Stroobos,Netherlands,crediteuren@overdijkbouwmaterialen.nl,10610
+BIL-01488,De Wolf Bouwmaterialen NV,BE0811642514,,Evelienpad 724,2501,Nandrin,Belgium,facturen@dewolfbouwmaterialen.be,12500
+BIL-01489,Neuschäfer Industriebedarf GmbH & Co. KG,DE560371446,,Carl-Heß-Allee 40/68,78577,Neuruppin,Germany,rechnung@neuschaferindustriebedarf.de,10980
+BIL-01490,Döhn & Pergande KG,DE530823983,,Drewesallee 47,41780,Lüdenscheid,Germany,rechnungswesen@dohnpergande.de,4010
+BIL-01491,De Ridder Bouwmaterialen BV,BE0517435960,,Annickboulevard 2,9015,Oizy,Belgium,crediteuren@deridderbouwmaterialen.be,11740
+BIL-01492,De la Fleche Bouwstoffen B.V.,NL552345128B25,,Dirkpad 9,8475 BG,Ansen,Netherlands,administratie@delaflechebouwstoffen.nl,13440
+BIL-01493,Schulz Baucenter KG,DE434751714,,Insa-Löchel-Straße 87,47596,Dieburg,Germany,rechnung@schulzbaucenter.de,39530
+BIL-01494,Kof Groep B.V.,NL734260115B24,,Victordreef 625,6264 WD,Mantgum,Netherlands,administratie@kofgroep.nl,20830
+BIL-01495,Fröhlich Haustechnik GmbH,DE664637437,,Hartmannring 46,60082,Grafenau,Germany,rechnung@frohlichhaustechnik.de,7030
+BIL-01496,Van Hoecke Groep BV,BE0960666308,,Brigittepad 3,1797,Crisnée,Belgium,facturen@vanhoeckegroep.be,6990
+BIL-01497,Gieß Baustoffe GmbH & Co. KG,DE996401754,,Zeki-Gröttner-Gasse 9,54120,Darmstadt,Germany,buchhaltung@giebaustoffe.de,
+BIL-01498,Van der Laan Technische Handel B.V.,NL895525625B76,,Félinering 72,3249 DZ,Eefde,Netherlands,crediteuren@vanderlaantechnischehandel.nl,5670
+BIL-01499,Stroh Elektrogroßhandel GmbH,DE570715914,,Achim-Aumann-Allee 81,60147,Freising,Germany,rechnung@strohelektrogrohandel.de,4960
+BIL-01500,Renner Baucenter GmbH,DE903170583,,Adelheid-Hövel-Platz 157,28271,Sigmaringen,Germany,buchhaltung@rennerbaucenter.de,7730

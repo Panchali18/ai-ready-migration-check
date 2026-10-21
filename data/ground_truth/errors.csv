@@ -1,0 +1,553 @@
+error_id,error_type,source,record_id,field,raw_value,correct_value,entity_id
+ERR-0001,date_format_mixup,crm,CRM-00032,renewal_date,09/10/2027,10-09-2027,E01116
+ERR-0002,date_format_mixup,crm,CRM-00128,renewal_date,07/24/2027,24-07-2027,E00949
+ERR-0003,date_format_mixup,crm,CRM-00165,renewal_date,03/15/2027,15-03-2027,E00883
+ERR-0004,date_format_mixup,crm,CRM-00210,renewal_date,03/28/2027,28-03-2027,E00973
+ERR-0005,date_format_mixup,crm,CRM-00231,renewal_date,03/09/2027,09-03-2027,E00902
+ERR-0006,date_format_mixup,crm,CRM-00279,renewal_date,03/29/2027,29-03-2027,E00366
+ERR-0007,date_format_mixup,crm,CRM-00299,renewal_date,07/21/2027,21-07-2027,E01386
+ERR-0008,date_format_mixup,crm,CRM-00353,renewal_date,10/09/2027,09-10-2027,E00276
+ERR-0009,date_format_mixup,crm,CRM-00364,renewal_date,03/28/2027,28-03-2027,E01157
+ERR-0010,date_format_mixup,crm,CRM-00383,renewal_date,11/06/2027,06-11-2027,E00502
+ERR-0011,date_format_mixup,crm,CRM-00501,renewal_date,03/06/2027,06-03-2027,E00229
+ERR-0012,date_format_mixup,crm,CRM-00537,renewal_date,08/15/2027,15-08-2027,E01359
+ERR-0013,date_format_mixup,crm,CRM-00551,renewal_date,06/05/2027,05-06-2027,E00907
+ERR-0014,date_format_mixup,crm,CRM-00588,renewal_date,06/30/2027,30-06-2027,E00509
+ERR-0015,date_format_mixup,crm,CRM-00655,renewal_date,07/16/2027,16-07-2027,E01288
+ERR-0016,date_format_mixup,crm,CRM-00973,renewal_date,06/12/2027,12-06-2027,E00120
+ERR-0017,date_format_mixup,crm,CRM-01037,renewal_date,08/20/2027,20-08-2027,E00733
+ERR-0018,date_format_mixup,crm,CRM-01105,renewal_date,02/06/2027,06-02-2027,E01336
+ERR-0019,date_format_mixup,crm,CRM-01114,renewal_date,09/24/2027,24-09-2027,E01392
+ERR-0020,date_format_mixup,crm,CRM-01209,renewal_date,08/16/2027,16-08-2027,E00404
+ERR-0021,date_format_mixup,crm,CRM-01221,renewal_date,01/12/2027,12-01-2027,E01125
+ERR-0022,date_format_mixup,crm,CRM-01233,renewal_date,10/01/2027,01-10-2027,E00978
+ERR-0023,date_format_mixup,crm,CRM-01378,renewal_date,12/16/2027,16-12-2027,E00345
+ERR-0024,date_format_mixup,crm,CRM-01424,renewal_date,08/17/2027,17-08-2027,E00657
+ERR-0025,date_format_mixup,crm,CRM-01526,renewal_date,02/24/2027,24-02-2027,E00920
+ERR-0026,date_format_mixup,crm,CRM-01638,renewal_date,06/04/2027,04-06-2027,E00156
+ERR-0027,date_format_mixup,crm,CRM-01824,renewal_date,08/20/2027,20-08-2027,E00385
+ERR-0028,date_format_mixup,crm,CRM-01892,renewal_date,08/16/2027,16-08-2027,E01233
+ERR-0029,date_format_mixup,crm,CRM-01925,renewal_date,01/17/2027,17-01-2027,E00818
+ERR-0030,date_format_mixup,crm,CRM-01994,renewal_date,08/10/2027,10-08-2027,E01355
+ERR-0031,demo_split_customer,billing,BIL-00785,legal_name,Van Gemert Bouwstoffen - Cadzand,Van Gemert Bouwstoffen B.V.,E00221
+ERR-0032,demo_split_customer,billing,BIL-01440,legal_name,Van Gemert Bouwstoffen,Van Gemert Bouwstoffen B.V.,E00221
+ERR-0033,exact_duplicate_in_crm,crm,CRM-00022,(whole record),duplicate,remove: same customer as another record,E01115
+ERR-0034,exact_duplicate_in_crm,crm,CRM-00172,(whole record),duplicate,remove: same customer as another record,E00710
+ERR-0035,exact_duplicate_in_crm,crm,CRM-00288,(whole record),duplicate,remove: same customer as another record,E00383
+ERR-0036,exact_duplicate_in_crm,crm,CRM-00309,(whole record),duplicate,remove: same customer as another record,E00712
+ERR-0037,exact_duplicate_in_crm,crm,CRM-00335,(whole record),duplicate,remove: same customer as another record,E00709
+ERR-0038,exact_duplicate_in_crm,crm,CRM-00336,(whole record),duplicate,remove: same customer as another record,E01280
+ERR-0039,exact_duplicate_in_crm,crm,CRM-00350,(whole record),duplicate,remove: same customer as another record,E01601
+ERR-0040,exact_duplicate_in_crm,crm,CRM-00399,(whole record),duplicate,remove: same customer as another record,E01362
+ERR-0041,exact_duplicate_in_crm,crm,CRM-00438,(whole record),duplicate,remove: same customer as another record,E01906
+ERR-0042,exact_duplicate_in_crm,crm,CRM-00455,(whole record),duplicate,remove: same customer as another record,E01553
+ERR-0043,exact_duplicate_in_crm,crm,CRM-00528,(whole record),duplicate,remove: same customer as another record,E00321
+ERR-0044,exact_duplicate_in_crm,crm,CRM-00746,(whole record),duplicate,remove: same customer as another record,E00913
+ERR-0045,exact_duplicate_in_crm,crm,CRM-00752,(whole record),duplicate,remove: same customer as another record,E01840
+ERR-0046,exact_duplicate_in_crm,crm,CRM-00768,(whole record),duplicate,remove: same customer as another record,E01427
+ERR-0047,exact_duplicate_in_crm,crm,CRM-00904,(whole record),duplicate,remove: same customer as another record,E01530
+ERR-0048,exact_duplicate_in_crm,crm,CRM-00928,(whole record),duplicate,remove: same customer as another record,E01834
+ERR-0049,exact_duplicate_in_crm,crm,CRM-01039,(whole record),duplicate,remove: same customer as another record,E00622
+ERR-0050,exact_duplicate_in_crm,crm,CRM-01051,(whole record),duplicate,remove: same customer as another record,E00554
+ERR-0051,exact_duplicate_in_crm,crm,CRM-01075,(whole record),duplicate,remove: same customer as another record,E01222
+ERR-0052,exact_duplicate_in_crm,crm,CRM-01127,(whole record),duplicate,remove: same customer as another record,E00721
+ERR-0053,exact_duplicate_in_crm,crm,CRM-01135,(whole record),duplicate,remove: same customer as another record,E00104
+ERR-0054,exact_duplicate_in_crm,crm,CRM-01172,(whole record),duplicate,remove: same customer as another record,E00165
+ERR-0055,exact_duplicate_in_crm,crm,CRM-01175,(whole record),duplicate,remove: same customer as another record,E01562
+ERR-0056,exact_duplicate_in_crm,crm,CRM-01190,(whole record),duplicate,remove: same customer as another record,E01197
+ERR-0057,exact_duplicate_in_crm,crm,CRM-01224,(whole record),duplicate,remove: same customer as another record,E01781
+ERR-0058,exact_duplicate_in_crm,crm,CRM-01300,(whole record),duplicate,remove: same customer as another record,E00047
+ERR-0059,exact_duplicate_in_crm,crm,CRM-01368,(whole record),duplicate,remove: same customer as another record,E01167
+ERR-0060,exact_duplicate_in_crm,crm,CRM-01693,(whole record),duplicate,remove: same customer as another record,E00831
+ERR-0061,exact_duplicate_in_crm,crm,CRM-01696,(whole record),duplicate,remove: same customer as another record,E00299
+ERR-0062,exact_duplicate_in_crm,crm,CRM-01929,(whole record),duplicate,remove: same customer as another record,E00776
+ERR-0063,invalid_email,crm,CRM-00028,sales_contact_email,gudula.weikochsanitar.de,gudula.wei@kochsanitar.de,E00283
+ERR-0064,invalid_email,crm,CRM-00249,sales_contact_email,luigi.salmon@@colletfils.be,luigi.salmon@colletfils.be,E01246
+ERR-0065,invalid_email,crm,CRM-00304,sales_contact_email,geert.martens@@woutershandel.be,geert.martens@woutershandel.be,E01911
+ERR-0066,invalid_email,crm,CRM-00397,sales_contact_email,franco.kraushaar @junckwerkzeughandel.de,franco.kraushaar@junckwerkzeughandel.de,E00771
+ERR-0067,invalid_email,crm,CRM-00423,sales_contact_email,senol.caspar@dohnsohne,senol.caspar@dohnsohne.de,E00692
+ERR-0068,invalid_email,crm,CRM-00450,sales_contact_email,daan.vandermaath@godertsindustrie.nl.,daan.vandermaath@godertsindustrie.nl,E00057
+ERR-0069,invalid_email,crm,CRM-00475,sales_contact_email,jacqueline.andries@tielemanszonen,jacqueline.andries@tielemanszonen.be,E01314
+ERR-0070,invalid_email,crm,CRM-00606,sales_contact_email,eveline.deryck@depaepehandel,eveline.deryck@depaepehandel.be,E00847
+ERR-0071,invalid_email,crm,CRM-00617,sales_contact_email,marlen.stumpf@mieselektrogrohandel.de.,marlen.stumpf@mieselektrogrohandel.de,E00336
+ERR-0072,invalid_email,crm,CRM-00653,sales_contact_email,angelina.hagendoornbrouwerinstallatietechniek.nl,angelina.hagendoorn@brouwerinstallatietechniek.nl,E01500
+ERR-0073,invalid_email,crm,CRM-00668,sales_contact_email,sarah.vanderpol @lemarecindustrie.nl,sarah.vanderpol@lemarecindustrie.nl,E00479
+ERR-0074,invalid_email,crm,CRM-00810,sales_contact_email,christiane.michiels@@desmedttechniek.be,christiane.michiels@desmedttechniek.be,E00011
+ERR-0075,invalid_email,crm,CRM-00818,sales_contact_email,wolfram.eberhardt@strohzahn,wolfram.eberhardt@strohzahn.de,E01695
+ERR-0076,invalid_email,crm,CRM-00987,sales_contact_email,laurens.zeemans@holthuiszonen.nl.,laurens.zeemans@holthuiszonen.nl,E00349
+ERR-0077,invalid_email,crm,CRM-01044,sales_contact_email,dorina.weller@dehmelhandel,dorina.weller@dehmelhandel.de,E01855
+ERR-0078,invalid_email,crm,CRM-01069,sales_contact_email,quentin.thiry @claeselectricite.be,quentin.thiry@claeselectricite.be,E01627
+ERR-0079,invalid_email,crm,CRM-01318,sales_contact_email,dana.potters@@cadefauverwarming.nl,dana.potters@cadefauverwarming.nl,E00100
+ERR-0080,invalid_email,crm,CRM-01336,sales_contact_email,jente.leene@@hazenveldbouwcentrum.nl,jente.leene@hazenveldbouwcentrum.nl,E01215
+ERR-0081,invalid_email,crm,CRM-01422,sales_contact_email,annelie.drewes@linkewerkzeughandel.de.,annelie.drewes@linkewerkzeughandel.de,E00302
+ERR-0082,invalid_email,crm,CRM-01433,sales_contact_email,maria.vandenbossche@@davidbouwcentrum.be,maria.vandenbossche@davidbouwcentrum.be,E01546
+ERR-0083,invalid_email,crm,CRM-01474,sales_contact_email,jonas.vangeenen@friehustechnischehandel,jonas.vangeenen@friehustechnischehandel.nl,E00711
+ERR-0084,invalid_email,crm,CRM-01485,sales_contact_email,noortje.kerkhof@vanthouteveenbouwmaterialen.nl.,noortje.kerkhof@vanthouteveenbouwmaterialen.nl,E00194
+ERR-0085,invalid_email,crm,CRM-01491,sales_contact_email,casper.hermansvertoorensanitair.nl,casper.hermans@vertoorensanitair.nl,E01240
+ERR-0086,invalid_email,crm,CRM-01557,sales_contact_email,isabel.dircken@smitbouwstoffen.nl.,isabel.dircken@smitbouwstoffen.nl,E01712
+ERR-0087,invalid_email,crm,CRM-01570,sales_contact_email,maria.wautersyilmazelektro.be,maria.wauters@yilmazelektro.be,E00141
+ERR-0088,invalid_email,crm,CRM-01597,sales_contact_email,tessa.miltenburg@lamottebouwstoffen.nl.,tessa.miltenburg@lamottebouwstoffen.nl,E00298
+ERR-0089,invalid_email,crm,CRM-01653,sales_contact_email,erik.verstraete@michielsbouwcentrum.be.,erik.verstraete@michielsbouwcentrum.be,E00231
+ERR-0090,invalid_email,crm,CRM-01669,sales_contact_email,ekrem.noack @striebitzbaustoffe.de,ekrem.noack@striebitzbaustoffe.de,E00307
+ERR-0091,invalid_email,crm,CRM-01699,sales_contact_email,fabienne.kramer@vandeveldenoostveen,fabienne.kramer@vandeveldenoostveen.nl,E00909
+ERR-0092,invalid_email,crm,CRM-01862,sales_contact_email,mees.vantours@devriesuphuis,mees.vantours@devriesuphuis.nl,E00513
+ERR-0093,invalid_postcode,crm,CRM-00016,postcode,9795,97953,E00458
+ERR-0094,invalid_postcode,crm,CRM-00203,postcode,23545,2354,E01710
+ERR-0095,invalid_postcode,crm,CRM-00228,postcode,6505,65058,E00791
+ERR-0096,invalid_postcode,crm,CRM-00236,postcode,9037,9037 SG,E00134
+ERR-0097,invalid_postcode,crm,CRM-00243,postcode,5228 X,5228 XW,E00885
+ERR-0098,invalid_postcode,crm,CRM-00460,postcode,2259rt,2259 RT,E01586
+ERR-0099,invalid_postcode,crm,CRM-00490,postcode,25449,2544,E00294
+ERR-0100,invalid_postcode,crm,CRM-00526,postcode,9007,90073,E00095
+ERR-0101,invalid_postcode,crm,CRM-00652,postcode,5475,5475 RS,E01565
+ERR-0102,invalid_postcode,crm,CRM-00792,postcode,1856,18567,E01388
+ERR-0103,invalid_postcode,crm,CRM-00813,postcode,8171,8171 RW,E01407
+ERR-0104,invalid_postcode,crm,CRM-00887,postcode,1845,18450,E00925
+ERR-0105,invalid_postcode,crm,CRM-00898,postcode,2296gr,2296 GR,E01874
+ERR-0106,invalid_postcode,crm,CRM-00899,postcode,3193,03193,E01438
+ERR-0107,invalid_postcode,crm,CRM-00905,postcode,1910,19107,E00841
+ERR-0108,invalid_postcode,crm,CRM-01140,postcode,8501pz,8501 PZ,E00834
+ERR-0109,invalid_postcode,crm,CRM-01242,postcode,9733mt,9733 MT,E00980
+ERR-0110,invalid_postcode,crm,CRM-01369,postcode,6314,63147,E01786
+ERR-0111,invalid_postcode,crm,CRM-01413,postcode,4804sk,4804 SK,E00054
+ERR-0112,invalid_postcode,crm,CRM-01420,postcode,35149,3514,E00374
+ERR-0113,invalid_postcode,crm,CRM-01444,postcode,4082,40827,E00306
+ERR-0114,invalid_postcode,crm,CRM-01556,postcode,4757,47574,E00390
+ERR-0115,invalid_postcode,crm,CRM-01589,postcode,4731,4731 DJ,E00362
+ERR-0116,invalid_postcode,crm,CRM-01610,postcode,1690,16909,E01504
+ERR-0117,invalid_postcode,crm,CRM-01664,postcode,6273tj,6273 TJ,E01382
+ERR-0118,invalid_postcode,crm,CRM-01673,postcode,2443,24438,E00930
+ERR-0119,invalid_postcode,crm,CRM-01697,postcode,7154,7154 ZV,E00510
+ERR-0120,invalid_postcode,crm,CRM-01788,postcode,3986ec,3986 EC,E01509
+ERR-0121,invalid_postcode,crm,CRM-01802,postcode,7260tx,7260 TX,E00572
+ERR-0122,invalid_postcode,crm,CRM-01836,postcode,7974pw,7974 PW,E00483
+ERR-0123,invalid_vat_number,billing,BIL-00050,vat_number,101080693B63,NL101080693B63,E00613
+ERR-0124,invalid_vat_number,billing,BIL-00056,vat_number,DE29196828,DE291968281,E00647
+ERR-0125,invalid_vat_number,billing,BIL-00097,vat_number,131734701,DE131734701,E00594
+ERR-0126,invalid_vat_number,billing,BIL-00103,vat_number,NL458932723B395,NL458932723B39,E00547
+ERR-0127,invalid_vat_number,billing,BIL-00141,vat_number,NL610433183B9,NL610433183B90,E01307
+ERR-0128,invalid_vat_number,billing,BIL-00213,vat_number,BE06232796347,BE0623279634,E00819
+ERR-0129,invalid_vat_number,billing,BIL-00218,vat_number,NL632398698B223,NL632398698B22,E00222
+ERR-0130,invalid_vat_number,billing,BIL-00260,vat_number,NL843082157,NL843082157B56,E01343
+ERR-0131,invalid_vat_number,billing,BIL-00276,vat_number,DE3939650399,DE393965039,E00489
+ERR-0132,invalid_vat_number,billing,BIL-00351,vat_number,NL717544034B062,NL717544034B06,E01210
+ERR-0133,invalid_vat_number,billing,BIL-00370,vat_number,NL879761120B251,NL879761120B25,E00434
+ERR-0134,invalid_vat_number,billing,BIL-00421,vat_number,0862782374,BE0862782374,E00229
+ERR-0135,invalid_vat_number,billing,BIL-00443,vat_number,DE8472588237,DE847258823,E00924
+ERR-0136,invalid_vat_number,billing,BIL-00494,vat_number,NL340724985B186,NL340724985B18,E00718
+ERR-0137,invalid_vat_number,billing,BIL-00495,vat_number,NL783616973B443,NL783616973B44,E00934
+ERR-0138,invalid_vat_number,billing,BIL-00627,vat_number,DE4394515564,DE439451556,E00077
+ERR-0139,invalid_vat_number,billing,BIL-00700,vat_number,907865473B92,NL907865473B92,E00481
+ERR-0140,invalid_vat_number,billing,BIL-00755,vat_number,DE9524426740,DE952442674,E00087
+ERR-0141,invalid_vat_number,billing,BIL-00771,vat_number,BE01202516104,BE0120251610,E01264
+ERR-0142,invalid_vat_number,billing,BIL-00819,vat_number,NL567954159B8,NL567954159B87,E00620
+ERR-0143,invalid_vat_number,billing,BIL-00851,vat_number,BE03249016501,BE0324901650,E00821
+ERR-0144,invalid_vat_number,billing,BIL-01050,vat_number,NL945534945B818,NL945534945B81,E00932
+ERR-0145,invalid_vat_number,billing,BIL-01158,vat_number,BE05784130785,BE0578413078,E00237
+ERR-0146,invalid_vat_number,billing,BIL-01172,vat_number,NL604834590B9,NL604834590B91,E00370
+ERR-0147,invalid_vat_number,billing,BIL-01199,vat_number,NL761052590B4,NL761052590B48,E00639
+ERR-0148,invalid_vat_number,billing,BIL-01203,vat_number,NL932858219B939,NL932858219B93,E01212
+ERR-0149,invalid_vat_number,billing,BIL-01290,vat_number,BE02062733805,BE0206273380,E00270
+ERR-0150,invalid_vat_number,billing,BIL-01443,vat_number,DE63468822,DE634688227,E00793
+ERR-0151,invalid_vat_number,billing,BIL-01461,vat_number,BE09366816536,BE0936681653,E01002
+ERR-0152,invalid_vat_number,billing,BIL-01473,vat_number,767698175B27,NL767698175B27,E00435
+ERR-0153,missing_billing_email,billing,BIL-00033,billing_contact_email,,administratie@persijnelektrogroothandel.nl,E01036
+ERR-0154,missing_billing_email,billing,BIL-00069,billing_contact_email,,administratie@vandermaathzonen.nl,E01080
+ERR-0155,missing_billing_email,billing,BIL-00258,billing_contact_email,,crediteuren@thoutelektro.nl,E00524
+ERR-0156,missing_billing_email,billing,BIL-00311,billing_contact_email,,administratie@roodesteijnelektrotechniek.nl,E01340
+ERR-0157,missing_billing_email,billing,BIL-00371,billing_contact_email,,buchhaltung@rohrdanzelektrogrohandel.de,E00657
+ERR-0158,missing_billing_email,billing,BIL-00390,billing_contact_email,,facturen@pauwelsbouwstoffen.nl,E00027
+ERR-0159,missing_billing_email,billing,BIL-00428,billing_contact_email,,crediteuren@vanloobouwstoffen.be,E00542
+ERR-0160,missing_billing_email,billing,BIL-00441,billing_contact_email,,rechnungswesen@pruschkestoll.de,E01420
+ERR-0161,missing_billing_email,billing,BIL-00536,billing_contact_email,,buchhaltung@benderbaustoffe.de,E01262
+ERR-0162,missing_billing_email,billing,BIL-00678,billing_contact_email,,rechnungswesen@mochlichensohne.de,E01198
+ERR-0163,missing_billing_email,billing,BIL-00752,billing_contact_email,,administratie@huijsinstallatietechniek.nl,E01064
+ERR-0164,missing_billing_email,billing,BIL-00814,billing_contact_email,,administratie@overdijkbouwcentrum.nl,E00430
+ERR-0165,missing_billing_email,billing,BIL-00852,billing_contact_email,,facturen@willemseninstallatietechniek.nl,E00503
+ERR-0166,missing_billing_email,billing,BIL-00914,billing_contact_email,,buchhaltung@rognersohne.de,E00550
+ERR-0167,missing_billing_email,billing,BIL-00980,billing_contact_email,,facturen@vanpraetelektrotechniek.be,E01100
+ERR-0168,missing_billing_email,billing,BIL-01280,billing_contact_email,,administratie@holthuiszonen.nl,E00349
+ERR-0169,missing_billing_email,billing,BIL-01285,billing_contact_email,,administratie@vantuijlelektrogroothandel.nl,E01383
+ERR-0170,missing_billing_email,billing,BIL-01330,billing_contact_email,,crediteuren@vangoerlebouwcentrum.nl,E00901
+ERR-0171,missing_billing_email,billing,BIL-01429,billing_contact_email,,administratie@vialbouwmaterialen.nl,E00427
+ERR-0172,missing_billing_email,billing,BIL-01431,billing_contact_email,,administratie@krabbetechniek.nl,E00747
+ERR-0173,missing_renewal_date,crm,CRM-00090,renewal_date,,25-05-2027,E01433
+ERR-0174,missing_renewal_date,crm,CRM-00218,renewal_date,,24-10-2027,E00794
+ERR-0175,missing_renewal_date,crm,CRM-00449,renewal_date,,26-12-2027,E01155
+ERR-0176,missing_renewal_date,crm,CRM-00685,renewal_date,,28-05-2027,E01096
+ERR-0177,missing_renewal_date,crm,CRM-00710,renewal_date,,01-03-2027,E01377
+ERR-0178,missing_renewal_date,crm,CRM-00716,renewal_date,,12-10-2027,E00674
+ERR-0179,missing_renewal_date,crm,CRM-00835,renewal_date,,24-06-2027,E00547
+ERR-0180,missing_renewal_date,crm,CRM-00875,renewal_date,,08-02-2027,E00475
+ERR-0181,missing_renewal_date,crm,CRM-00915,renewal_date,,21-01-2027,E00931
+ERR-0182,missing_renewal_date,crm,CRM-00946,renewal_date,,14-08-2027,E00659
+ERR-0183,missing_renewal_date,crm,CRM-01055,renewal_date,,19-05-2027,E00505
+ERR-0184,missing_renewal_date,crm,CRM-01220,renewal_date,,30-05-2027,E01259
+ERR-0185,missing_renewal_date,crm,CRM-01229,renewal_date,,23-02-2027,E00675
+ERR-0186,missing_renewal_date,crm,CRM-01350,renewal_date,,16-02-2027,E00822
+ERR-0187,missing_renewal_date,crm,CRM-01479,renewal_date,,10-12-2027,E00063
+ERR-0188,missing_renewal_date,crm,CRM-01536,renewal_date,,14-01-2027,E00109
+ERR-0189,missing_renewal_date,crm,CRM-01648,renewal_date,,02-06-2027,E01404
+ERR-0190,missing_renewal_date,crm,CRM-01739,renewal_date,,29-10-2027,E00013
+ERR-0191,missing_renewal_date,crm,CRM-01794,renewal_date,,15-07-2027,E00084
+ERR-0192,missing_renewal_date,crm,CRM-01900,renewal_date,,17-02-2027,E01305
+ERR-0193,missing_vat_number,crm,CRM-00012,vat_number,,NL871223779B73,E01657
+ERR-0194,missing_vat_number,crm,CRM-00077,vat_number,,NL549641925B07,E01747
+ERR-0195,missing_vat_number,crm,CRM-00078,vat_number,,NL881102503B72,E01605
+ERR-0196,missing_vat_number,crm,CRM-00340,vat_number,,NL422511777B66,E01925
+ERR-0197,missing_vat_number,crm,CRM-00465,vat_number,,DE698299152,E01777
+ERR-0198,missing_vat_number,crm,CRM-00481,vat_number,,DE283991931,E01908
+ERR-0199,missing_vat_number,crm,CRM-00495,vat_number,,DE827552620,E01676
+ERR-0200,missing_vat_number,crm,CRM-00906,vat_number,,NL354371107B67,E01779
+ERR-0201,missing_vat_number,crm,CRM-00933,vat_number,,BE0814664661,E01803
+ERR-0202,missing_vat_number,crm,CRM-00957,vat_number,,DE109570651,E01511
+ERR-0203,missing_vat_number,crm,CRM-00963,vat_number,,NL861482442B21,E01915
+ERR-0204,missing_vat_number,crm,CRM-00966,vat_number,,NL898389397B60,E01783
+ERR-0205,missing_vat_number,crm,CRM-01182,vat_number,,NL252340867B76,E01544
+ERR-0206,missing_vat_number,crm,CRM-01314,vat_number,,BE0384216486,E01896
+ERR-0207,missing_vat_number,crm,CRM-01409,vat_number,,NL605070797B58,E01630
+ERR-0208,missing_vat_number,crm,CRM-01412,vat_number,,NL244569000B17,E01833
+ERR-0209,missing_vat_number,crm,CRM-01431,vat_number,,NL156173148B85,E01895
+ERR-0210,missing_vat_number,crm,CRM-01468,vat_number,,DE342514695,E01798
+ERR-0211,missing_vat_number,crm,CRM-01532,vat_number,,BE0881571976,E01611
+ERR-0212,missing_vat_number,crm,CRM-01584,vat_number,,NL943420302B23,E01536
+ERR-0213,name_variant_across_sources,billing,BIL-00006,legal_name,VERSTRAETE & ZONEN NV,Verstraete & Zonen NV,E01207
+ERR-0214,name_variant_across_sources,billing,BIL-00008,legal_name,Jacobs & Decoster NV - Maasmechelen,Jacobs & Decoster NV,E00886
+ERR-0215,name_variant_across_sources,billing,BIL-00035,legal_name,Van den Brink andel B.V.,Van den Brink Handel B.V.,E01189
+ERR-0216,name_variant_across_sources,billing,BIL-00041,legal_name,VanDam Bouwcentrum BV,Van Dam Bouwcentrum B.V.,E00016
+ERR-0217,name_variant_across_sources,billing,BIL-00042,legal_name,Van Ginkel Technie kV.O.F.,Van Ginkel Techniek V.O.F.,E01027
+ERR-0218,name_variant_across_sources,billing,BIL-00068,legal_name,Bauwens Bouwcentrum,Bauwens Bouwcentrum BV,E00768
+ERR-0219,name_variant_across_sources,billing,BIL-00078,legal_name,Ackermann & Jähn KG - Pößneck,Ackermann & Jähn KG,E00103
+ERR-0220,name_variant_across_sources,billing,BIL-00085,legal_name,Rörricht & Gude,Rörricht & Gude KG,E00484
+ERR-0221,name_variant_across_sources,billing,BIL-00094,legal_name,Seifert & Söhne GmbH & Co.,Seifert & Söhne GmbH & Co. KG,E00974
+ERR-0222,name_variant_across_sources,billing,BIL-00101,legal_name,Van Hamaland & Zonen V.O.F. - Oppenhuizen,Van Hamaland & Zonen V.O.F.,E00156
+ERR-0223,name_variant_across_sources,billing,BIL-00121,legal_name,ROUSSELET SANITAIR B.V.,Rousselet Sanitair B.V.,E00669
+ERR-0224,name_variant_across_sources,billing,BIL-00150,legal_name,Wagenknecht Baustoffe mbH - Hildburghausen,Wagenknecht Baustoffe GmbH,E01416
+ERR-0225,name_variant_across_sources,billing,BIL-00164,legal_name,Margraf Baustoffe,Margraf Baustoffe GmbH,E01123
+ERR-0226,name_variant_across_sources,billing,BIL-00173,legal_name,Demanet Fournitues Techniques SRL,Demanet Fournitures Techniques SRL,E00233
+ERR-0227,name_variant_across_sources,billing,BIL-00179,legal_name,Van Wallaert Elektro,Van Wallaert Elektro B.V.,E00787
+ERR-0228,name_variant_across_sources,billing,BIL-00181,legal_name,Descamps et Fils RSL,Descamps & Fils SRL,E00276
+ERR-0229,name_variant_across_sources,billing,BIL-00190,legal_name,De Smi tElektro B.V.,De Smit Elektro B.V.,E01132
+ERR-0230,name_variant_across_sources,billing,BIL-00194,legal_name,Bohnbach Technik,Bohnbach Technik GmbH,E01271
+ERR-0231,name_variant_across_sources,billing,BIL-00228,legal_name,Kramer Werkzeughandel KG - Parsberg,Kramer Werkzeughandel KG,E00192
+ERR-0232,name_variant_across_sources,billing,BIL-00239,legal_name,Briere Instal. B.V.,Briere Installatietechniek B.V.,E00172
+ERR-0233,name_variant_across_sources,billing,BIL-00243,legal_name,Brichard Fournitures Techniques SRL - Arlon,Brichard Fournitures Techniques SRL,E01170
+ERR-0234,name_variant_across_sources,billing,BIL-00268,legal_name,Janssen Handel NV - Ostiches,Janssen Handel NV,E00345
+ERR-0235,name_variant_across_sources,billing,BIL-00275,legal_name,VAN HERSTAL TECHNISCHE HANDEL B.V. - Middenbeemster,Van Herstal Technische Handel B.V.,E00619
+ERR-0236,name_variant_across_sources,billing,BIL-00284,legal_name,Goossens Sanitair BV - Hacquegnies,Goossens Sanitair BV,E00864
+ERR-0237,name_variant_across_sources,billing,BIL-00286,legal_name,Henrard Matériaux de Construction RL,Henrard Matériaux de Construction SRL,E01369
+ERR-0238,name_variant_across_sources,billing,BIL-00299,legal_name,Janssens Elektro BV - Sars-la-Buissière,Janssens Elektro BV,E01360
+ERR-0239,name_variant_across_sources,billing,BIL-00308,legal_name,KLEMM & SÖHNE GMBH,Klemm & Söhne GmbH,E01411
+ERR-0240,name_variant_across_sources,billing,BIL-00314,legal_name,Hondeveld Elektr oV.O.F.,Hondeveld Elektro V.O.F.,E01309
+ERR-0241,name_variant_across_sources,billing,BIL-00321,legal_name,MEIJER EN VAN PRAAGH B.V.,Meijer & Van Praagh B.V.,E00762
+ERR-0242,name_variant_across_sources,billing,BIL-00327,legal_name,MIELCAREK ELEKTRO GMBH UND CO. KG,Mielcarek Elektro GmbH & Co. KG,E00024
+ERR-0243,name_variant_across_sources,billing,BIL-00333,legal_name,HOLSTEN HANDEL GMBH,Holsten Handel GmbH,E00091
+ERR-0244,name_variant_across_sources,billing,BIL-00343,legal_name,De Lange Industrie V.O.F. - Oostwold,De Lange Industrie V.O.F.,E01393
+ERR-0245,name_variant_across_sources,billing,BIL-00362,legal_name,Stroh & Adolph GmbH - Starnberg,Stroh & Adolph GmbH,E00111
+ERR-0246,name_variant_across_sources,billing,BIL-00391,legal_name,Löchel Gruppe GmbH - Pinneberg,Löchel Gruppe GmbH,E01241
+ERR-0247,name_variant_across_sources,billing,BIL-00401,legal_name,NOACK & SÖHNE GMBH,Noack & Söhne GmbH,E00839
+ERR-0248,name_variant_across_sources,billing,BIL-00408,legal_name,Constant Materiaux de Construction,Constant Matériaux de Construction SRL,E00200
+ERR-0249,name_variant_across_sources,billing,BIL-00435,legal_name,Rohleder Baustoffe GmbH - Holzminden,Rohleder Baustoffe GmbH,E00245
+ERR-0250,name_variant_across_sources,billing,BIL-00449,legal_name,Gerlach Baustoffhandel GmbH & Co.,Gerlach Baustoffhandel GmbH & Co. KG,E00706
+ERR-0251,name_variant_across_sources,billing,BIL-00461,legal_name,Eigenwillig Baucenter KG - Lemgo,Eigenwillig Baucenter KG,E00072
+ERR-0252,name_variant_across_sources,billing,BIL-00464,legal_name,Cosan Bouwcentrum V.O.F.,Cosman Bouwcentrum V.O.F.,E01406
+ERR-0253,name_variant_across_sources,billing,BIL-00470,legal_name,Westerbrg Bouwstoffen B.V.,Westerburg Bouwstoffen B.V.,E01038
+ERR-0254,name_variant_across_sources,billing,BIL-00502,legal_name,VAN WICKERODE ELEKTRO B.V.,Van Wickerode Elektro B.V.,E01250
+ERR-0255,name_variant_across_sources,billing,BIL-00506,legal_name,Brouwer Industrie,Brouwer Industrie B.V.,E00439
+ERR-0256,name_variant_across_sources,billing,BIL-00532,legal_name,Ehlert Elektrogroothanel B.V.,Ehlert Elektrogroothandel B.V.,E00346
+ERR-0257,name_variant_across_sources,billing,BIL-00534,legal_name,Deleu Verwarming,Deleu Verwarming BV,E01134
+ERR-0258,name_variant_across_sources,billing,BIL-00552,legal_name,Roukes & Galijn,Roukes & Galijn B.V.,E00621
+ERR-0259,name_variant_across_sources,billing,BIL-00556,legal_name,De Haas & Le Floch VOF,De Haas & Le Floch V.O.F.,E01178
+ERR-0260,name_variant_across_sources,billing,BIL-00566,legal_name,Van Drenthe Verwarming VOF,Van Drenthe Verwarming V.O.F.,E00196
+ERR-0261,name_variant_across_sources,billing,BIL-00577,legal_name,Kremer Instal. B.V.,Kremer Installatietechniek B.V.,E00201
+ERR-0262,name_variant_across_sources,billing,BIL-00606,legal_name,Beourgeois & Zone nB.V.,Beourgeois & Zonen B.V.,E01050
+ERR-0263,name_variant_across_sources,billing,BIL-00610,legal_name,Vanden Eynde & Zonen NV,Van den Eynde & Zonen NV,E00469
+ERR-0264,name_variant_across_sources,billing,BIL-00625,legal_name,Colen Bouwmaterialen,Coolen Bouwmaterialen V.O.F.,E00198
+ERR-0265,name_variant_across_sources,billing,BIL-00632,legal_name,DENYS & WAUTERS BV,Denys & Wauters BV,E00158
+ERR-0266,name_variant_across_sources,billing,BIL-00648,legal_name,Albers & Soehne GmbH & Co. KG,Albers & Söhne GmbH & Co. KG,E01239
+ERR-0267,name_variant_across_sources,billing,BIL-00652,legal_name,Müller und Kraus GmbH,Müller & Kraus GmbH,E01031
+ERR-0268,name_variant_across_sources,billing,BIL-00654,legal_name,Lnkle & Janssens V.O.F.,Lankle & Janssens V.O.F.,E00249
+ERR-0269,name_variant_across_sources,billing,BIL-00658,legal_name,Koster eVrwarming B.V.,Koster Verwarming B.V.,E00559
+ERR-0270,name_variant_across_sources,billing,BIL-00667,legal_name,VAN NOROT ELEKTRO B.V.,Van Noort Elektro B.V.,E00039
+ERR-0271,name_variant_across_sources,billing,BIL-00692,legal_name,Wauters & oZnen BV,Wauters & Zonen BV,E00079
+ERR-0272,name_variant_across_sources,billing,BIL-00697,legal_name,De Backer Bouwmaterialen,De Backer Bouwmaterialen NV,E01251
+ERR-0273,name_variant_across_sources,billing,BIL-00705,legal_name,Mens Elektrotechniek V.O.F. - Herpen,Mens Elektrotechniek V.O.F.,E01115
+ERR-0274,name_variant_across_sources,billing,BIL-00718,legal_name,Bierstraten & De Gratie,Bierstraten & De Gratie B.V.,E00985
+ERR-0275,name_variant_across_sources,billing,BIL-00737,legal_name,Hak Installatietechniek VOF,Hak Installatietechniek V.O.F.,E00748
+ERR-0276,name_variant_across_sources,billing,BIL-00743,legal_name,Cremer Sanitaire SA - Liège,Cremer Sanitaire SA,E00411
+ERR-0277,name_variant_across_sources,billing,BIL-00761,legal_name,Bluemel Baustoffe GmbH,Blümel Baustoffe GmbH,E00325
+ERR-0278,name_variant_across_sources,billing,BIL-00764,legal_name,Van Popel Techniek,Van Poppel Techniek B.V.,E00401
+ERR-0279,name_variant_across_sources,billing,BIL-00765,legal_name,BAUER BAUSTOFFE GMBH,Bauer Baustoffe GmbH,E00390
+ERR-0280,name_variant_across_sources,billing,BIL-00792,legal_name,Michel Fournitures Technique SA,Michel Fournitures Techniques SA,E00015
+ERR-0281,name_variant_across_sources,billing,BIL-00796,legal_name,Kolster Instal. BV,Kolster Installatietechniek B.V.,E00126
+ERR-0282,name_variant_across_sources,billing,BIL-00797,legal_name,Heerschop Sanitair BV,Heerschop Sanitair B.V.,E01256
+ERR-0283,name_variant_across_sources,billing,BIL-00807,legal_name,ZAENKER SANITAER KG,Zänker Sanitär KG,E00869
+ERR-0284,name_variant_across_sources,billing,BIL-00826,legal_name,Hazenveld Industrie VOF,Hazenveld Industrie V.O.F.,E01276
+ERR-0285,name_variant_across_sources,billing,BIL-00836,legal_name,Schulz Baustoffe,Schulz Baustoffe GmbH,E01161
+ERR-0286,name_variant_across_sources,billing,BIL-00869,legal_name,Tulstek Technik KG,Tlustek Technik KG,E00450
+ERR-0287,name_variant_across_sources,billing,BIL-00886,legal_name,Süßbeier & Söhne GmbH,Süßebier & Söhne GmbH,E00255
+ERR-0288,name_variant_across_sources,billing,BIL-00925,legal_name,DUPONT INSTALLATIETECHNIEK NV,Dupont Installatietechniek NV,E00654
+ERR-0289,name_variant_across_sources,billing,BIL-00928,legal_name,Gehringer Industriebedarf,Gehringer Industriebedarf KG,E00842
+ERR-0290,name_variant_across_sources,billing,BIL-00944,legal_name,Versluijs en Zonen B.V.,Versluijs & Zonen B.V.,E00940
+ERR-0291,name_variant_across_sources,billing,BIL-00963,legal_name,Zuidweg & Van Northeim V.O.F. - Mariaparochie,Zuidweg & Van Northeim V.O.F.,E00146
+ERR-0292,name_variant_across_sources,billing,BIL-00968,legal_name,DeSutter Bouwstoffen,De Sutter Bouwstoffen BV,E00808
+ERR-0293,name_variant_across_sources,billing,BIL-00989,legal_name,Bäer Technik,Bärer Technik KG,E00145
+ERR-0294,name_variant_across_sources,billing,BIL-01023,legal_name,LIÉGEOIS ÉLECTRICITÉ SRL,Liégeois Électricité SRL,E00384
+ERR-0295,name_variant_across_sources,billing,BIL-01034,legal_name,VanHagen Instal. V.O.F.,Van Hagen Installatietechniek V.O.F.,E01094
+ERR-0296,name_variant_across_sources,billing,BIL-01036,legal_name,Van Rijthovne & Zonen B.V.,Van Rijthoven & Zonen B.V.,E00900
+ERR-0297,name_variant_across_sources,billing,BIL-01055,legal_name,Olykan Sanitir V.O.F.,Olykan Sanitair V.O.F.,E00918
+ERR-0298,name_variant_across_sources,billing,BIL-01065,legal_name,SEGERS BOUWMATERIALEN NV,Segers Bouwmaterialen NV,E00177
+ERR-0299,name_variant_across_sources,billing,BIL-01080,legal_name,Janssen Boucwentrum NV - Wortel,Janssen Bouwcentrum NV,E00588
+ERR-0300,name_variant_across_sources,billing,BIL-01084,legal_name,Boeser en Mahieu B.V.,Boeser & Mahieu B.V.,E00536
+ERR-0301,name_variant_across_sources,billing,BIL-01086,legal_name,Bollen & Pollet,Bollen & Pollet BV,E00999
+ERR-0302,name_variant_across_sources,billing,BIL-01094,legal_name,De Cock Handel NV - Ophain-Bois-Seigneur-Isaac,De Cock Handel NV,E00464
+ERR-0303,name_variant_across_sources,billing,BIL-01114,legal_name,Van Ham & Tins BV,Van Ham & Tins B.V.,E01382
+ERR-0304,name_variant_across_sources,billing,BIL-01115,legal_name,Lehmann Industriebedarf,Lehmann Industriebedarf KG,E00089
+ERR-0305,name_variant_across_sources,billing,BIL-01128,legal_name,Heß & Sauer,Heß & Sauer GmbH,E01012
+ERR-0306,name_variant_across_sources,billing,BIL-01163,legal_name,Stoffeslz Elektrotechniek B.V. - Wjelsryp,Stoffelsz Elektrotechniek B.V.,E00155
+ERR-0307,name_variant_across_sources,billing,BIL-01164,legal_name,SCHÄFER BAUCENTER GMBH & CO. KG - FREITAL,Schäfer Baucenter GmbH & Co. KG,E01211
+ERR-0308,name_variant_across_sources,billing,BIL-01183,legal_name,JONKMAN ELEKTROGROOTHANDEL B.V.,Jonkman Elektrogroothandel B.V.,E00310
+ERR-0309,name_variant_across_sources,billing,BIL-01210,legal_name,Overeem Sanitair VOF,Overeem Sanitair V.O.F.,E00431
+ERR-0310,name_variant_across_sources,billing,BIL-01213,legal_name,Van der Laan Sanitair B..V - Barendrecht,Van der Laan Sanitair B.V.,E00742
+ERR-0311,name_variant_across_sources,billing,BIL-01222,legal_name,Verbeeck & Gervais BV,Verbeeck & Gervais B.V.,E01164
+ERR-0312,name_variant_across_sources,billing,BIL-01237,legal_name,Junken Baucenter GmbH - Pinneberg,Junken Baucenter GmbH,E00785
+ERR-0313,name_variant_across_sources,billing,BIL-01249,legal_name,Bogaert Installtaietechniek BV,Bogaert Installatietechniek BV,E00778
+ERR-0314,name_variant_across_sources,billing,BIL-01250,legal_name,Brizee Handel B.V. - Zorgvlied,Brizee Handel B.V.,E00284
+ERR-0315,name_variant_across_sources,billing,BIL-01262,legal_name,Room Buwmaterialen B.V.,Room Bouwmaterialen B.V.,E00904
+ERR-0316,name_variant_across_sources,billing,BIL-01277,legal_name,Killer Baucenter GmbH und Co. KG,Killer Baucenter GmbH & Co. KG,E00907
+ERR-0317,name_variant_across_sources,billing,BIL-01281,legal_name,Linscohten & Zonen,Linschoten & Zonen V.O.F.,E00732
+ERR-0318,name_variant_across_sources,billing,BIL-01282,legal_name,Gotthard Bausto.,Gotthard Baustoffhandel GmbH,E01205
+ERR-0319,name_variant_across_sources,billing,BIL-01296,legal_name,PEETERS VERWARMING BV,Peeters Verwarming BV,E00163
+ERR-0320,name_variant_across_sources,billing,BIL-01305,legal_name,Van der Laar & Weylant BV,Van der Laar & Weylant B.V.,E01347
+ERR-0321,name_variant_across_sources,billing,BIL-01334,legal_name,Jekel Eelktrotechniek B.V.,Jekel Elektrotechniek B.V.,E00225
+ERR-0322,name_variant_across_sources,billing,BIL-01337,legal_name,Schoofs & Zonen BV - Porcheresse,Schoofs & Zonen BV,E00356
+ERR-0323,name_variant_across_sources,billing,BIL-01341,legal_name,KOLEN & ZONEN V.O.F.,Kolen & Zonen V.O.F.,E01344
+ERR-0324,name_variant_across_sources,billing,BIL-01349,legal_name,VAN HERSTAL & ZONEN BV,Van Herstal & Zonen B.V.,E01169
+ERR-0325,name_variant_across_sources,billing,BIL-01377,legal_name,Mitschke Industriebedarf KG - Delitzsch,Mitschke Industriebedarf KG,E00117
+ERR-0326,name_variant_across_sources,billing,BIL-01378,legal_name,PALMAN GROEP B.V.,Palman Groep B.V.,E00809
+ERR-0327,name_variant_across_sources,billing,BIL-01383,legal_name,Butte Bausto. GmbH,Butte Baustoffhandel GmbH,E00214
+ERR-0328,name_variant_across_sources,billing,BIL-01387,legal_name,VAN DAM BOUWMATERIALEN B.V.,Van Dam Bouwmaterialen B.V.,E00815
+ERR-0329,name_variant_across_sources,billing,BIL-01388,legal_name,Conradi Haustechni kGmbH & Co. KG,Conradi Haustechnik GmbH & Co. KG,E00295
+ERR-0330,name_variant_across_sources,billing,BIL-01404,legal_name,Demmendaal & Zonen V.O.F. - Gorredijk,Demmendaal & Zonen V.O.F.,E01237
+ERR-0331,name_variant_across_sources,billing,BIL-01409,legal_name,SCHÖNLAND & SÖHNE GMBH & CO. KG,Schönland & Söhne GmbH & Co. KG,E00323
+ERR-0332,name_variant_across_sources,billing,BIL-01472,legal_name,LAFFRAY & TIMMERMAN B.V.,Laffray & Timmerman B.V.,E00740
+ERR-0333,near_duplicate_in_crm,crm,CRM-00123,customer_name,Van Ginneke Technische Handel B.V. - Poortvliet,Van Ginneke Technische Handel B.V.,E01558
+ERR-0334,near_duplicate_in_crm,crm,CRM-00124,customer_name,Thiry et Fils SRL,Thiry & Fils SRL,E01106
+ERR-0335,near_duplicate_in_crm,crm,CRM-00146,customer_name,Elbertse en Van de Velden B.V.,Elbertse & Van de Velden B.V.,E00272
+ERR-0336,near_duplicate_in_crm,crm,CRM-00207,customer_name,Verhelst Bouwcentrum,Verhelst Bouwcentrum BV,E00676
+ERR-0337,near_duplicate_in_crm,crm,CRM-00298,customer_name,ROGGE HANDEL GMBH,Rogge Handel GmbH,E01166
+ERR-0338,near_duplicate_in_crm,crm,CRM-00368,customer_name,Bourguignon Gropue SRL,Bourguignon Groupe SRL,E00514
+ERR-0339,near_duplicate_in_crm,crm,CRM-00385,customer_name,TER WAARBEEK & ZONEN V.O.F.,Ter Waarbeek & Zonen V.O.F.,E00442
+ERR-0340,near_duplicate_in_crm,crm,CRM-00400,customer_name,Serra & Zonen VOF,Serra & Zonen V.O.F.,E01083
+ERR-0341,near_duplicate_in_crm,crm,CRM-00472,customer_name,BRUGGEMA INDUSTRIE B.V.,Bruggeman Industrie B.V.,E01235
+ERR-0342,near_duplicate_in_crm,crm,CRM-00474,customer_name,VOORTMAN TECHNIEK B.V.,Voortman Techniek B.V.,E01797
+ERR-0343,near_duplicate_in_crm,crm,CRM-00484,customer_name,Spruyt Technische Handel,Spruyt Technische Handel V.O.F.,E00408
+ERR-0344,near_duplicate_in_crm,crm,CRM-00530,customer_name,Janssens Industie BV,Janssens Industrie BV,E00405
+ERR-0345,near_duplicate_in_crm,crm,CRM-00546,customer_name,Hekker Bouwmaterialen,Hekker Bouwmaterialen B.V.,E01791
+ERR-0346,near_duplicate_in_crm,crm,CRM-00626,customer_name,Breugelmans Sanitair BV - Waasmunster,Breugelmans Sanitair BV,E00670
+ERR-0347,near_duplicate_in_crm,crm,CRM-00726,customer_name,FRANÇOISE GROEP B.V.,Françoise Groep B.V.,E01141
+ERR-0348,near_duplicate_in_crm,crm,CRM-00777,customer_name,Roose Bouwcentrum,Roose Bouwcentrum V.O.F.,E00878
+ERR-0349,near_duplicate_in_crm,crm,CRM-00790,customer_name,Stolze Handel GmbH & Co. G,Stolze Handel GmbH & Co. KG,E01741
+ERR-0350,near_duplicate_in_crm,crm,CRM-00816,customer_name,Wolters & Prins BV,Wolters & Prins B.V.,E00570
+ERR-0351,near_duplicate_in_crm,crm,CRM-00834,customer_name,VAN LEEUWEN VERWARMING V.O.F.,Van Leeuwen Verwarming V.O.F.,E00304
+ERR-0352,near_duplicate_in_crm,crm,CRM-00860,customer_name,Horemans Bouwmaterialen NV - Denderhoutem,Horemans Bouwmaterialen NV,E00845
+ERR-0353,near_duplicate_in_crm,crm,CRM-00883,customer_name,Jurrijens & Galenzone V.O.F. - Tzum,Jurrijens & Galenzone V.O.F.,E00767
+ERR-0354,near_duplicate_in_crm,crm,CRM-00965,customer_name,Segers Bouwcentrum NV - Dilsen-Stokkem,Segers Bouwcentrum NV,E01016
+ERR-0355,near_duplicate_in_crm,crm,CRM-01096,customer_name,Löchel Gruppe Gmb H- Pinneberg,Löchel Gruppe GmbH,E01241
+ERR-0356,near_duplicate_in_crm,crm,CRM-01192,customer_name,CREMER SANITAIRE SA - LIÈGE,Cremer Sanitaire SA,E00411
+ERR-0357,near_duplicate_in_crm,crm,CRM-01236,customer_name,Merkx Bouwmaterialen BV,Merkx Bouwmaterialen B.V.,E00934
+ERR-0358,near_duplicate_in_crm,crm,CRM-01386,customer_name,SEGHERS ELEKTROGROOTHANDEL BV - Helen-Bos,Seghers Elektrogroothandel BV,E00347
+ERR-0359,near_duplicate_in_crm,crm,CRM-01426,customer_name,Brasseur & Beguin,Brasseur & Beguin SRL,E00320
+ERR-0360,near_duplicate_in_crm,crm,CRM-01432,customer_name,Paul Grope SRL,Paul Groupe SRL,E01652
+ERR-0361,near_duplicate_in_crm,crm,CRM-01443,customer_name,DE GROTE & KUIPERS V.O.F.,De Grote & Kuipers V.O.F.,E00082
+ERR-0362,near_duplicate_in_crm,crm,CRM-01455,customer_name,Courtier Technische Handel,Courtier Technische Handel B.V.,E01218
+ERR-0363,near_duplicate_in_crm,crm,CRM-01518,customer_name,DREWES WERKZEUGHANDEL GMBH,Drewes Werkzeughandel GmbH,E01060
+ERR-0364,near_duplicate_in_crm,crm,CRM-01621,customer_name,Everts Techniek,Everts Techniek B.V.,E01501
+ERR-0365,near_duplicate_in_crm,crm,CRM-01666,customer_name,KLEIN & ZONEN,Klein & Zonen B.V.,E00058
+ERR-0366,near_duplicate_in_crm,crm,CRM-01675,customer_name,Maretl Verwarming B.V.,Martel Verwarming B.V.,E01092
+ERR-0367,near_duplicate_in_crm,crm,CRM-01684,customer_name,Zaal Bouwma. BV,Zaal Bouwmaterialen B.V.,E00964
+ERR-0368,near_duplicate_in_crm,crm,CRM-01823,customer_name,Oostveen Bouwmaterialen,Oostveen Bouwmaterialen B.V.,E00873
+ERR-0369,near_duplicate_in_crm,crm,CRM-01856,customer_name,Oosterhek & Zonen BV,Oosterhek & Zonen B.V.,E01073
+ERR-0370,near_duplicate_in_crm,crm,CRM-01920,customer_name,De Smit Elektro B.V. - Nieuwegein,De Smit Elektro B.V.,E01132
+ERR-0371,near_duplicate_in_crm,crm,CRM-01949,customer_name,Woudenberg Bouwstoffen B.V. - Ysbrechtum,Woudenberg Bouwstoffen B.V.,E00393
+ERR-0372,near_duplicate_in_crm,crm,CRM-01997,customer_name,Post Bouwcentrum B.V. - Rutten,Post Bouwcentrum B.V.,E01900
+ERR-0373,sector_free_text,crm,CRM-00009,sector,plumbing,Plumbing & heating,E01111
+ERR-0374,sector_free_text,crm,CRM-00031,sector,MRO supplies,Industrial supplies,E01394
+ERR-0375,sector_free_text,crm,CRM-00039,sector,bouwmaterialenhandel,Builders' merchant,E00807
+ERR-0376,sector_free_text,crm,CRM-00048,sector,Bouwhandel,Builders' merchant,E01780
+ERR-0377,sector_free_text,crm,CRM-00049,sector,elektro groothandel,Electrical wholesale,E01188
+ERR-0378,sector_free_text,crm,CRM-00059,sector,Sonstiges,Other,E01880
+ERR-0379,sector_free_text,crm,CRM-00073,sector,Elektro,Electrical wholesale,E01198
+ERR-0380,sector_free_text,crm,CRM-00079,sector,bouwmat.,Builders' merchant,E00866
+ERR-0381,sector_free_text,crm,CRM-00091,sector,Baustoff-Fachhandel,Builders' merchant,E00702
+ERR-0382,sector_free_text,crm,CRM-00107,sector,industrial,Industrial supplies,E01316
+ERR-0383,sector_free_text,crm,CRM-00116,sector,Technischer Handel,Industrial supplies,E01846
+ERR-0384,sector_free_text,crm,CRM-00130,sector,matériel électrique,Electrical wholesale,E00122
+ERR-0385,sector_free_text,crm,CRM-00131,sector,HVAC & plumbing,Plumbing & heating,E01650
+ERR-0386,sector_free_text,crm,CRM-00147,sector,Bouwhandel,Builders' merchant,E01223
+ERR-0387,sector_free_text,crm,CRM-00151,sector,Baustoffe,Builders' merchant,E01876
+ERR-0388,sector_free_text,crm,CRM-00158,sector,Elektra,Electrical wholesale,E00551
+ERR-0389,sector_free_text,crm,CRM-00202,sector,SHK-Großhandel,Plumbing & heating,E00199
+ERR-0390,sector_free_text,crm,CRM-00205,sector,Plumbing/heating,Plumbing & heating,E01295
+ERR-0391,sector_free_text,crm,CRM-00221,sector,Bouwhandel,Builders' merchant,E01225
+ERR-0392,sector_free_text,crm,CRM-00259,sector,Heizung/Sanitär,Plumbing & heating,E00763
+ERR-0393,sector_free_text,crm,CRM-00287,sector,bouwmaterialenhandel,Builders' merchant,E00959
+ERR-0394,sector_free_text,crm,CRM-00315,sector,Bouwhandel,Builders' merchant,E00042
+ERR-0395,sector_free_text,crm,CRM-00322,sector,SHK-Großhandel,Plumbing & heating,E00487
+ERR-0396,sector_free_text,crm,CRM-00326,sector,Baustoffe,Builders' merchant,E00072
+ERR-0397,sector_free_text,crm,CRM-00337,sector,Bouwhandel,Builders' merchant,E01423
+ERR-0398,sector_free_text,crm,CRM-00345,sector,bouwmat.,Builders' merchant,E01101
+ERR-0399,sector_free_text,crm,CRM-00348,sector,industriële benodigdheden,Industrial supplies,E00801
+ERR-0400,sector_free_text,crm,CRM-00357,sector,Baustoffhandel,Builders' merchant,E00379
+ERR-0401,sector_free_text,crm,CRM-00389,sector,Bouwhandel,Builders' merchant,E01352
+ERR-0402,sector_free_text,crm,CRM-00393,sector,Elektrotechniek,Electrical wholesale,E00828
+ERR-0403,sector_free_text,crm,CRM-00398,sector,Elektro,Electrical wholesale,E00827
+ERR-0404,sector_free_text,crm,CRM-00479,sector,bouwmat.,Builders' merchant,E00097
+ERR-0405,sector_free_text,crm,CRM-00480,sector,Diversen,Other,E01099
+ERR-0406,sector_free_text,crm,CRM-00499,sector,Sanitair,Plumbing & heating,E00406
+ERR-0407,sector_free_text,crm,CRM-00500,sector,Bouwhandel,Builders' merchant,E00329
+ERR-0408,sector_free_text,crm,CRM-00508,sector,Bouwhandel,Builders' merchant,E01735
+ERR-0409,sector_free_text,crm,CRM-00555,sector,Elektrotechniek,Electrical wholesale,E01391
+ERR-0410,sector_free_text,crm,CRM-00569,sector,Elektrotechniek,Electrical wholesale,E00812
+ERR-0411,sector_free_text,crm,CRM-00585,sector,elektro groothandel,Electrical wholesale,E00243
+ERR-0412,sector_free_text,crm,CRM-00605,sector,sanitair & verwarming,Plumbing & heating,E00421
+ERR-0413,sector_free_text,crm,CRM-00611,sector,Diversen,Other,E00424
+ERR-0414,sector_free_text,crm,CRM-00622,sector,Elektro,Electrical wholesale,E01378
+ERR-0415,sector_free_text,crm,CRM-00633,sector,Technischer Handel,Industrial supplies,E00626
+ERR-0416,sector_free_text,crm,CRM-00637,sector,Diversen,Other,E01632
+ERR-0417,sector_free_text,crm,CRM-00667,sector,Elektrotechniek,Electrical wholesale,E00059
+ERR-0418,sector_free_text,crm,CRM-00678,sector,Plumbing/heating,Plumbing & heating,E01066
+ERR-0419,sector_free_text,crm,CRM-00694,sector,elektro groothandel,Electrical wholesale,E00185
+ERR-0420,sector_free_text,crm,CRM-00705,sector,Sanitair,Plumbing & heating,E00642
+ERR-0421,sector_free_text,crm,CRM-00718,sector,elektro groothandel,Electrical wholesale,E00225
+ERR-0422,sector_free_text,crm,CRM-00738,sector,Technische groothandel,Industrial supplies,E01284
+ERR-0423,sector_free_text,crm,CRM-00750,sector,industrial,Industrial supplies,E00760
+ERR-0424,sector_free_text,crm,CRM-00773,sector,bouwmat.,Builders' merchant,E01413
+ERR-0425,sector_free_text,crm,CRM-00815,sector,Technische groothandel,Industrial supplies,E01794
+ERR-0426,sector_free_text,crm,CRM-00825,sector,building supplies,Builders' merchant,E00966
+ERR-0427,sector_free_text,crm,CRM-00847,sector,Bouwhandel,Builders' merchant,E00027
+ERR-0428,sector_free_text,crm,CRM-00856,sector,plumbing,Plumbing & heating,E01267
+ERR-0429,sector_free_text,crm,CRM-00881,sector,Électricité,Electrical wholesale,E01790
+ERR-0430,sector_free_text,crm,CRM-00882,sector,SHK-Großhandel,Plumbing & heating,E01740
+ERR-0431,sector_free_text,crm,CRM-00913,sector,Bouwhandel,Builders' merchant,E00173
+ERR-0432,sector_free_text,crm,CRM-00919,sector,Bouwhandel,Builders' merchant,E00596
+ERR-0433,sector_free_text,crm,CRM-00951,sector,Bouwhandel,Builders' merchant,E01007
+ERR-0434,sector_free_text,crm,CRM-00961,sector,Sonstiges,Other,E00061
+ERR-0435,sector_free_text,crm,CRM-00964,sector,Bouwhandel,Builders' merchant,E00562
+ERR-0436,sector_free_text,crm,CRM-00975,sector,industriële benodigdheden,Industrial supplies,E01415
+ERR-0437,sector_free_text,crm,CRM-00982,sector,Industriebedarf,Industrial supplies,E01299
+ERR-0438,sector_free_text,crm,CRM-00986,sector,elektro groothandel,Electrical wholesale,E00963
+ERR-0439,sector_free_text,crm,CRM-00990,sector,Baustoff-Fachhandel,Builders' merchant,E01739
+ERR-0440,sector_free_text,crm,CRM-01015,sector,Matériaux de construction,Builders' merchant,E01762
+ERR-0441,sector_free_text,crm,CRM-01027,sector,installatietechniek,Plumbing & heating,E00001
+ERR-0442,sector_free_text,crm,CRM-01032,sector,MRO supplies,Industrial supplies,E00274
+ERR-0443,sector_free_text,crm,CRM-01071,sector,Diversen,Other,E00334
+ERR-0444,sector_free_text,crm,CRM-01077,sector,matériel électrique,Electrical wholesale,E00384
+ERR-0445,sector_free_text,crm,CRM-01100,sector,Bouwmaterialen,Builders' merchant,E00919
+ERR-0446,sector_free_text,crm,CRM-01106,sector,bouwmat.,Builders' merchant,E00852
+ERR-0447,sector_free_text,crm,CRM-01110,sector,Technischer Handel,Industrial supplies,E00219
+ERR-0448,sector_free_text,crm,CRM-01142,sector,installatietechniek,Plumbing & heating,E00409
+ERR-0449,sector_free_text,crm,CRM-01144,sector,sanitair & verwarming,Plumbing & heating,E00526
+ERR-0450,sector_free_text,crm,CRM-01149,sector,Elec. wholesale,Electrical wholesale,E01269
+ERR-0451,sector_free_text,crm,CRM-01204,sector,Baustoff-Fachhandel,Builders' merchant,E00473
+ERR-0452,sector_free_text,crm,CRM-01230,sector,Sanitair,Plumbing & heating,E01836
+ERR-0453,sector_free_text,crm,CRM-01273,sector,SHK-Großhandel,Plumbing & heating,E00719
+ERR-0454,sector_free_text,crm,CRM-01281,sector,Plumbing/heating,Plumbing & heating,E00764
+ERR-0455,sector_free_text,crm,CRM-01325,sector,Sanitair,Plumbing & heating,E01711
+ERR-0456,sector_free_text,crm,CRM-01339,sector,Sanitair,Plumbing & heating,E00800
+ERR-0457,sector_free_text,crm,CRM-01358,sector,bouwmaterialenhandel,Builders' merchant,E00206
+ERR-0458,sector_free_text,crm,CRM-01363,sector,elektro groothandel,Electrical wholesale,E00951
+ERR-0459,sector_free_text,crm,CRM-01371,sector,Heizung/Sanitär,Plumbing & heating,E00946
+ERR-0460,sector_free_text,crm,CRM-01434,sector,installatietechniek,Plumbing & heating,E01857
+ERR-0461,sector_free_text,crm,CRM-01453,sector,Baustoff-Fachhandel,Builders' merchant,E00528
+ERR-0462,sector_free_text,crm,CRM-01467,sector,industriële benodigdheden,Industrial supplies,E00388
+ERR-0463,sector_free_text,crm,CRM-01476,sector,installatietechniek,Plumbing & heating,E01658
+ERR-0464,sector_free_text,crm,CRM-01504,sector,misc,Other,E01738
+ERR-0465,sector_free_text,crm,CRM-01510,sector,Sonstiges,Other,E01275
+ERR-0466,sector_free_text,crm,CRM-01534,sector,building supplies,Builders' merchant,E01184
+ERR-0467,sector_free_text,crm,CRM-01545,sector,Technischer Handel,Industrial supplies,E00647
+ERR-0468,sector_free_text,crm,CRM-01601,sector,Baustoffe,Builders' merchant,E00906
+ERR-0469,sector_free_text,crm,CRM-01609,sector,SHK-Großhandel,Plumbing & heating,E01194
+ERR-0470,sector_free_text,crm,CRM-01622,sector,industriële benodigdheden,Industrial supplies,E01824
+ERR-0471,sector_free_text,crm,CRM-01641,sector,Technische groothandel,Industrial supplies,E00006
+ERR-0472,sector_free_text,crm,CRM-01694,sector,installatietechniek,Plumbing & heating,E00368
+ERR-0473,sector_free_text,crm,CRM-01727,sector,HVAC & plumbing,Plumbing & heating,E00158
+ERR-0474,sector_free_text,crm,CRM-01752,sector,Technischer Handel,Industrial supplies,E01271
+ERR-0475,sector_free_text,crm,CRM-01753,sector,Elektrotechniek,Electrical wholesale,E01263
+ERR-0476,sector_free_text,crm,CRM-01784,sector,industriële benodigdheden,Industrial supplies,E00079
+ERR-0477,sector_free_text,crm,CRM-01789,sector,Plumbing/heating,Plumbing & heating,E00159
+ERR-0478,sector_free_text,crm,CRM-01790,sector,Bouwhandel,Builders' merchant,E01261
+ERR-0479,sector_free_text,crm,CRM-01818,sector,industriële benodigdheden,Industrial supplies,E01026
+ERR-0480,sector_free_text,crm,CRM-01830,sector,bouwmat.,Builders' merchant,E00655
+ERR-0481,sector_free_text,crm,CRM-01849,sector,Bouwhandel,Builders' merchant,E00190
+ERR-0482,sector_free_text,crm,CRM-01865,sector,bouwmat.,Builders' merchant,E01045
+ERR-0483,sector_free_text,crm,CRM-01898,sector,Plumbing/heating,Plumbing & heating,E00981
+ERR-0484,sector_free_text,crm,CRM-01899,sector,elektro groothandel,Electrical wholesale,E01534
+ERR-0485,sector_free_text,crm,CRM-01915,sector,Builders merchants,Builders' merchant,E01029
+ERR-0486,sector_free_text,crm,CRM-01918,sector,misc,Other,E01691
+ERR-0487,sector_free_text,crm,CRM-01919,sector,bouwmaterialenhandel,Builders' merchant,E00762
+ERR-0488,sector_free_text,crm,CRM-01933,sector,Matériaux de construction,Builders' merchant,E01639
+ERR-0489,sector_free_text,crm,CRM-01958,sector,bouwmaterialenhandel,Builders' merchant,E01384
+ERR-0490,sector_free_text,crm,CRM-01966,sector,Bouwhandel,Builders' merchant,E00472
+ERR-0491,sector_free_text,crm,CRM-01983,sector,Bouwmaterialen,Builders' merchant,E01582
+ERR-0492,sector_free_text,crm,CRM-01995,sector,Bouwmaterialen,Builders' merchant,E00250
+ERR-0493,status_renewal_contradiction,crm,CRM-00069,renewal_date,16-09-2027,03-05-2024,E01593
+ERR-0494,status_renewal_contradiction,crm,CRM-00088,renewal_date,08-05-2026,29-07-2027,E01059
+ERR-0495,status_renewal_contradiction,crm,CRM-00092,renewal_date,08-08-2027,14-06-2023,E00359
+ERR-0496,status_renewal_contradiction,crm,CRM-00137,renewal_date,19-09-2027,23-05-2025,E01891
+ERR-0497,status_renewal_contradiction,crm,CRM-00343,renewal_date,03-08-2026,09-12-2027,E00808
+ERR-0498,status_renewal_contradiction,crm,CRM-00382,renewal_date,18-07-2027,07-06-2026,E01841
+ERR-0499,status_renewal_contradiction,crm,CRM-00411,renewal_date,08-06-2026,27-07-2027,E00392
+ERR-0500,status_renewal_contradiction,crm,CRM-00436,renewal_date,01-06-2026,12-11-2027,E01380
+ERR-0501,status_renewal_contradiction,crm,CRM-00556,renewal_date,19-04-2026,10-09-2027,E00325
+ERR-0502,status_renewal_contradiction,crm,CRM-00581,renewal_date,19-11-2026,17-06-2027,E00769
+ERR-0503,status_renewal_contradiction,crm,CRM-00599,renewal_date,03-05-2027,29-12-2024,E01890
+ERR-0504,status_renewal_contradiction,crm,CRM-00614,renewal_date,03-07-2027,03-11-2024,E01422
+ERR-0505,status_renewal_contradiction,crm,CRM-00661,renewal_date,09-08-2027,12-04-2024,E00491
+ERR-0506,status_renewal_contradiction,crm,CRM-00663,renewal_date,16-09-2027,24-12-2025,E01796
+ERR-0507,status_renewal_contradiction,crm,CRM-00674,renewal_date,08-07-2026,24-05-2027,E01228
+ERR-0508,status_renewal_contradiction,crm,CRM-00679,renewal_date,19-04-2027,11-02-2023,E01729
+ERR-0509,status_renewal_contradiction,crm,CRM-00744,renewal_date,03-12-2025,28-02-2027,E00291
+ERR-0510,status_renewal_contradiction,crm,CRM-01014,renewal_date,07-07-2026,19-10-2027,E00928
+ERR-0511,status_renewal_contradiction,crm,CRM-01083,renewal_date,09-04-2027,29-07-2023,E01584
+ERR-0512,status_renewal_contradiction,crm,CRM-01120,renewal_date,10-10-2027,08-07-2023,E01675
+ERR-0513,status_renewal_contradiction,crm,CRM-01141,renewal_date,25-07-2026,16-07-2027,E01358
+ERR-0514,status_renewal_contradiction,crm,CRM-01152,renewal_date,12-10-2027,18-05-2024,E01572
+ERR-0515,status_renewal_contradiction,crm,CRM-01200,renewal_date,12-09-2027,12-09-2025,E01856
+ERR-0516,status_renewal_contradiction,crm,CRM-01377,renewal_date,17-10-2027,26-11-2025,E01847
+ERR-0517,status_renewal_contradiction,crm,CRM-01398,renewal_date,05-05-2026,16-08-2027,E00893
+ERR-0518,status_renewal_contradiction,crm,CRM-01438,renewal_date,11-11-2026,28-05-2027,E00044
+ERR-0519,status_renewal_contradiction,crm,CRM-01605,renewal_date,19-06-2027,16-03-2023,E01677
+ERR-0520,status_renewal_contradiction,crm,CRM-01729,renewal_date,01-02-2026,06-10-2027,E00083
+ERR-0521,status_renewal_contradiction,crm,CRM-01776,renewal_date,01-01-2026,12-12-2027,E00716
+ERR-0522,status_renewal_contradiction,crm,CRM-01912,renewal_date,15-06-2026,21-10-2027,E01387
+ERR-0523,wrong_sector,crm,CRM-00182,sector,Plumbing & heating,Builders' merchant,E01818
+ERR-0524,wrong_sector,crm,CRM-00190,sector,Builders' merchant,Plumbing & heating,E01784
+ERR-0525,wrong_sector,crm,CRM-00219,sector,Builders' merchant,Plumbing & heating,E00107
+ERR-0526,wrong_sector,crm,CRM-00245,sector,Electrical wholesale,Plumbing & heating,E01424
+ERR-0527,wrong_sector,crm,CRM-00418,sector,Plumbing & heating,Electrical wholesale,E01793
+ERR-0528,wrong_sector,crm,CRM-00424,sector,Builders' merchant,Industrial supplies,E01753
+ERR-0529,wrong_sector,crm,CRM-00441,sector,Builders' merchant,Industrial supplies,E01574
+ERR-0530,wrong_sector,crm,CRM-00447,sector,Builders' merchant,Industrial supplies,E00121
+ERR-0531,wrong_sector,crm,CRM-00578,sector,Electrical wholesale,Plumbing & heating,E01680
+ERR-0532,wrong_sector,crm,CRM-00739,sector,Electrical wholesale,Plumbing & heating,E01662
+ERR-0533,wrong_sector,crm,CRM-00757,sector,Electrical wholesale,Industrial supplies,E01331
+ERR-0534,wrong_sector,crm,CRM-00823,sector,Industrial supplies,Plumbing & heating,E01174
+ERR-0535,wrong_sector,crm,CRM-01076,sector,Builders' merchant,Electrical wholesale,E01512
+ERR-0536,wrong_sector,crm,CRM-01228,sector,Plumbing & heating,Industrial supplies,E00679
+ERR-0537,wrong_sector,crm,CRM-01262,sector,Electrical wholesale,Industrial supplies,E01731
+ERR-0538,wrong_sector,crm,CRM-01303,sector,Industrial supplies,Builders' merchant,E01129
+ERR-0539,wrong_sector,crm,CRM-01310,sector,Industrial supplies,Plumbing & heating,E00853
+ERR-0540,wrong_sector,crm,CRM-01428,sector,Industrial supplies,Plumbing & heating,E00026
+ERR-0541,wrong_sector,crm,CRM-01429,sector,Builders' merchant,Plumbing & heating,E00369
+ERR-0542,wrong_sector,crm,CRM-01565,sector,Builders' merchant,Electrical wholesale,E00625
+ERR-0543,wrong_sector,crm,CRM-01619,sector,Industrial supplies,Plumbing & heating,E01557
+ERR-0544,wrong_sector,crm,CRM-01639,sector,Builders' merchant,Electrical wholesale,E00947
+ERR-0545,wrong_sector,crm,CRM-01640,sector,Industrial supplies,Plumbing & heating,E00654
+ERR-0546,wrong_sector,crm,CRM-01750,sector,Industrial supplies,Plumbing & heating,E00196
+ERR-0547,wrong_sector,crm,CRM-01785,sector,Plumbing & heating,Industrial supplies,E00089
+ERR-0548,wrong_sector,crm,CRM-01901,sector,Electrical wholesale,Plumbing & heating,E00811
+ERR-0549,wrong_sector,crm,CRM-01908,sector,Electrical wholesale,Plumbing & heating,E00723
+ERR-0550,wrong_sector,crm,CRM-01934,sector,Electrical wholesale,Builders' merchant,E01406
+ERR-0551,wrong_sector,crm,CRM-01953,sector,Industrial supplies,Plumbing & heating,E00848
+ERR-0552,wrong_sector,crm,CRM-01956,sector,Plumbing & heating,Electrical wholesale,E00132
