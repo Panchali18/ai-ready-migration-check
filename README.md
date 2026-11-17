@@ -4,7 +4,7 @@
 
 > **Demonstration only. All data is synthetic.** Tollmere Software is a fictional company. Any resemblance to a real business is unintended.
 
-**Status:** in build. Synthetic data, ground truth and the 20 test questions are ready; the Snowflake build has not started.
+**Status:** in build. Synthetic data, ground truth, test questions, data dictionary and quality rules are ready; the Snowflake build has not started.
 
 ## The problem
 
@@ -60,6 +60,8 @@ The same customer often appears differently in each: a head office in one, a bra
 |---|---|
 | `docs/scope.md` | Decisions, user stories with acceptance criteria, assumptions and risks |
 | `docs/target-schema.md` | What a customer record must look like before go-live: required fields, formats, blockers and warnings |
+| `docs/data-dictionary.md` | Business definitions (revenue, active, lost customer) and the meaning of every field and table |
+| `docs/quality-rules.md` | Every rule and AI check: what it checks, why it matters, how to fix it |
 | `docs/business-questions.md` | The 20 sales-director questions asked before and after cleaning, and how answers are scored |
 | `generator/` | Python scripts that create the synthetic data and calculate the correct answers |
 | `data/` | Raw CRM and billing exports with planted errors, and the ground truth used for scoring (see `data/README.md`) |
